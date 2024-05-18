@@ -1,0 +1,60 @@
+﻿
+<!--==================== page content ====================-->
+<div class="page-section">
+    <!--=============================================
+       =            google map container         =
+       =============================================-->
+    <div class="container google-map-container mb-45">
+        <div id="google-map">
+            <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3724.691539793691!2d105.84129487446495!3d21.00499838063841!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3135add3c46cb161%3A0x463734da30e16629!2zxJDhuqFpIGjhu41jIELDoWNoIGtob2EgSMOgIE7hu5lpIC0gSGFub2kgVW5pdmVyc2l0eSBvZiBTY2llbmNlIGFuZCBUZWNobm9sb2d5!5e0!3m2!1svi!2s!4v1703753647526!5m2!1svi!2s" width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+        </div>
+    </div>
+    <!--=====  End of google map container  ======-->
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-2 col-md-12">
+            </div>
+            <div class="col-lg-8 col-md-12" style="margin-top: 30px; ">
+                <!--=======  contact form content  =======-->
+                <div class="contact-form-content">
+                    <fieldset>
+                        <legend>Đặt bàn tới chúng tôi</legend>
+                        <div class="contact-form">
+                            @using (Html.BeginForm("Contact", "Home", FormMethod.Post, new { @id = "contact-form", @class = "form-horizontal", @enctype = "multipart/form-data", @style = "Width: 100%" }))
+                            {
+                                <div class="form-group">
+                                    <label>Họ tên <span class="required">*</span></label>
+                                    <input type="text" name="Name" id="customername" class="form-control" required>
+                                </div>
+                                <div class="form-group">
+                                    <label>Email <span class="required">*</span></label>
+                                    <input type="email" name="Email" id="customerEmail" class="form-control" required>
+                                </div>
+                                <div class="form-group">
+                                    <label>Số điện thoại <span class="required">*</span></label>
+                                    <input type="text" name="Phone" id="customerPhone" class="form-control" required>
+                                </div>
+                                <div class="form-group">
+                                    <label>Tiêu đề</label>
+                                    <input type="text" name="Title" id="contactSubject" class="form-control">
+                                </div>
+                                <div class="form-group">
+                                    <label>Ghi chú</label>
+                                    <textarea name="Content" id="contactMessage" class="form-control"></textarea>
+                                </div>
+                                <div class="form-group mb-0">
+                                    <button type="submit" value="submit" id="submit" class="theme-button contact-button form-control btn btn-success" name="submit">Send</button>
+                                </div>
+                            }
+                        </div>
+                    </fieldset>                    
+                    <p class="form-messege pt-10 pb-10 mt-10 mb-10"></p>
+                </div>
+                <!--=======  End of contact form content =======-->
+            </div>
+            <div class="col-lg-2 col-md-12">
+            </div>
+        </div>
+    </div>
+</div>
+<!--=========

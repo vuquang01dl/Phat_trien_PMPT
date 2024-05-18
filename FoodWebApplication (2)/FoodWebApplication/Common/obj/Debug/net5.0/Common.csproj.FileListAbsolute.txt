@@ -1,0 +1,30 @@
+D:\FoodWebApplication\Common\bin\Debug\net5.0\Common.deps.json
+D:\FoodWebApplication\Common\bin\Debug\net5.0\Common.dll
+D:\FoodWebApplication\Common\bin\Debug\net5.0\Common.pdb
+D:\FoodWebApplication\Common\bin\Debug\net5.0\DTO.dll
+D:\FoodWebApplication\Common\bin\Debug\net5.0\DTO.pdb
+D:\FoodWebApplication\Common\obj\Debug\net5.0\Common.csproj.AssemblyReference.cache
+D:\FoodWebApplication\Common\obj\Debug\net5.0\Common.GeneratedMSBuildEditorConfig.editorconfig
+D:\FoodWebApplication\Common\obj\Debug\net5.0\Common.AssemblyInfoInputs.cache
+D:\FoodWebApplication\Common\obj\Debug\net5.0\Common.AssemblyInfo.cs
+D:\FoodWebApplication\Common\obj\Debug\net5.0\Common.csproj.CoreCompileInputs.cache
+D:\FoodWebApplication\Common\obj\Debug\net5.0\Common.csproj.CopyComplete
+D:\FoodWebApplication\Common\obj\Debug\net5.0\Common.dll
+D:\FoodWebApplication\Common\obj\Debug\net5.0\refint\Common.dll
+D:\FoodWebApplication\Common\obj\Debug\net5.0\Common.pdb
+D:\FoodWebApplication\Common\obj\Debug\net5.0\ref\Common.dll
+C:\Users\vuqua\OneDrive\Máy tính\FoodWebApplication (2)\FoodWebApplication\Common\bin\Debug\net5.0\Common.deps.json
+C:\Users\vuqua\OneDrive\Máy tính\FoodWebApplication (2)\FoodWebApplication\Common\bin\Debug\net5.0\Common.dll
+C:\Users\vuqua\OneDrive\Máy tính\FoodWebApplication (2)\FoodWebApplication\Common\bin\Debug\net5.0\Common.pdb
+C:\Users\vuqua\OneDrive\Máy tính\FoodWebApplication (2)\FoodWebApplication\Common\bin\Debug\net5.0\DTO.dll
+C:\Users\vuqua\OneDrive\Máy tính\FoodWebApplication (2)\FoodWebApplication\Common\bin\Debug\net5.0\DTO.pdb
+C:\Users\vuqua\OneDrive\Máy tính\FoodWebApplication (2)\FoodWebApplication\Common\obj\Debug\net5.0\Common.csproj.AssemblyReference.cache
+C:\Users\vuqua\OneDrive\Máy tính\FoodWebApplication (2)\FoodWebApplication\Common\obj\Debug\net5.0\Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vuqua\OneDrive\Máy tính\FoodWebApplication (2)\FoodWebApplication\Common\obj\Debug\net5.0\Common.AssemblyInfoInputs.cache
+C:\Users\vuqua\OneDrive\Máy tính\FoodWebApplication (2)\FoodWebApplication\Common\obj\Debug\net5.0\Common.AssemblyInfo.cs
+C:\Users\vuqua\OneDrive\Máy tính\FoodWebApplication (2)\FoodWebApplication\Common\obj\Debug\net5.0\Common.csproj.CoreCompileInputs.cache
+C:\Users\vuqua\OneDrive\Máy tính\FoodWebApplication (2)\FoodWebApplication\Common\obj\Debug\net5.0\Common.csproj.Up2Date
+C:\Users\vuqua\OneDrive\Máy tính\FoodWebApplication (2)\FoodWebApplication\Common\obj\Debug\net5.0\Common.dll
+C:\Users\vuqua\OneDrive\Máy tính\FoodWebApplication (2)\FoodWebApplication\Common\obj\Debug\net5.0\refint\Common.dll
+C:\Users\vuqua\OneDrive\Máy tính\FoodWebApplication (2)\FoodWebApplication\Common\obj\Debug\net5.0\Common.pdb
+C:\Users\vuqua\OneDrive\Máy tính\FoodWebApplication (2)\FoodWebApplication\Common\obj\Debug\net5.0\ref\Common.dll

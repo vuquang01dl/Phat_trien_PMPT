@@ -1,0 +1,12 @@
+﻿@{
+    Layout = "~/Areas/Admin/Views/Shared/_LayoutPage.cshtml";
+}
+@model DTO.User.UserDTO
+<div class="menu-management">
+    @await Html.PartialAsync("_breadcrumb", new Dictionary<string, string> { { "A", "Homepage" }, { "B", "User magement" }, { "C", "Thêm mới Tài Khoản" } }, new ViewDataDictionary(ViewData) { { "mHref", Url.Action("Index", "UserManagement", new { area = "Admin" }) }, { "mShowButton", "true" } })
+
+    @using (Html.BeginForm("New", "UserManagement", FormMethod.Post, new { @id = "form-create", @class = "form-horizontal needs-validation", @enctype = "multipart/form-data" }))
+    {
+        @await Html.PartialAsync("_Form", Model)
+    }
+</div>

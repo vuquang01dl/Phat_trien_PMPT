@@ -1,0 +1,47 @@
+﻿<div class="container" ng-controller="CartCtrl">
+    <div>
+        <table class="table table-striped">
+            <tbody>
+                <tr>
+                    <th style="text-align: left">Name</th>
+                    <th style="text-align: center">Food-Code</th>
+                    <th style="text-align: center">Modifie-Code</th>
+                    <th style="text-align: center">Price</th>
+                    <th style="text-align: center">Quantity</th>
+                    <th></th>
+                </tr>
+                <tr ng-repeat="item in Products">
+                    <td style="text-align: left" class="text-center" ng-bind="item.Name"> </td>
+                    <td style="text-align: center" class="text-left" ng-bind="item.ItemId"></td>
+                    <td style="text-align: center" class="text-right" ng-bind="item.ModifieCode"></td>
+                    <td style="text-align: center" class="text-right" ng-bind="item.Price"></td>
+                    <td style="text-align: center" class="text-right">
+
+                        <input type="number" ng-model="item.Quantity" ng-blur="ngBlurModal($index);" ng-change="UpdateQtyOrder($index);" class="input-text qty text" step="1" min="0" max="" value="1" title="SL" size="4" inputmode="numeric">
+                    </td>
+                    <td style="text-align: right" class="text-center">
+                        <a style="cursor:pointer" class="cart__remove" ng-click="RemoveItemOrder($index)">
+                            <small>Remove</small>
+                        </a>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+    </div>
+    <div>
+        <div>
+            <table class="table table-bordered">
+                <tbody>
+                    <tr>
+                        <td class="text-right"><strong>Total</strong></td>
+                        <td class="text-right">{{getTotal()}}</td>
+                    </tr>
+                </tbody>
+            </table>
+            <p class='text-right'>
+                <a href="@Url.Action("Index", "Cart")" class='btn btn-danger'><i class='fa fa-shopping-cart'></i> Cart</a>&nbsp;&nbsp;&nbsp;
+                <a href="@Url.Action("CheckOut", "Carts")" class='btn btn-success'><i class='fa fa-shopping-cart'></i> Confirm</a>
+            </p>
+        </div>
+    </div>
+</div>

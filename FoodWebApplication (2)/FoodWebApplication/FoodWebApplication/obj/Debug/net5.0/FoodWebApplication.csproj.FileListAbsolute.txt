@@ -1,0 +1,406 @@
+D:\FoodWebApplication\FoodWebApplication\bin\Debug\net5.0\appsettings.Development.json
+D:\FoodWebApplication\FoodWebApplication\bin\Debug\net5.0\appsettings.json
+D:\FoodWebApplication\FoodWebApplication\bin\Debug\net5.0\FoodWebApplication.exe
+D:\FoodWebApplication\FoodWebApplication\bin\Debug\net5.0\FoodWebApplication.deps.json
+D:\FoodWebApplication\FoodWebApplication\bin\Debug\net5.0\FoodWebApplication.runtimeconfig.json
+D:\FoodWebApplication\FoodWebApplication\bin\Debug\net5.0\FoodWebApplication.runtimeconfig.dev.json
+D:\FoodWebApplication\FoodWebApplication\bin\Debug\net5.0\FoodWebApplication.dll
+D:\FoodWebApplication\FoodWebApplication\bin\Debug\net5.0\FoodWebApplication.pdb
+D:\FoodWebApplication\FoodWebApplication\bin\Debug\net5.0\FoodWebApplication.Views.dll
+D:\FoodWebApplication\FoodWebApplication\bin\Debug\net5.0\FoodWebApplication.Views.pdb
+D:\FoodWebApplication\FoodWebApplication\bin\Debug\net5.0\AutoMapper.dll
+D:\FoodWebApplication\FoodWebApplication\bin\Debug\net5.0\Humanizer.dll
+D:\FoodWebApplication\FoodWebApplication\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\FoodWebApplication\FoodWebApplication\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\FoodWebApplication\FoodWebApplication\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\FoodWebApplication\FoodWebApplication\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+D:\FoodWebApplication\FoodWebApplication\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\FoodWebApplication\FoodWebApplication\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\FoodWebApplication\FoodWebApplication\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+D:\FoodWebApplication\FoodWebApplication\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\FoodWebApplication\FoodWebApplication\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\FoodWebApplication\FoodWebApplication\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+D:\FoodWebApplication\FoodWebApplication\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\FoodWebApplication\FoodWebApplication\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\FoodWebApplication\FoodWebApplication\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\FoodWebApplication\FoodWebApplication\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\FoodWebApplication\FoodWebApplication\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\FoodWebApplication\FoodWebApplication\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\FoodWebApplication\FoodWebApplication\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+D:\FoodWebApplication\FoodWebApplication\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\FoodWebApplication\FoodWebApplication\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\FoodWebApplication\FoodWebApplication\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\FoodWebApplication\FoodWebApplication\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\FoodWebApplication\FoodWebApplication\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\FoodWebApplication\FoodWebApplication\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\FoodWebApplication\FoodWebApplication\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\FoodWebApplication\FoodWebApplication\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\FoodWebApplication\FoodWebApplication\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\FoodWebApplication\FoodWebApplication\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+D:\FoodWebApplication\FoodWebApplication\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\FoodWebApplication\FoodWebApplication\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\FoodWebApplication\FoodWebApplication\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\FoodWebApplication\FoodWebApplication\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\FoodWebApplication\FoodWebApplication\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\FoodWebApplication\FoodWebApplication\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+D:\FoodWebApplication\FoodWebApplication\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+D:\FoodWebApplication\FoodWebApplication\bin\Debug\net5.0\System.Composition.Convention.dll
+D:\FoodWebApplication\FoodWebApplication\bin\Debug\net5.0\System.Composition.Hosting.dll
+D:\FoodWebApplication\FoodWebApplication\bin\Debug\net5.0\System.Composition.Runtime.dll
+D:\FoodWebApplication\FoodWebApplication\bin\Debug\net5.0\System.Composition.TypedParts.dll
+D:\FoodWebApplication\FoodWebApplication\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\FoodWebApplication\FoodWebApplication\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\FoodWebApplication\FoodWebApplication\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\FoodWebApplication\FoodWebApplication\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\FoodWebApplication\FoodWebApplication\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\FoodWebApplication\FoodWebApplication\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\FoodWebApplication\FoodWebApplication\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\FoodWebApplication\FoodWebApplication\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\FoodWebApplication\FoodWebApplication\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\FoodWebApplication\FoodWebApplication\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\FoodWebApplication\FoodWebApplication\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\FoodWebApplication\FoodWebApplication\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\FoodWebApplication\FoodWebApplication\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\FoodWebApplication\FoodWebApplication\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\FoodWebApplication\FoodWebApplication\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\FoodWebApplication\FoodWebApplication\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\FoodWebApplication\FoodWebApplication\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\FoodWebApplication\FoodWebApplication\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\FoodWebApplication\FoodWebApplication\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\FoodWebApplication\FoodWebApplication\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\FoodWebApplication\FoodWebApplication\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\FoodWebApplication\FoodWebApplication\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\FoodWebApplication\FoodWebApplication\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\FoodWebApplication\FoodWebApplication\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\FoodWebApplication\FoodWebApplication\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\FoodWebApplication\FoodWebApplication\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\FoodWebApplication\FoodWebApplication\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\FoodWebApplication\FoodWebApplication\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\FoodWebApplication\FoodWebApplication\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\FoodWebApplication\FoodWebApplication\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\FoodWebApplication\FoodWebApplication\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\FoodWebApplication\FoodWebApplication\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\FoodWebApplication\FoodWebApplication\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\FoodWebApplication\FoodWebApplication\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\FoodWebApplication\FoodWebApplication\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\FoodWebApplication\FoodWebApplication\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\FoodWebApplication\FoodWebApplication\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\FoodWebApplication\FoodWebApplication\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\FoodWebApplication\FoodWebApplication\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\FoodWebApplication\FoodWebApplication\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\FoodWebApplication\FoodWebApplication\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\FoodWebApplication\FoodWebApplication\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\FoodWebApplication\FoodWebApplication\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\FoodWebApplication\FoodWebApplication\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\FoodWebApplication\FoodWebApplication\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\FoodWebApplication\FoodWebApplication\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\FoodWebApplication\FoodWebApplication\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\FoodWebApplication\FoodWebApplication\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\FoodWebApplication\FoodWebApplication\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\FoodWebApplication\FoodWebApplication\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\FoodWebApplication\FoodWebApplication\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\FoodWebApplication\FoodWebApplication\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\FoodWebApplication\FoodWebApplication\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\FoodWebApplication\FoodWebApplication\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\FoodWebApplication\FoodWebApplication\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\FoodWebApplication\FoodWebApplication\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\FoodWebApplication\FoodWebApplication\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\FoodWebApplication\FoodWebApplication\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\FoodWebApplication\FoodWebApplication\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\FoodWebApplication\FoodWebApplication\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\FoodWebApplication\FoodWebApplication\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\FoodWebApplication\FoodWebApplication\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\FoodWebApplication\FoodWebApplication\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\FoodWebApplication\FoodWebApplication\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\FoodWebApplication\FoodWebApplication\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\FoodWebApplication\FoodWebApplication\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\FoodWebApplication\FoodWebApplication\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+D:\FoodWebApplication\FoodWebApplication\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+D:\FoodWebApplication\FoodWebApplication\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\FoodWebApplication\FoodWebApplication\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\FoodWebApplication\FoodWebApplication\bin\Debug\net5.0\BLL.dll
+D:\FoodWebApplication\FoodWebApplication\bin\Debug\net5.0\Common.dll
+D:\FoodWebApplication\FoodWebApplication\bin\Debug\net5.0\DTO.dll
+D:\FoodWebApplication\FoodWebApplication\bin\Debug\net5.0\Entities.dll
+D:\FoodWebApplication\FoodWebApplication\bin\Debug\net5.0\BLL.pdb
+D:\FoodWebApplication\FoodWebApplication\bin\Debug\net5.0\Entities.pdb
+D:\FoodWebApplication\FoodWebApplication\bin\Debug\net5.0\Common.pdb
+D:\FoodWebApplication\FoodWebApplication\bin\Debug\net5.0\DTO.pdb
+D:\FoodWebApplication\FoodWebApplication\obj\Debug\net5.0\FoodWebApplication.csproj.AssemblyReference.cache
+D:\FoodWebApplication\FoodWebApplication\obj\Debug\net5.0\FoodWebApplication.GeneratedMSBuildEditorConfig.editorconfig
+D:\FoodWebApplication\FoodWebApplication\obj\Debug\net5.0\FoodWebApplication.AssemblyInfoInputs.cache
+D:\FoodWebApplication\FoodWebApplication\obj\Debug\net5.0\FoodWebApplication.AssemblyInfo.cs
+D:\FoodWebApplication\FoodWebApplication\obj\Debug\net5.0\FoodWebApplication.csproj.CoreCompileInputs.cache
+D:\FoodWebApplication\FoodWebApplication\obj\Debug\net5.0\FoodWebApplication.MvcApplicationPartsAssemblyInfo.cs
+D:\FoodWebApplication\FoodWebApplication\obj\Debug\net5.0\FoodWebApplication.MvcApplicationPartsAssemblyInfo.cache
+D:\FoodWebApplication\FoodWebApplication\obj\Debug\net5.0\FoodWebApplication.RazorAssemblyInfo.cache
+D:\FoodWebApplication\FoodWebApplication\obj\Debug\net5.0\FoodWebApplication.RazorAssemblyInfo.cs
+D:\FoodWebApplication\FoodWebApplication\obj\Debug\net5.0\scopedcss\bundle\FoodWebApplication.styles.css
+D:\FoodWebApplication\FoodWebApplication\obj\Debug\net5.0\staticwebassets\FoodWebApplication.StaticWebAssets.Manifest.cache
+D:\FoodWebApplication\FoodWebApplication\obj\Debug\net5.0\staticwebassets\FoodWebApplication.StaticWebAssets.Pack.cache
+D:\FoodWebApplication\FoodWebApplication\obj\Debug\net5.0\staticwebassets\msbuild.FoodWebApplication.Microsoft.AspNetCore.StaticWebAssets.props
+D:\FoodWebApplication\FoodWebApplication\obj\Debug\net5.0\staticwebassets\msbuild.build.FoodWebApplication.props
+D:\FoodWebApplication\FoodWebApplication\obj\Debug\net5.0\staticwebassets\msbuild.buildMultiTargeting.FoodWebApplication.props
+D:\FoodWebApplication\FoodWebApplication\obj\Debug\net5.0\staticwebassets\msbuild.buildTransitive.FoodWebApplication.props
+D:\FoodWebApplication\FoodWebApplication\obj\Debug\net5.0\FoodWebApplication.TagHelpers.input.cache
+D:\FoodWebApplication\FoodWebApplication\obj\Debug\net5.0\FoodWebApplication.TagHelpers.output.cache
+D:\FoodWebApplication\FoodWebApplication\obj\Debug\net5.0\FoodWebApplication.RazorCoreGenerate.cache
+D:\FoodWebApplication\FoodWebApplication\obj\Debug\net5.0\Razor\Areas\Admin\Views\CategoriesManagement\Edit.cshtml.g.cs
+D:\FoodWebApplication\FoodWebApplication\obj\Debug\net5.0\Razor\Areas\Admin\Views\CategoriesManagement\Index.cshtml.g.cs
+D:\FoodWebApplication\FoodWebApplication\obj\Debug\net5.0\Razor\Areas\Admin\Views\CategoriesManagement\New.cshtml.g.cs
+D:\FoodWebApplication\FoodWebApplication\obj\Debug\net5.0\Razor\Areas\Admin\Views\CategoriesManagement\_Form.cshtml.g.cs
+D:\FoodWebApplication\FoodWebApplication\obj\Debug\net5.0\Razor\Areas\Admin\Views\CustomerManagement\Edit.cshtml.g.cs
+D:\FoodWebApplication\FoodWebApplication\obj\Debug\net5.0\Razor\Areas\Admin\Views\CustomerManagement\Index.cshtml.g.cs
+D:\FoodWebApplication\FoodWebApplication\obj\Debug\net5.0\Razor\Areas\Admin\Views\CustomerManagement\New.cshtml.g.cs
+D:\FoodWebApplication\FoodWebApplication\obj\Debug\net5.0\Razor\Areas\Admin\Views\CustomerManagement\_Form.cshtml.g.cs
+D:\FoodWebApplication\FoodWebApplication\obj\Debug\net5.0\Razor\Areas\Admin\Views\FoodManagement\Edit.cshtml.g.cs
+D:\FoodWebApplication\FoodWebApplication\obj\Debug\net5.0\Razor\Areas\Admin\Views\FoodManagement\Index.cshtml.g.cs
+D:\FoodWebApplication\FoodWebApplication\obj\Debug\net5.0\Razor\Areas\Admin\Views\FoodManagement\New.cshtml.g.cs
+D:\FoodWebApplication\FoodWebApplication\obj\Debug\net5.0\Razor\Areas\Admin\Views\FoodManagement\_Form.cshtml.g.cs
+D:\FoodWebApplication\FoodWebApplication\obj\Debug\net5.0\Razor\Areas\Admin\Views\HomeManagement\Index.cshtml.g.cs
+D:\FoodWebApplication\FoodWebApplication\obj\Debug\net5.0\Razor\Areas\Admin\Views\ModifierManagement\Edit.cshtml.g.cs
+D:\FoodWebApplication\FoodWebApplication\obj\Debug\net5.0\Razor\Areas\Admin\Views\ModifierManagement\Index.cshtml.g.cs
+D:\FoodWebApplication\FoodWebApplication\obj\Debug\net5.0\Razor\Areas\Admin\Views\ModifierManagement\New.cshtml.g.cs
+D:\FoodWebApplication\FoodWebApplication\obj\Debug\net5.0\Razor\Areas\Admin\Views\ModifierManagement\_Form.cshtml.g.cs
+D:\FoodWebApplication\FoodWebApplication\obj\Debug\net5.0\Razor\Areas\Admin\Views\OrderManagement\Index.cshtml.g.cs
+D:\FoodWebApplication\FoodWebApplication\obj\Debug\net5.0\Razor\Areas\Admin\Views\RestaurantManagement\Edit.cshtml.g.cs
+D:\FoodWebApplication\FoodWebApplication\obj\Debug\net5.0\Razor\Areas\Admin\Views\RestaurantManagement\Index.cshtml.g.cs
+D:\FoodWebApplication\FoodWebApplication\obj\Debug\net5.0\Razor\Areas\Admin\Views\RestaurantManagement\New.cshtml.g.cs
+D:\FoodWebApplication\FoodWebApplication\obj\Debug\net5.0\Razor\Areas\Admin\Views\RestaurantManagement\_Form.cshtml.g.cs
+D:\FoodWebApplication\FoodWebApplication\obj\Debug\net5.0\Razor\Areas\Admin\Views\RevenueManagement\Index.cshtml.g.cs
+D:\FoodWebApplication\FoodWebApplication\obj\Debug\net5.0\Razor\Areas\Admin\Views\Shared\_breadcrumb.cshtml.g.cs
+D:\FoodWebApplication\FoodWebApplication\obj\Debug\net5.0\Razor\Areas\Admin\Views\Shared\_LayoutPage.cshtml.g.cs
+D:\FoodWebApplication\FoodWebApplication\obj\Debug\net5.0\Razor\Areas\Admin\Views\UserManagement\Edit.cshtml.g.cs
+D:\FoodWebApplication\FoodWebApplication\obj\Debug\net5.0\Razor\Areas\Admin\Views\UserManagement\Index.cshtml.g.cs
+D:\FoodWebApplication\FoodWebApplication\obj\Debug\net5.0\Razor\Areas\Admin\Views\UserManagement\New.cshtml.g.cs
+D:\FoodWebApplication\FoodWebApplication\obj\Debug\net5.0\Razor\Areas\Admin\Views\UserManagement\_Form.cshtml.g.cs
+D:\FoodWebApplication\FoodWebApplication\obj\Debug\net5.0\Razor\Views\Account\SignIn.cshtml.g.cs
+D:\FoodWebApplication\FoodWebApplication\obj\Debug\net5.0\Razor\Views\Carts\CheckOut.cshtml.g.cs
+D:\FoodWebApplication\FoodWebApplication\obj\Debug\net5.0\Razor\Views\Carts\Index.cshtml.g.cs
+D:\FoodWebApplication\FoodWebApplication\obj\Debug\net5.0\Razor\Views\Home\About.cshtml.g.cs
+D:\FoodWebApplication\FoodWebApplication\obj\Debug\net5.0\Razor\Views\Home\Contact.cshtml.g.cs
+D:\FoodWebApplication\FoodWebApplication\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+D:\FoodWebApplication\FoodWebApplication\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\FoodWebApplication\FoodWebApplication\obj\Debug\net5.0\Razor\Views\Restaurant\Detail.cshtml.g.cs
+D:\FoodWebApplication\FoodWebApplication\obj\Debug\net5.0\Razor\Views\Restaurant\Index.cshtml.g.cs
+D:\FoodWebApplication\FoodWebApplication\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+D:\FoodWebApplication\FoodWebApplication\obj\Debug\net5.0\Razor\Views\Shared\_Footer.cshtml.g.cs
+D:\FoodWebApplication\FoodWebApplication\obj\Debug\net5.0\Razor\Views\Shared\_header.cshtml.g.cs
+D:\FoodWebApplication\FoodWebApplication\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\FoodWebApplication\FoodWebApplication\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\FoodWebApplication\FoodWebApplication\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+D:\FoodWebApplication\FoodWebApplication\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+D:\FoodWebApplication\FoodWebApplication\obj\Debug\net5.0\FoodWebApplication.RazorTargetAssemblyInfo.cache
+D:\FoodWebApplication\FoodWebApplication\obj\Debug\net5.0\FoodWebApplication.RazorTargetAssemblyInfo.cs
+D:\FoodWebApplication\FoodWebApplication\obj\Debug\net5.0\FoodWebApplication.Views.pdb
+D:\FoodWebApplication\FoodWebApplication\obj\Debug\net5.0\FoodWebApplication.csproj.CopyComplete
+D:\FoodWebApplication\FoodWebApplication\obj\Debug\net5.0\FoodWebApplication.dll
+D:\FoodWebApplication\FoodWebApplication\obj\Debug\net5.0\refint\FoodWebApplication.dll
+D:\FoodWebApplication\FoodWebApplication\obj\Debug\net5.0\FoodWebApplication.pdb
+D:\FoodWebApplication\FoodWebApplication\obj\Debug\net5.0\FoodWebApplication.genruntimeconfig.cache
+D:\FoodWebApplication\FoodWebApplication\obj\Debug\net5.0\ref\FoodWebApplication.dll
+D:\FoodWebApplication\FoodWebApplication\obj\Debug\net5.0\Razor\Views\Carts\ListOrderCustomer.cshtml.g.cs
+D:\FoodWebApplication\FoodWebApplication\obj\Debug\net5.0\Razor\Views\Account\Register.cshtml.g.cs
+C:\Users\vuqua\OneDrive\Máy tính\FoodWebApplication (2)\FoodWebApplication\FoodWebApplication\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\vuqua\OneDrive\Máy tính\FoodWebApplication (2)\FoodWebApplication\FoodWebApplication\bin\Debug\net5.0\appsettings.json
+C:\Users\vuqua\OneDrive\Máy tính\FoodWebApplication (2)\FoodWebApplication\FoodWebApplication\bin\Debug\net5.0\FoodWebApplication.exe
+C:\Users\vuqua\OneDrive\Máy tính\FoodWebApplication (2)\FoodWebApplication\FoodWebApplication\bin\Debug\net5.0\FoodWebApplication.deps.json
+C:\Users\vuqua\OneDrive\Máy tính\FoodWebApplication (2)\FoodWebApplication\FoodWebApplication\bin\Debug\net5.0\FoodWebApplication.runtimeconfig.json
+C:\Users\vuqua\OneDrive\Máy tính\FoodWebApplication (2)\FoodWebApplication\FoodWebApplication\bin\Debug\net5.0\FoodWebApplication.runtimeconfig.dev.json
+C:\Users\vuqua\OneDrive\Máy tính\FoodWebApplication (2)\FoodWebApplication\FoodWebApplication\bin\Debug\net5.0\FoodWebApplication.dll
+C:\Users\vuqua\OneDrive\Máy tính\FoodWebApplication (2)\FoodWebApplication\FoodWebApplication\bin\Debug\net5.0\FoodWebApplication.pdb
+C:\Users\vuqua\OneDrive\Máy tính\FoodWebApplication (2)\FoodWebApplication\FoodWebApplication\bin\Debug\net5.0\FoodWebApplication.Views.dll
+C:\Users\vuqua\OneDrive\Máy tính\FoodWebApplication (2)\FoodWebApplication\FoodWebApplication\bin\Debug\net5.0\FoodWebApplication.Views.pdb
+C:\Users\vuqua\OneDrive\Máy tính\FoodWebApplication (2)\FoodWebApplication\FoodWebApplication\bin\Debug\net5.0\AutoMapper.dll
+C:\Users\vuqua\OneDrive\Máy tính\FoodWebApplication (2)\FoodWebApplication\FoodWebApplication\bin\Debug\net5.0\Humanizer.dll
+C:\Users\vuqua\OneDrive\Máy tính\FoodWebApplication (2)\FoodWebApplication\FoodWebApplication\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\vuqua\OneDrive\Máy tính\FoodWebApplication (2)\FoodWebApplication\FoodWebApplication\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\vuqua\OneDrive\Máy tính\FoodWebApplication (2)\FoodWebApplication\FoodWebApplication\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\vuqua\OneDrive\Máy tính\FoodWebApplication (2)\FoodWebApplication\FoodWebApplication\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+C:\Users\vuqua\OneDrive\Máy tính\FoodWebApplication (2)\FoodWebApplication\FoodWebApplication\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\vuqua\OneDrive\Máy tính\FoodWebApplication (2)\FoodWebApplication\FoodWebApplication\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\vuqua\OneDrive\Máy tính\FoodWebApplication (2)\FoodWebApplication\FoodWebApplication\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\vuqua\OneDrive\Máy tính\FoodWebApplication (2)\FoodWebApplication\FoodWebApplication\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\vuqua\OneDrive\Máy tính\FoodWebApplication (2)\FoodWebApplication\FoodWebApplication\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\vuqua\OneDrive\Máy tính\FoodWebApplication (2)\FoodWebApplication\FoodWebApplication\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\vuqua\OneDrive\Máy tính\FoodWebApplication (2)\FoodWebApplication\FoodWebApplication\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\vuqua\OneDrive\Máy tính\FoodWebApplication (2)\FoodWebApplication\FoodWebApplication\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\vuqua\OneDrive\Máy tính\FoodWebApplication (2)\FoodWebApplication\FoodWebApplication\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\vuqua\OneDrive\Máy tính\FoodWebApplication (2)\FoodWebApplication\FoodWebApplication\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\vuqua\OneDrive\Máy tính\FoodWebApplication (2)\FoodWebApplication\FoodWebApplication\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\vuqua\OneDrive\Máy tính\FoodWebApplication (2)\FoodWebApplication\FoodWebApplication\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\vuqua\OneDrive\Máy tính\FoodWebApplication (2)\FoodWebApplication\FoodWebApplication\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\vuqua\OneDrive\Máy tính\FoodWebApplication (2)\FoodWebApplication\FoodWebApplication\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\vuqua\OneDrive\Máy tính\FoodWebApplication (2)\FoodWebApplication\FoodWebApplication\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\vuqua\OneDrive\Máy tính\FoodWebApplication (2)\FoodWebApplication\FoodWebApplication\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\vuqua\OneDrive\Máy tính\FoodWebApplication (2)\FoodWebApplication\FoodWebApplication\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\vuqua\OneDrive\Máy tính\FoodWebApplication (2)\FoodWebApplication\FoodWebApplication\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\vuqua\OneDrive\Máy tính\FoodWebApplication (2)\FoodWebApplication\FoodWebApplication\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\vuqua\OneDrive\Máy tính\FoodWebApplication (2)\FoodWebApplication\FoodWebApplication\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\vuqua\OneDrive\Máy tính\FoodWebApplication (2)\FoodWebApplication\FoodWebApplication\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\vuqua\OneDrive\Máy tính\FoodWebApplication (2)\FoodWebApplication\FoodWebApplication\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\vuqua\OneDrive\Máy tính\FoodWebApplication (2)\FoodWebApplication\FoodWebApplication\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\vuqua\OneDrive\Máy tính\FoodWebApplication (2)\FoodWebApplication\FoodWebApplication\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\vuqua\OneDrive\Máy tính\FoodWebApplication (2)\FoodWebApplication\FoodWebApplication\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\vuqua\OneDrive\Máy tính\FoodWebApplication (2)\FoodWebApplication\FoodWebApplication\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\vuqua\OneDrive\Máy tính\FoodWebApplication (2)\FoodWebApplication\FoodWebApplication\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\vuqua\OneDrive\Máy tính\FoodWebApplication (2)\FoodWebApplication\FoodWebApplication\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\vuqua\OneDrive\Máy tính\FoodWebApplication (2)\FoodWebApplication\FoodWebApplication\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+C:\Users\vuqua\OneDrive\Máy tính\FoodWebApplication (2)\FoodWebApplication\FoodWebApplication\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+C:\Users\vuqua\OneDrive\Máy tính\FoodWebApplication (2)\FoodWebApplication\FoodWebApplication\bin\Debug\net5.0\System.Composition.Convention.dll
+C:\Users\vuqua\OneDrive\Máy tính\FoodWebApplication (2)\FoodWebApplication\FoodWebApplication\bin\Debug\net5.0\System.Composition.Hosting.dll
+C:\Users\vuqua\OneDrive\Máy tính\FoodWebApplication (2)\FoodWebApplication\FoodWebApplication\bin\Debug\net5.0\System.Composition.Runtime.dll
+C:\Users\vuqua\OneDrive\Máy tính\FoodWebApplication (2)\FoodWebApplication\FoodWebApplication\bin\Debug\net5.0\System.Composition.TypedParts.dll
+C:\Users\vuqua\OneDrive\Máy tính\FoodWebApplication (2)\FoodWebApplication\FoodWebApplication\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\vuqua\OneDrive\Máy tính\FoodWebApplication (2)\FoodWebApplication\FoodWebApplication\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\vuqua\OneDrive\Máy tính\FoodWebApplication (2)\FoodWebApplication\FoodWebApplication\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\vuqua\OneDrive\Máy tính\FoodWebApplication (2)\FoodWebApplication\FoodWebApplication\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\vuqua\OneDrive\Máy tính\FoodWebApplication (2)\FoodWebApplication\FoodWebApplication\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\vuqua\OneDrive\Máy tính\FoodWebApplication (2)\FoodWebApplication\FoodWebApplication\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\vuqua\OneDrive\Máy tính\FoodWebApplication (2)\FoodWebApplication\FoodWebApplication\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\vuqua\OneDrive\Máy tính\FoodWebApplication (2)\FoodWebApplication\FoodWebApplication\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\vuqua\OneDrive\Máy tính\FoodWebApplication (2)\FoodWebApplication\FoodWebApplication\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\vuqua\OneDrive\Máy tính\FoodWebApplication (2)\FoodWebApplication\FoodWebApplication\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\vuqua\OneDrive\Máy tính\FoodWebApplication (2)\FoodWebApplication\FoodWebApplication\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\vuqua\OneDrive\Máy tính\FoodWebApplication (2)\FoodWebApplication\FoodWebApplication\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\vuqua\OneDrive\Máy tính\FoodWebApplication (2)\FoodWebApplication\FoodWebApplication\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\vuqua\OneDrive\Máy tính\FoodWebApplication (2)\FoodWebApplication\FoodWebApplication\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\vuqua\OneDrive\Máy tính\FoodWebApplication (2)\FoodWebApplication\FoodWebApplication\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\vuqua\OneDrive\Máy tính\FoodWebApplication (2)\FoodWebApplication\FoodWebApplication\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\vuqua\OneDrive\Máy tính\FoodWebApplication (2)\FoodWebApplication\FoodWebApplication\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\vuqua\OneDrive\Máy tính\FoodWebApplication (2)\FoodWebApplication\FoodWebApplication\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\vuqua\OneDrive\Máy tính\FoodWebApplication (2)\FoodWebApplication\FoodWebApplication\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\vuqua\OneDrive\Máy tính\FoodWebApplication (2)\FoodWebApplication\FoodWebApplication\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\vuqua\OneDrive\Máy tính\FoodWebApplication (2)\FoodWebApplication\FoodWebApplication\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\vuqua\OneDrive\Máy tính\FoodWebApplication (2)\FoodWebApplication\FoodWebApplication\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\vuqua\OneDrive\Máy tính\FoodWebApplication (2)\FoodWebApplication\FoodWebApplication\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\vuqua\OneDrive\Máy tính\FoodWebApplication (2)\FoodWebApplication\FoodWebApplication\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\vuqua\OneDrive\Máy tính\FoodWebApplication (2)\FoodWebApplication\FoodWebApplication\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\vuqua\OneDrive\Máy tính\FoodWebApplication (2)\FoodWebApplication\FoodWebApplication\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\vuqua\OneDrive\Máy tính\FoodWebApplication (2)\FoodWebApplication\FoodWebApplication\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\vuqua\OneDrive\Máy tính\FoodWebApplication (2)\FoodWebApplication\FoodWebApplication\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\vuqua\OneDrive\Máy tính\FoodWebApplication (2)\FoodWebApplication\FoodWebApplication\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\vuqua\OneDrive\Máy tính\FoodWebApplication (2)\FoodWebApplication\FoodWebApplication\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\vuqua\OneDrive\Máy tính\FoodWebApplication (2)\FoodWebApplication\FoodWebApplication\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\vuqua\OneDrive\Máy tính\FoodWebApplication (2)\FoodWebApplication\FoodWebApplication\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\vuqua\OneDrive\Máy tính\FoodWebApplication (2)\FoodWebApplication\FoodWebApplication\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\vuqua\OneDrive\Máy tính\FoodWebApplication (2)\FoodWebApplication\FoodWebApplication\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\vuqua\OneDrive\Máy tính\FoodWebApplication (2)\FoodWebApplication\FoodWebApplication\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\vuqua\OneDrive\Máy tính\FoodWebApplication (2)\FoodWebApplication\FoodWebApplication\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\vuqua\OneDrive\Máy tính\FoodWebApplication (2)\FoodWebApplication\FoodWebApplication\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\vuqua\OneDrive\Máy tính\FoodWebApplication (2)\FoodWebApplication\FoodWebApplication\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\vuqua\OneDrive\Máy tính\FoodWebApplication (2)\FoodWebApplication\FoodWebApplication\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\vuqua\OneDrive\Máy tính\FoodWebApplication (2)\FoodWebApplication\FoodWebApplication\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\vuqua\OneDrive\Máy tính\FoodWebApplication (2)\FoodWebApplication\FoodWebApplication\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\vuqua\OneDrive\Máy tính\FoodWebApplication (2)\FoodWebApplication\FoodWebApplication\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\vuqua\OneDrive\Máy tính\FoodWebApplication (2)\FoodWebApplication\FoodWebApplication\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\vuqua\OneDrive\Máy tính\FoodWebApplication (2)\FoodWebApplication\FoodWebApplication\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\vuqua\OneDrive\Máy tính\FoodWebApplication (2)\FoodWebApplication\FoodWebApplication\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\vuqua\OneDrive\Máy tính\FoodWebApplication (2)\FoodWebApplication\FoodWebApplication\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\vuqua\OneDrive\Máy tính\FoodWebApplication (2)\FoodWebApplication\FoodWebApplication\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\vuqua\OneDrive\Máy tính\FoodWebApplication (2)\FoodWebApplication\FoodWebApplication\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\vuqua\OneDrive\Máy tính\FoodWebApplication (2)\FoodWebApplication\FoodWebApplication\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\vuqua\OneDrive\Máy tính\FoodWebApplication (2)\FoodWebApplication\FoodWebApplication\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\vuqua\OneDrive\Máy tính\FoodWebApplication (2)\FoodWebApplication\FoodWebApplication\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\vuqua\OneDrive\Máy tính\FoodWebApplication (2)\FoodWebApplication\FoodWebApplication\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\vuqua\OneDrive\Máy tính\FoodWebApplication (2)\FoodWebApplication\FoodWebApplication\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\vuqua\OneDrive\Máy tính\FoodWebApplication (2)\FoodWebApplication\FoodWebApplication\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\vuqua\OneDrive\Máy tính\FoodWebApplication (2)\FoodWebApplication\FoodWebApplication\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\vuqua\OneDrive\Máy tính\FoodWebApplication (2)\FoodWebApplication\FoodWebApplication\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\vuqua\OneDrive\Máy tính\FoodWebApplication (2)\FoodWebApplication\FoodWebApplication\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\vuqua\OneDrive\Máy tính\FoodWebApplication (2)\FoodWebApplication\FoodWebApplication\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\vuqua\OneDrive\Máy tính\FoodWebApplication (2)\FoodWebApplication\FoodWebApplication\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\vuqua\OneDrive\Máy tính\FoodWebApplication (2)\FoodWebApplication\FoodWebApplication\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\vuqua\OneDrive\Máy tính\FoodWebApplication (2)\FoodWebApplication\FoodWebApplication\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\vuqua\OneDrive\Máy tính\FoodWebApplication (2)\FoodWebApplication\FoodWebApplication\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\vuqua\OneDrive\Máy tính\FoodWebApplication (2)\FoodWebApplication\FoodWebApplication\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\vuqua\OneDrive\Máy tính\FoodWebApplication (2)\FoodWebApplication\FoodWebApplication\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\vuqua\OneDrive\Máy tính\FoodWebApplication (2)\FoodWebApplication\FoodWebApplication\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\vuqua\OneDrive\Máy tính\FoodWebApplication (2)\FoodWebApplication\FoodWebApplication\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\vuqua\OneDrive\Máy tính\FoodWebApplication (2)\FoodWebApplication\FoodWebApplication\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\vuqua\OneDrive\Máy tính\FoodWebApplication (2)\FoodWebApplication\FoodWebApplication\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\vuqua\OneDrive\Máy tính\FoodWebApplication (2)\FoodWebApplication\FoodWebApplication\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\vuqua\OneDrive\Máy tính\FoodWebApplication (2)\FoodWebApplication\FoodWebApplication\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\vuqua\OneDrive\Máy tính\FoodWebApplication (2)\FoodWebApplication\FoodWebApplication\bin\Debug\net5.0\BLL.dll
+C:\Users\vuqua\OneDrive\Máy tính\FoodWebApplication (2)\FoodWebApplication\FoodWebApplication\bin\Debug\net5.0\Common.dll
+C:\Users\vuqua\OneDrive\Máy tính\FoodWebApplication (2)\FoodWebApplication\FoodWebApplication\bin\Debug\net5.0\DTO.dll
+C:\Users\vuqua\OneDrive\Máy tính\FoodWebApplication (2)\FoodWebApplication\FoodWebApplication\bin\Debug\net5.0\Entities.dll
+C:\Users\vuqua\OneDrive\Máy tính\FoodWebApplication (2)\FoodWebApplication\FoodWebApplication\bin\Debug\net5.0\BLL.pdb
+C:\Users\vuqua\OneDrive\Máy tính\FoodWebApplication (2)\FoodWebApplication\FoodWebApplication\bin\Debug\net5.0\Entities.pdb
+C:\Users\vuqua\OneDrive\Máy tính\FoodWebApplication (2)\FoodWebApplication\FoodWebApplication\bin\Debug\net5.0\Common.pdb
+C:\Users\vuqua\OneDrive\Máy tính\FoodWebApplication (2)\FoodWebApplication\FoodWebApplication\bin\Debug\net5.0\DTO.pdb
+C:\Users\vuqua\OneDrive\Máy tính\FoodWebApplication (2)\FoodWebApplication\FoodWebApplication\obj\Debug\net5.0\FoodWebApplication.csproj.AssemblyReference.cache
+C:\Users\vuqua\OneDrive\Máy tính\FoodWebApplication (2)\FoodWebApplication\FoodWebApplication\obj\Debug\net5.0\FoodWebApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vuqua\OneDrive\Máy tính\FoodWebApplication (2)\FoodWebApplication\FoodWebApplication\obj\Debug\net5.0\FoodWebApplication.AssemblyInfoInputs.cache
+C:\Users\vuqua\OneDrive\Máy tính\FoodWebApplication (2)\FoodWebApplication\FoodWebApplication\obj\Debug\net5.0\FoodWebApplication.AssemblyInfo.cs
+C:\Users\vuqua\OneDrive\Máy tính\FoodWebApplication (2)\FoodWebApplication\FoodWebApplication\obj\Debug\net5.0\FoodWebApplication.csproj.CoreCompileInputs.cache
+C:\Users\vuqua\OneDrive\Máy tính\FoodWebApplication (2)\FoodWebApplication\FoodWebApplication\obj\Debug\net5.0\FoodWebApplication.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\vuqua\OneDrive\Máy tính\FoodWebApplication (2)\FoodWebApplication\FoodWebApplication\obj\Debug\net5.0\FoodWebApplication.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\vuqua\OneDrive\Máy tính\FoodWebApplication (2)\FoodWebApplication\FoodWebApplication\obj\Debug\net5.0\FoodWebApplication.RazorAssemblyInfo.cache
+C:\Users\vuqua\OneDrive\Máy tính\FoodWebApplication (2)\FoodWebApplication\FoodWebApplication\obj\Debug\net5.0\FoodWebApplication.RazorAssemblyInfo.cs
+C:\Users\vuqua\OneDrive\Máy tính\FoodWebApplication (2)\FoodWebApplication\FoodWebApplication\obj\Debug\net5.0\FoodWebApplication.TagHelpers.input.cache
+C:\Users\vuqua\OneDrive\Máy tính\FoodWebApplication (2)\FoodWebApplication\FoodWebApplication\obj\Debug\net5.0\FoodWebApplication.TagHelpers.output.cache
+C:\Users\vuqua\OneDrive\Máy tính\FoodWebApplication (2)\FoodWebApplication\FoodWebApplication\obj\Debug\net5.0\FoodWebApplication.RazorCoreGenerate.cache
+C:\Users\vuqua\OneDrive\Máy tính\FoodWebApplication (2)\FoodWebApplication\FoodWebApplication\obj\Debug\net5.0\Razor\Areas\Admin\Views\CategoriesManagement\Edit.cshtml.g.cs
+C:\Users\vuqua\OneDrive\Máy tính\FoodWebApplication (2)\FoodWebApplication\FoodWebApplication\obj\Debug\net5.0\Razor\Areas\Admin\Views\CategoriesManagement\Index.cshtml.g.cs
+C:\Users\vuqua\OneDrive\Máy tính\FoodWebApplication (2)\FoodWebApplication\FoodWebApplication\obj\Debug\net5.0\Razor\Areas\Admin\Views\CategoriesManagement\New.cshtml.g.cs
+C:\Users\vuqua\OneDrive\Máy tính\FoodWebApplication (2)\FoodWebApplication\FoodWebApplication\obj\Debug\net5.0\Razor\Areas\Admin\Views\CategoriesManagement\_Form.cshtml.g.cs
+C:\Users\vuqua\OneDrive\Máy tính\FoodWebApplication (2)\FoodWebApplication\FoodWebApplication\obj\Debug\net5.0\Razor\Areas\Admin\Views\CustomerManagement\Edit.cshtml.g.cs
+C:\Users\vuqua\OneDrive\Máy tính\FoodWebApplication (2)\FoodWebApplication\FoodWebApplication\obj\Debug\net5.0\Razor\Areas\Admin\Views\CustomerManagement\Index.cshtml.g.cs
+C:\Users\vuqua\OneDrive\Máy tính\FoodWebApplication (2)\FoodWebApplication\FoodWebApplication\obj\Debug\net5.0\Razor\Areas\Admin\Views\CustomerManagement\New.cshtml.g.cs
+C:\Users\vuqua\OneDrive\Máy tính\FoodWebApplication (2)\FoodWebApplication\FoodWebApplication\obj\Debug\net5.0\Razor\Areas\Admin\Views\CustomerManagement\_Form.cshtml.g.cs
+C:\Users\vuqua\OneDrive\Máy tính\FoodWebApplication (2)\FoodWebApplication\FoodWebApplication\obj\Debug\net5.0\Razor\Areas\Admin\Views\FoodManagement\Edit.cshtml.g.cs
+C:\Users\vuqua\OneDrive\Máy tính\FoodWebApplication (2)\FoodWebApplication\FoodWebApplication\obj\Debug\net5.0\Razor\Areas\Admin\Views\FoodManagement\Index.cshtml.g.cs
+C:\Users\vuqua\OneDrive\Máy tính\FoodWebApplication (2)\FoodWebApplication\FoodWebApplication\obj\Debug\net5.0\Razor\Areas\Admin\Views\FoodManagement\New.cshtml.g.cs
+C:\Users\vuqua\OneDrive\Máy tính\FoodWebApplication (2)\FoodWebApplication\FoodWebApplication\obj\Debug\net5.0\Razor\Areas\Admin\Views\FoodManagement\_Form.cshtml.g.cs
+C:\Users\vuqua\OneDrive\Máy tính\FoodWebApplication (2)\FoodWebApplication\FoodWebApplication\obj\Debug\net5.0\Razor\Areas\Admin\Views\HomeManagement\Index.cshtml.g.cs
+C:\Users\vuqua\OneDrive\Máy tính\FoodWebApplication (2)\FoodWebApplication\FoodWebApplication\obj\Debug\net5.0\Razor\Areas\Admin\Views\ModifierManagement\Edit.cshtml.g.cs
+C:\Users\vuqua\OneDrive\Máy tính\FoodWebApplication (2)\FoodWebApplication\FoodWebApplication\obj\Debug\net5.0\Razor\Areas\Admin\Views\ModifierManagement\Index.cshtml.g.cs
+C:\Users\vuqua\OneDrive\Máy tính\FoodWebApplication (2)\FoodWebApplication\FoodWebApplication\obj\Debug\net5.0\Razor\Areas\Admin\Views\ModifierManagement\New.cshtml.g.cs
+C:\Users\vuqua\OneDrive\Máy tính\FoodWebApplication (2)\FoodWebApplication\FoodWebApplication\obj\Debug\net5.0\Razor\Areas\Admin\Views\ModifierManagement\_Form.cshtml.g.cs
+C:\Users\vuqua\OneDrive\Máy tính\FoodWebApplication (2)\FoodWebApplication\FoodWebApplication\obj\Debug\net5.0\Razor\Areas\Admin\Views\OrderManagement\Index.cshtml.g.cs
+C:\Users\vuqua\OneDrive\Máy tính\FoodWebApplication (2)\FoodWebApplication\FoodWebApplication\obj\Debug\net5.0\Razor\Areas\Admin\Views\RestaurantManagement\Edit.cshtml.g.cs
+C:\Users\vuqua\OneDrive\Máy tính\FoodWebApplication (2)\FoodWebApplication\FoodWebApplication\obj\Debug\net5.0\Razor\Areas\Admin\Views\RestaurantManagement\Index.cshtml.g.cs
+C:\Users\vuqua\OneDrive\Máy tính\FoodWebApplication (2)\FoodWebApplication\FoodWebApplication\obj\Debug\net5.0\Razor\Areas\Admin\Views\RestaurantManagement\New.cshtml.g.cs
+C:\Users\vuqua\OneDrive\Máy tính\FoodWebApplication (2)\FoodWebApplication\FoodWebApplication\obj\Debug\net5.0\Razor\Areas\Admin\Views\RestaurantManagement\_Form.cshtml.g.cs
+C:\Users\vuqua\OneDrive\Máy tính\FoodWebApplication (2)\FoodWebApplication\FoodWebApplication\obj\Debug\net5.0\Razor\Areas\Admin\Views\RevenueManagement\Index.cshtml.g.cs
+C:\Users\vuqua\OneDrive\Máy tính\FoodWebApplication (2)\FoodWebApplication\FoodWebApplication\obj\Debug\net5.0\Razor\Areas\Admin\Views\Shared\_breadcrumb.cshtml.g.cs
+C:\Users\vuqua\OneDrive\Máy tính\FoodWebApplication (2)\FoodWebApplication\FoodWebApplication\obj\Debug\net5.0\Razor\Areas\Admin\Views\Shared\_LayoutPage.cshtml.g.cs
+C:\Users\vuqua\OneDrive\Máy tính\FoodWebApplication (2)\FoodWebApplication\FoodWebApplication\obj\Debug\net5.0\Razor\Areas\Admin\Views\UserManagement\Edit.cshtml.g.cs
+C:\Users\vuqua\OneDrive\Máy tính\FoodWebApplication (2)\FoodWebApplication\FoodWebApplication\obj\Debug\net5.0\Razor\Areas\Admin\Views\UserManagement\Index.cshtml.g.cs
+C:\Users\vuqua\OneDrive\Máy tính\FoodWebApplication (2)\FoodWebApplication\FoodWebApplication\obj\Debug\net5.0\Razor\Areas\Admin\Views\UserManagement\New.cshtml.g.cs
+C:\Users\vuqua\OneDrive\Máy tính\FoodWebApplication (2)\FoodWebApplication\FoodWebApplication\obj\Debug\net5.0\Razor\Areas\Admin\Views\UserManagement\_Form.cshtml.g.cs
+C:\Users\vuqua\OneDrive\Máy tính\FoodWebApplication (2)\FoodWebApplication\FoodWebApplication\obj\Debug\net5.0\Razor\Views\Account\Register.cshtml.g.cs
+C:\Users\vuqua\OneDrive\Máy tính\FoodWebApplication (2)\FoodWebApplication\FoodWebApplication\obj\Debug\net5.0\Razor\Views\Account\SignIn.cshtml.g.cs
+C:\Users\vuqua\OneDrive\Máy tính\FoodWebApplication (2)\FoodWebApplication\FoodWebApplication\obj\Debug\net5.0\Razor\Views\Carts\CheckOut.cshtml.g.cs
+C:\Users\vuqua\OneDrive\Máy tính\FoodWebApplication (2)\FoodWebApplication\FoodWebApplication\obj\Debug\net5.0\Razor\Views\Carts\Index.cshtml.g.cs
+C:\Users\vuqua\OneDrive\Máy tính\FoodWebApplication (2)\FoodWebApplication\FoodWebApplication\obj\Debug\net5.0\Razor\Views\Carts\ListOrderCustomer.cshtml.g.cs
+C:\Users\vuqua\OneDrive\Máy tính\FoodWebApplication (2)\FoodWebApplication\FoodWebApplication\obj\Debug\net5.0\Razor\Views\Home\About.cshtml.g.cs
+C:\Users\vuqua\OneDrive\Máy tính\FoodWebApplication (2)\FoodWebApplication\FoodWebApplication\obj\Debug\net5.0\Razor\Views\Home\Contact.cshtml.g.cs
+C:\Users\vuqua\OneDrive\Máy tính\FoodWebApplication (2)\FoodWebApplication\FoodWebApplication\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\vuqua\OneDrive\Máy tính\FoodWebApplication (2)\FoodWebApplication\FoodWebApplication\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\vuqua\OneDrive\Máy tính\FoodWebApplication (2)\FoodWebApplication\FoodWebApplication\obj\Debug\net5.0\Razor\Views\Restaurant\Detail.cshtml.g.cs
+C:\Users\vuqua\OneDrive\Máy tính\FoodWebApplication (2)\FoodWebApplication\FoodWebApplication\obj\Debug\net5.0\Razor\Views\Restaurant\Index.cshtml.g.cs
+C:\Users\vuqua\OneDrive\Máy tính\FoodWebApplication (2)\FoodWebApplication\FoodWebApplication\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\vuqua\OneDrive\Máy tính\FoodWebApplication (2)\FoodWebApplication\FoodWebApplication\obj\Debug\net5.0\Razor\Views\Shared\_Footer.cshtml.g.cs
+C:\Users\vuqua\OneDrive\Máy tính\FoodWebApplication (2)\FoodWebApplication\FoodWebApplication\obj\Debug\net5.0\Razor\Views\Shared\_header.cshtml.g.cs
+C:\Users\vuqua\OneDrive\Máy tính\FoodWebApplication (2)\FoodWebApplication\FoodWebApplication\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\vuqua\OneDrive\Máy tính\FoodWebApplication (2)\FoodWebApplication\FoodWebApplication\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\vuqua\OneDrive\Máy tính\FoodWebApplication (2)\FoodWebApplication\FoodWebApplication\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\vuqua\OneDrive\Máy tính\FoodWebApplication (2)\FoodWebApplication\FoodWebApplication\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\vuqua\OneDrive\Máy tính\FoodWebApplication (2)\FoodWebApplication\FoodWebApplication\obj\Debug\net5.0\FoodWebApplication.RazorTargetAssemblyInfo.cache
+C:\Users\vuqua\OneDrive\Máy tính\FoodWebApplication (2)\FoodWebApplication\FoodWebApplication\obj\Debug\net5.0\FoodWebApplication.RazorTargetAssemblyInfo.cs
+C:\Users\vuqua\OneDrive\Máy tính\FoodWebApplication (2)\FoodWebApplication\FoodWebApplication\obj\Debug\net5.0\FoodWebApplication.Views.pdb
+C:\Users\vuqua\OneDrive\Máy tính\FoodWebApplication (2)\FoodWebApplication\FoodWebApplication\obj\Debug\net5.0\scopedcss\bundle\FoodWebApplication.styles.css
+C:\Users\vuqua\OneDrive\Máy tính\FoodWebApplication (2)\FoodWebApplication\FoodWebApplication\obj\Debug\net5.0\staticwebassets\FoodWebApplication.StaticWebAssets.Manifest.cache
+C:\Users\vuqua\OneDrive\Máy tính\FoodWebApplication (2)\FoodWebApplication\FoodWebApplication\obj\Debug\net5.0\staticwebassets\FoodWebApplication.StaticWebAssets.Pack.cache
+C:\Users\vuqua\OneDrive\Máy tính\FoodWebApplication (2)\FoodWebApplication\FoodWebApplication\obj\Debug\net5.0\staticwebassets\msbuild.FoodWebApplication.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\vuqua\OneDrive\Máy tính\FoodWebApplication (2)\FoodWebApplication\FoodWebApplication\obj\Debug\net5.0\staticwebassets\msbuild.build.FoodWebApplication.props
+C:\Users\vuqua\OneDrive\Máy tính\FoodWebApplication (2)\FoodWebApplication\FoodWebApplication\obj\Debug\net5.0\staticwebassets\msbuild.buildMultiTargeting.FoodWebApplication.props
+C:\Users\vuqua\OneDrive\Máy tính\FoodWebApplication (2)\FoodWebApplication\FoodWebApplication\obj\Debug\net5.0\staticwebassets\msbuild.buildTransitive.FoodWebApplication.props
+C:\Users\vuqua\OneDrive\Máy tính\FoodWebApplication (2)\FoodWebApplication\FoodWebApplication\obj\Debug\net5.0\FoodWebA.7A040EDC.Up2Date
+C:\Users\vuqua\OneDrive\Máy tính\FoodWebApplication (2)\FoodWebApplication\FoodWebApplication\obj\Debug\net5.0\FoodWebApplication.dll
+C:\Users\vuqua\OneDrive\Máy tính\FoodWebApplication (2)\FoodWebApplication\FoodWebApplication\obj\Debug\net5.0\refint\FoodWebApplication.dll
+C:\Users\vuqua\OneDrive\Máy tính\FoodWebApplication (2)\FoodWebApplication\FoodWebApplication\obj\Debug\net5.0\FoodWebApplication.pdb
+C:\Users\vuqua\OneDrive\Máy tính\FoodWebApplication (2)\FoodWebApplication\FoodWebApplication\obj\Debug\net5.0\FoodWebApplication.genruntimeconfig.cache
+C:\Users\vuqua\OneDrive\Máy tính\FoodWebApplication (2)\FoodWebApplication\FoodWebApplication\obj\Debug\net5.0\ref\FoodWebApplication.dll

@@ -1,0 +1,9 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\vuqua\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\vuqua\\.nuget\\packages",
+      "E:\\setupvs2\\NuGetPackages"
+    ]
+  }
+}

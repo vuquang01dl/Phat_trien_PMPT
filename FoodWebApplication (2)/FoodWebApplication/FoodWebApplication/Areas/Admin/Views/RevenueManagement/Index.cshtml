@@ -1,0 +1,63 @@
+﻿@{
+    Layout = "~/Areas/Admin/Views/Shared/_LayoutPage.cshtml";
+}
+@model DTO.Revenue.RevenueAnual
+<div class="account-management">
+    @await Html.PartialAsync("_breadcrumb", new Dictionary<string, string> { { "A", "Homepage" }, { "B", "Restaurant management" } }, new ViewDataDictionary(ViewData) { { "mHref", Url.Action("New", "RestaurantManagement", new { area = "Admin" }) }, { "mShowButton", "true" } })
+
+    <div class="row">
+        <div class="col-12">
+            <div class="card">
+                <div class="card-body">
+                    <div class="table-responsive m-t-40">
+                        <table id="config-table" class="table display table-bordered table-striped no-wrap">
+                            <thead>
+                                <tr>
+                                    <th>Year</th>
+                                    <th>Month 1</th>
+                                    <th>Month 2</th>
+                                    <th>Month 3</th>
+                                    <th>Month 4</th>
+                                    <th>Month 5</th>
+                                    <th>Month 6</th>
+                                    <th>Month 7</th>
+                                    <th>Month 8</th>
+                                    <th>Month 9</th>
+                                    <th>Month 10</th>
+                                    <th>Month 11</th>
+                                    <th>Month 12</th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                @if (Model != null)
+                                {
+                                    <tr>
+                                        <td>@Model.Year</td>
+                                        <td>@Model.Month1Value</td>
+                                        <td>@Model.Month2Value</td>
+                                        <td>@Model.Month3Value</td>
+                                        <td>@Model.Month4Value</td>
+                                        <td>@Model.Month5Value</td>
+                                        <td>@Model.Month6Value</td>
+                                        <td>@Model.Month7Value</td>
+                                        <td>@Model.Month8Value</td>
+                                        <td>@Model.Month9Value</td>
+                                        <td>@Model.Month10Value</td>
+                                        <td>@Model.Month11Value</td>
+                                        <td>@Model.Month12Value</td>
+                                    </tr>
+                                }
+                            </tbody>
+                        </table>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<script>
+    $('#config-table').DataTable({
+        responsive: true
+    });
+</script>

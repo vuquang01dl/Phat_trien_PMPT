@@ -1,0 +1,38 @@
+D:\FoodWebApplication\BLL\bin\Debug\net5.0\BLL.deps.json
+D:\FoodWebApplication\BLL\bin\Debug\net5.0\BLL.dll
+D:\FoodWebApplication\BLL\bin\Debug\net5.0\BLL.pdb
+D:\FoodWebApplication\BLL\bin\Debug\net5.0\Common.dll
+D:\FoodWebApplication\BLL\bin\Debug\net5.0\DTO.dll
+D:\FoodWebApplication\BLL\bin\Debug\net5.0\Entities.dll
+D:\FoodWebApplication\BLL\bin\Debug\net5.0\Common.pdb
+D:\FoodWebApplication\BLL\bin\Debug\net5.0\DTO.pdb
+D:\FoodWebApplication\BLL\bin\Debug\net5.0\Entities.pdb
+D:\FoodWebApplication\BLL\obj\Debug\net5.0\BLL.csproj.AssemblyReference.cache
+D:\FoodWebApplication\BLL\obj\Debug\net5.0\BLL.GeneratedMSBuildEditorConfig.editorconfig
+D:\FoodWebApplication\BLL\obj\Debug\net5.0\BLL.AssemblyInfoInputs.cache
+D:\FoodWebApplication\BLL\obj\Debug\net5.0\BLL.AssemblyInfo.cs
+D:\FoodWebApplication\BLL\obj\Debug\net5.0\BLL.csproj.CoreCompileInputs.cache
+D:\FoodWebApplication\BLL\obj\Debug\net5.0\BLL.csproj.CopyComplete
+D:\FoodWebApplication\BLL\obj\Debug\net5.0\BLL.dll
+D:\FoodWebApplication\BLL\obj\Debug\net5.0\refint\BLL.dll
+D:\FoodWebApplication\BLL\obj\Debug\net5.0\BLL.pdb
+D:\FoodWebApplication\BLL\obj\Debug\net5.0\ref\BLL.dll
+C:\Users\vuqua\OneDrive\Máy tính\FoodWebApplication (2)\FoodWebApplication\BLL\bin\Debug\net5.0\BLL.deps.json
+C:\Users\vuqua\OneDrive\Máy tính\FoodWebApplication (2)\FoodWebApplication\BLL\bin\Debug\net5.0\BLL.dll
+C:\Users\vuqua\OneDrive\Máy tính\FoodWebApplication (2)\FoodWebApplication\BLL\bin\Debug\net5.0\BLL.pdb
+C:\Users\vuqua\OneDrive\Máy tính\FoodWebApplication (2)\FoodWebApplication\BLL\bin\Debug\net5.0\Common.dll
+C:\Users\vuqua\OneDrive\Máy tính\FoodWebApplication (2)\FoodWebApplication\BLL\bin\Debug\net5.0\DTO.dll
+C:\Users\vuqua\OneDrive\Máy tính\FoodWebApplication (2)\FoodWebApplication\BLL\bin\Debug\net5.0\Entities.dll
+C:\Users\vuqua\OneDrive\Máy tính\FoodWebApplication (2)\FoodWebApplication\BLL\bin\Debug\net5.0\Common.pdb
+C:\Users\vuqua\OneDrive\Máy tính\FoodWebApplication (2)\FoodWebApplication\BLL\bin\Debug\net5.0\DTO.pdb
+C:\Users\vuqua\OneDrive\Máy tính\FoodWebApplication (2)\FoodWebApplication\BLL\bin\Debug\net5.0\Entities.pdb
+C:\Users\vuqua\OneDrive\Máy tính\FoodWebApplication (2)\FoodWebApplication\BLL\obj\Debug\net5.0\BLL.csproj.AssemblyReference.cache
+C:\Users\vuqua\OneDrive\Máy tính\FoodWebApplication (2)\FoodWebApplication\BLL\obj\Debug\net5.0\BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vuqua\OneDrive\Máy tính\FoodWebApplication (2)\FoodWebApplication\BLL\obj\Debug\net5.0\BLL.AssemblyInfoInputs.cache
+C:\Users\vuqua\OneDrive\Máy tính\FoodWebApplication (2)\FoodWebApplication\BLL\obj\Debug\net5.0\BLL.AssemblyInfo.cs
+C:\Users\vuqua\OneDrive\Máy tính\FoodWebApplication (2)\FoodWebApplication\BLL\obj\Debug\net5.0\BLL.csproj.CoreCompileInputs.cache
+C:\Users\vuqua\OneDrive\Máy tính\FoodWebApplication (2)\FoodWebApplication\BLL\obj\Debug\net5.0\BLL.csproj.Up2Date
+C:\Users\vuqua\OneDrive\Máy tính\FoodWebApplication (2)\FoodWebApplication\BLL\obj\Debug\net5.0\BLL.dll
+C:\Users\vuqua\OneDrive\Máy tính\FoodWebApplication (2)\FoodWebApplication\BLL\obj\Debug\net5.0\refint\BLL.dll
+C:\Users\vuqua\OneDrive\Máy tính\FoodWebApplication (2)\FoodWebApplication\BLL\obj\Debug\net5.0\BLL.pdb
+C:\Users\vuqua\OneDrive\Máy tính\FoodWebApplication (2)\FoodWebApplication\BLL\obj\Debug\net5.0\ref\BLL.dll

@@ -1,0 +1,108 @@
+﻿@{
+    Layout = "~/Areas/Admin/Views/Shared/_LayoutPage.cshtml";
+}
+@model List<DTO.Order.OrderDTO>
+@using Common.Enum;
+@using Common;
+<div class="account-management">
+    @await Html.PartialAsync("_breadcrumb", new Dictionary<string, string> { { "A", "Homepage" }, { "B", "Food management" } }, new ViewDataDictionary(ViewData) { { "mHref", Url.Action("New", "FoodManagement", new { area = "Admin" }) }, { "mShowButton", "true" } })
+
+    <div class="row">
+        <div class="col-12">
+            <div class="card">
+                <div class="card-body">
+                    <div class="table-responsive m-t-40">
+                        <table id="config-table" class="table display table-bordered table-striped">
+                            <thead>
+                                <tr>
+                                    <th>Order code</th>
+                                    <th>Customer</th>
+                                    <th>Email</th>
+                                    <th>Phone</th>
+                                    <th>Date</th>
+                                    <th>Qty</th>
+                                    <th>Price</th>
+                                    <th style="width:86.2px !important">Status</th>
+                                    <th style="width:335px">Action</th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                @if (Model != null && Model.Any())
+                                {
+                                    foreach (var item in Model)
+                                    {
+                                        <tr>
+                                            <td>@item.Code</td>
+                                            <td>@item.CustomerName</td>
+                                            <td>@item.Email</td>
+                                            <td>@item.Phone</td>
+                                            <td>@item.CreatedAt.ToString("dd/MM/yyyy hh:mm")</td>
+                                            <td>@item.Qty</td>
+                                            <td>@item.Price.ToString("0,0.0") đ</td>
+                                            <td style="width:86.2px !important">
+                                                @{
+                                                    string classzz = "label-info";
+                                                    if (item.Status.Equals((int)OrderStatus.Cancelled))
+                                                    {
+                                                        classzz = "label-danger";
+                                                    }
+                                                    else
+                                                    {
+                                                        if (item.Status.Equals((int)OrderStatus.Approved))
+                                                        {
+                                                            classzz = "label-success";
+                                                        }
+                                                    }
+                                                }
+                                                <span class="label @classzz">@ExtensionClass.GetEnumDescription((OrderStatus)(item.Status))</span>
+                                            </td>
+                                            <td>
+                                                <div class="btn-group btn-group-3 pull-right">
+                                                    @*<a href="@Url.Action("Edit","OrderManagement", new { Id = item.Id })" class="btn btn-info btn-sm" data-toggle="tooltip" data-placement="bottom" title="Xem thông tin đơn hàng">
+                                                        <i class="fas fa-fw fa-eye"></i> Xem
+                                                    </a>*@
+                                                    @if (item.Status.Equals((int)OrderStatus.Inprocessing))
+                                                    {
+                                                        <a href="javascript:void(0)" onclick="CormfirmAlert('@Url.Action("Approved", "OrderManagement", new { Id = item.Id })','Duyệt đơn')" style="margin-left:5px;margin-right:5px" class="btn btn-success btn-sm" data-confirm="Bạn Có Chắc Chán ?" data-toggle="tooltip" data-placement="bottom" title="Duyệt đơn hàng">
+                                                            <i class="fa fa-fw fa-check"></i> Duyệt
+                                                        </a>
+                                                        <a href="javascript:void(0)" onclick="CormfirmAlert('@Url.Action("Rejected", "OrderManagement", new { Id = item.Id })','Hủy đơn')" class="btn btn-danger btn-sm" data-confirm="Bạn Có Chắc Chán ?" data-toggle="tooltip" data-placement="bottom" title="Hủy đơn hàng">
+                                                            <i class="fa fa-fw fa-trash"></i> Hủy
+                                                        </a>
+                                                    }
+
+                                                </div>
+                                            </td>
+                                        </tr>
+                                    }
+                                }
+                            </tbody>
+                        </table>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<script>
+    $('#config-table').DataTable({
+        responsive: true
+    }); 
+    function CormfirmAlert(url, type) {
+        Swal.fire({
+            title: 'Do you want?',
+            text: type + " order",
+            type: 'warning',
+            showCancelButton: true,
+            confirmButtonColor: '#3085d6',
+            cancelButtonColor: '#d33',
+            confirmButtonText: type,
+            cancelButtonText: 'Close'
+        }).then(function (result) {
+            if (result.value) {
+                window.location.href = url;
+            }
+        })
+    }
+</script>

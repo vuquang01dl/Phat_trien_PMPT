@@ -1,0 +1,24 @@
+D:\FoodWebApplication\DTO\bin\Debug\net5.0\DTO.deps.json
+D:\FoodWebApplication\DTO\bin\Debug\net5.0\DTO.dll
+D:\FoodWebApplication\DTO\bin\Debug\net5.0\DTO.pdb
+D:\FoodWebApplication\DTO\obj\Debug\net5.0\DTO.csproj.AssemblyReference.cache
+D:\FoodWebApplication\DTO\obj\Debug\net5.0\DTO.GeneratedMSBuildEditorConfig.editorconfig
+D:\FoodWebApplication\DTO\obj\Debug\net5.0\DTO.AssemblyInfoInputs.cache
+D:\FoodWebApplication\DTO\obj\Debug\net5.0\DTO.AssemblyInfo.cs
+D:\FoodWebApplication\DTO\obj\Debug\net5.0\DTO.csproj.CoreCompileInputs.cache
+D:\FoodWebApplication\DTO\obj\Debug\net5.0\DTO.dll
+D:\FoodWebApplication\DTO\obj\Debug\net5.0\refint\DTO.dll
+D:\FoodWebApplication\DTO\obj\Debug\net5.0\DTO.pdb
+D:\FoodWebApplication\DTO\obj\Debug\net5.0\ref\DTO.dll
+C:\Users\vuqua\OneDrive\Máy tính\FoodWebApplication (2)\FoodWebApplication\DTO\bin\Debug\net5.0\DTO.deps.json
+C:\Users\vuqua\OneDrive\Máy tính\FoodWebApplication (2)\FoodWebApplication\DTO\bin\Debug\net5.0\DTO.dll
+C:\Users\vuqua\OneDrive\Máy tính\FoodWebApplication (2)\FoodWebApplication\DTO\bin\Debug\net5.0\DTO.pdb
+C:\Users\vuqua\OneDrive\Máy tính\FoodWebApplication (2)\FoodWebApplication\DTO\obj\Debug\net5.0\DTO.csproj.AssemblyReference.cache
+C:\Users\vuqua\OneDrive\Máy tính\FoodWebApplication (2)\FoodWebApplication\DTO\obj\Debug\net5.0\DTO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vuqua\OneDrive\Máy tính\FoodWebApplication (2)\FoodWebApplication\DTO\obj\Debug\net5.0\DTO.AssemblyInfoInputs.cache
+C:\Users\vuqua\OneDrive\Máy tính\FoodWebApplication (2)\FoodWebApplication\DTO\obj\Debug\net5.0\DTO.AssemblyInfo.cs
+C:\Users\vuqua\OneDrive\Máy tính\FoodWebApplication (2)\FoodWebApplication\DTO\obj\Debug\net5.0\DTO.csproj.CoreCompileInputs.cache
+C:\Users\vuqua\OneDrive\Máy tính\FoodWebApplication (2)\FoodWebApplication\DTO\obj\Debug\net5.0\DTO.dll
+C:\Users\vuqua\OneDrive\Máy tính\FoodWebApplication (2)\FoodWebApplication\DTO\obj\Debug\net5.0\refint\DTO.dll
+C:\Users\vuqua\OneDrive\Máy tính\FoodWebApplication (2)\FoodWebApplication\DTO\obj\Debug\net5.0\DTO.pdb
+C:\Users\vuqua\OneDrive\Máy tính\FoodWebApplication (2)\FoodWebApplication\DTO\obj\Debug\net5.0\ref\DTO.dll
