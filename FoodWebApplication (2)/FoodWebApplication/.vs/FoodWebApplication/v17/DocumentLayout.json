@@ -1,61 +1,65 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\vuqua\\OneDrive\\M\u00E1y t\u00EDnh\\FoodWebApplication (2)\\FoodWebApplication\\",
+  "WorkspaceRootPath": "G:\\1 tai lieu hoc tap\\Ph\u00E1t tri\u1EC3n ph\u1EA7n m\u1EC1m ph\u00E2n t\u00E1n\\Phat_trien_PMPT-main\\FoodWebApplication (2)\\FoodWebApplication\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{AA653489-DA79-4CA2-9E83-24CE7716943C}|FoodWebApplication\\FoodWebApplication.csproj|c:\\users\\vuqua\\onedrive\\m\u00E1y t\u00EDnh\\foodwebapplication (2)\\foodwebapplication\\foodwebapplication\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{AA653489-DA79-4CA2-9E83-24CE7716943C}|FoodWebApplication\\FoodWebApplication.csproj|g:\\1 tai lieu hoc tap\\ph\u00E1t tri\u1EC3n ph\u1EA7n m\u1EC1m ph\u00E2n t\u00E1n\\phat_trien_pmpt-main\\foodwebapplication (2)\\foodwebapplication\\foodwebapplication\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA653489-DA79-4CA2-9E83-24CE7716943C}|FoodWebApplication\\FoodWebApplication.csproj|solutionrelative:foodwebapplication\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA653489-DA79-4CA2-9E83-24CE7716943C}|FoodWebApplication\\FoodWebApplication.csproj|g:\\1 tai lieu hoc tap\\ph\u00E1t tri\u1EC3n ph\u1EA7n m\u1EC1m ph\u00E2n t\u00E1n\\phat_trien_pmpt-main\\foodwebapplication (2)\\foodwebapplication\\foodwebapplication\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{AA653489-DA79-4CA2-9E83-24CE7716943C}|FoodWebApplication\\FoodWebApplication.csproj|solutionrelative:foodwebapplication\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AA653489-DA79-4CA2-9E83-24CE7716943C}|FoodWebApplication\\FoodWebApplication.csproj|c:\\users\\vuqua\\onedrive\\m\u00E1y t\u00EDnh\\foodwebapplication (2)\\foodwebapplication\\foodwebapplication\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{AA653489-DA79-4CA2-9E83-24CE7716943C}|FoodWebApplication\\FoodWebApplication.csproj|g:\\1 tai lieu hoc tap\\ph\u00E1t tri\u1EC3n ph\u1EA7n m\u1EC1m ph\u00E2n t\u00E1n\\phat_trien_pmpt-main\\foodwebapplication (2)\\foodwebapplication\\foodwebapplication\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{AA653489-DA79-4CA2-9E83-24CE7716943C}|FoodWebApplication\\FoodWebApplication.csproj|solutionrelative:foodwebapplication\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2B5D1B27-0DAD-4700-9D9E-273999B64FE6}|Food.API\\Food.API.csproj|c:\\users\\vuqua\\onedrive\\m\u00E1y t\u00EDnh\\foodwebapplication (2)\\foodwebapplication\\food.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{2B5D1B27-0DAD-4700-9D9E-273999B64FE6}|Food.API\\Food.API.csproj|g:\\1 tai lieu hoc tap\\ph\u00E1t tri\u1EC3n ph\u1EA7n m\u1EC1m ph\u00E2n t\u00E1n\\phat_trien_pmpt-main\\foodwebapplication (2)\\foodwebapplication\\food.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{2B5D1B27-0DAD-4700-9D9E-273999B64FE6}|Food.API\\Food.API.csproj|solutionrelative:food.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2B5D1B27-0DAD-4700-9D9E-273999B64FE6}|Food.API\\Food.API.csproj|c:\\users\\vuqua\\onedrive\\m\u00E1y t\u00EDnh\\foodwebapplication (2)\\foodwebapplication\\food.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{2B5D1B27-0DAD-4700-9D9E-273999B64FE6}|Food.API\\Food.API.csproj|g:\\1 tai lieu hoc tap\\ph\u00E1t tri\u1EC3n ph\u1EA7n m\u1EC1m ph\u00E2n t\u00E1n\\phat_trien_pmpt-main\\foodwebapplication (2)\\foodwebapplication\\food.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{2B5D1B27-0DAD-4700-9D9E-273999B64FE6}|Food.API\\Food.API.csproj|solutionrelative:food.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AD0F29D2-2312-4F7C-AC68-2FE1B802AFD7}|BLL\\BLL.csproj|c:\\users\\vuqua\\onedrive\\m\u00E1y t\u00EDnh\\foodwebapplication (2)\\foodwebapplication\\bll\\services\\customerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{AD0F29D2-2312-4F7C-AC68-2FE1B802AFD7}|BLL\\BLL.csproj|g:\\1 tai lieu hoc tap\\ph\u00E1t tri\u1EC3n ph\u1EA7n m\u1EC1m ph\u00E2n t\u00E1n\\phat_trien_pmpt-main\\foodwebapplication (2)\\foodwebapplication\\bll\\services\\customerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AD0F29D2-2312-4F7C-AC68-2FE1B802AFD7}|BLL\\BLL.csproj|solutionrelative:bll\\services\\customerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AD0F29D2-2312-4F7C-AC68-2FE1B802AFD7}|BLL\\BLL.csproj|c:\\users\\vuqua\\onedrive\\m\u00E1y t\u00EDnh\\foodwebapplication (2)\\foodwebapplication\\bll\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{AD0F29D2-2312-4F7C-AC68-2FE1B802AFD7}|BLL\\BLL.csproj|g:\\1 tai lieu hoc tap\\ph\u00E1t tri\u1EC3n ph\u1EA7n m\u1EC1m ph\u00E2n t\u00E1n\\phat_trien_pmpt-main\\foodwebapplication (2)\\foodwebapplication\\bll\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AD0F29D2-2312-4F7C-AC68-2FE1B802AFD7}|BLL\\BLL.csproj|solutionrelative:bll\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AA653489-DA79-4CA2-9E83-24CE7716943C}|FoodWebApplication\\FoodWebApplication.csproj|c:\\users\\vuqua\\onedrive\\m\u00E1y t\u00EDnh\\foodwebapplication (2)\\foodwebapplication\\foodwebapplication\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{AA653489-DA79-4CA2-9E83-24CE7716943C}|FoodWebApplication\\FoodWebApplication.csproj|g:\\1 tai lieu hoc tap\\ph\u00E1t tri\u1EC3n ph\u1EA7n m\u1EC1m ph\u00E2n t\u00E1n\\phat_trien_pmpt-main\\foodwebapplication (2)\\foodwebapplication\\foodwebapplication\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{AA653489-DA79-4CA2-9E83-24CE7716943C}|FoodWebApplication\\FoodWebApplication.csproj|solutionrelative:foodwebapplication\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AD0F29D2-2312-4F7C-AC68-2FE1B802AFD7}|BLL\\BLL.csproj|c:\\users\\vuqua\\onedrive\\m\u00E1y t\u00EDnh\\foodwebapplication (2)\\foodwebapplication\\bll\\services\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{AD0F29D2-2312-4F7C-AC68-2FE1B802AFD7}|BLL\\BLL.csproj|g:\\1 tai lieu hoc tap\\ph\u00E1t tri\u1EC3n ph\u1EA7n m\u1EC1m ph\u00E2n t\u00E1n\\phat_trien_pmpt-main\\foodwebapplication (2)\\foodwebapplication\\bll\\services\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AD0F29D2-2312-4F7C-AC68-2FE1B802AFD7}|BLL\\BLL.csproj|solutionrelative:bll\\services\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AA653489-DA79-4CA2-9E83-24CE7716943C}|FoodWebApplication\\FoodWebApplication.csproj|c:\\users\\vuqua\\onedrive\\m\u00E1y t\u00EDnh\\foodwebapplication (2)\\foodwebapplication\\foodwebapplication\\controllers\\cartscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{AA653489-DA79-4CA2-9E83-24CE7716943C}|FoodWebApplication\\FoodWebApplication.csproj|g:\\1 tai lieu hoc tap\\ph\u00E1t tri\u1EC3n ph\u1EA7n m\u1EC1m ph\u00E2n t\u00E1n\\phat_trien_pmpt-main\\foodwebapplication (2)\\foodwebapplication\\foodwebapplication\\controllers\\cartscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AA653489-DA79-4CA2-9E83-24CE7716943C}|FoodWebApplication\\FoodWebApplication.csproj|solutionrelative:foodwebapplication\\controllers\\cartscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AA653489-DA79-4CA2-9E83-24CE7716943C}|FoodWebApplication\\FoodWebApplication.csproj|c:\\users\\vuqua\\onedrive\\m\u00E1y t\u00EDnh\\foodwebapplication (2)\\foodwebapplication\\foodwebapplication\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{AA653489-DA79-4CA2-9E83-24CE7716943C}|FoodWebApplication\\FoodWebApplication.csproj|g:\\1 tai lieu hoc tap\\ph\u00E1t tri\u1EC3n ph\u1EA7n m\u1EC1m ph\u00E2n t\u00E1n\\phat_trien_pmpt-main\\foodwebapplication (2)\\foodwebapplication\\foodwebapplication\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AA653489-DA79-4CA2-9E83-24CE7716943C}|FoodWebApplication\\FoodWebApplication.csproj|solutionrelative:foodwebapplication\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2B5D1B27-0DAD-4700-9D9E-273999B64FE6}|Food.API\\Food.API.csproj|c:\\users\\vuqua\\onedrive\\m\u00E1y t\u00EDnh\\foodwebapplication (2)\\foodwebapplication\\food.api\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{2B5D1B27-0DAD-4700-9D9E-273999B64FE6}|Food.API\\Food.API.csproj|g:\\1 tai lieu hoc tap\\ph\u00E1t tri\u1EC3n ph\u1EA7n m\u1EC1m ph\u00E2n t\u00E1n\\phat_trien_pmpt-main\\foodwebapplication (2)\\foodwebapplication\\food.api\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2B5D1B27-0DAD-4700-9D9E-273999B64FE6}|Food.API\\Food.API.csproj|solutionrelative:food.api\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AA653489-DA79-4CA2-9E83-24CE7716943C}|FoodWebApplication\\FoodWebApplication.csproj|c:\\users\\vuqua\\onedrive\\m\u00E1y t\u00EDnh\\foodwebapplication (2)\\foodwebapplication\\foodwebapplication\\views\\carts\\checkout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{AA653489-DA79-4CA2-9E83-24CE7716943C}|FoodWebApplication\\FoodWebApplication.csproj|g:\\1 tai lieu hoc tap\\ph\u00E1t tri\u1EC3n ph\u1EA7n m\u1EC1m ph\u00E2n t\u00E1n\\phat_trien_pmpt-main\\foodwebapplication (2)\\foodwebapplication\\foodwebapplication\\views\\carts\\checkout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{AA653489-DA79-4CA2-9E83-24CE7716943C}|FoodWebApplication\\FoodWebApplication.csproj|solutionrelative:foodwebapplication\\views\\carts\\checkout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F4A089A7-E81B-4B02-B9D1-31E22E40D545}|DTO\\DTO.csproj|c:\\users\\vuqua\\onedrive\\m\u00E1y t\u00EDnh\\foodwebapplication (2)\\foodwebapplication\\dto\\user\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F4A089A7-E81B-4B02-B9D1-31E22E40D545}|DTO\\DTO.csproj|g:\\1 tai lieu hoc tap\\ph\u00E1t tri\u1EC3n ph\u1EA7n m\u1EC1m ph\u00E2n t\u00E1n\\phat_trien_pmpt-main\\foodwebapplication (2)\\foodwebapplication\\dto\\user\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F4A089A7-E81B-4B02-B9D1-31E22E40D545}|DTO\\DTO.csproj|solutionrelative:dto\\user\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AA653489-DA79-4CA2-9E83-24CE7716943C}|FoodWebApplication\\FoodWebApplication.csproj|c:\\users\\vuqua\\onedrive\\m\u00E1y t\u00EDnh\\foodwebapplication (2)\\foodwebapplication\\foodwebapplication\\wwwroot\\content\\web\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "AbsoluteMoniker": "D:0:0:{AA653489-DA79-4CA2-9E83-24CE7716943C}|FoodWebApplication\\FoodWebApplication.csproj|g:\\1 tai lieu hoc tap\\ph\u00E1t tri\u1EC3n ph\u1EA7n m\u1EC1m ph\u00E2n t\u00E1n\\phat_trien_pmpt-main\\foodwebapplication (2)\\foodwebapplication\\foodwebapplication\\wwwroot\\content\\web\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
       "RelativeMoniker": "D:0:0:{AA653489-DA79-4CA2-9E83-24CE7716943C}|FoodWebApplication\\FoodWebApplication.csproj|solutionrelative:foodwebapplication\\wwwroot\\content\\web\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     }
   ],
@@ -66,7 +70,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -78,19 +82,28 @@
             },
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
-            },
-            {
-              "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "G:\\1 tai lieu hoc tap\\Ph\u00E1t tri\u1EC3n ph\u1EA7n m\u1EC1m ph\u00E2n t\u00E1n\\Phat_trien_PMPT-main\\FoodWebApplication (2)\\FoodWebApplication\\FoodWebApplication\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "FoodWebApplication\\Controllers\\HomeController.cs",
+              "ToolTip": "G:\\1 tai lieu hoc tap\\Ph\u00E1t tri\u1EC3n ph\u1EA7n m\u1EC1m ph\u00E2n t\u00E1n\\Phat_trien_PMPT-main\\FoodWebApplication (2)\\FoodWebApplication\\FoodWebApplication\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "FoodWebApplication\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAADIAAAAAAAAAAAAgwD8AAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T16:56:44.579Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "appsettings.Development.json",
-              "DocumentMoniker": "C:\\Users\\vuqua\\OneDrive\\M\u00E1y t\u00EDnh\\FoodWebApplication (2)\\FoodWebApplication\\FoodWebApplication\\appsettings.Development.json",
+              "DocumentMoniker": "G:\\1 tai lieu hoc tap\\Ph\u00E1t tri\u1EC3n ph\u1EA7n m\u1EC1m ph\u00E2n t\u00E1n\\Phat_trien_PMPT-main\\FoodWebApplication (2)\\FoodWebApplication\\FoodWebApplication\\appsettings.Development.json",
               "RelativeDocumentMoniker": "FoodWebApplication\\appsettings.Development.json",
-              "ToolTip": "C:\\Users\\vuqua\\OneDrive\\M\u00E1y t\u00EDnh\\FoodWebApplication (2)\\FoodWebApplication\\FoodWebApplication\\appsettings.Development.json",
+              "ToolTip": "G:\\1 tai lieu hoc tap\\Ph\u00E1t tri\u1EC3n ph\u1EA7n m\u1EC1m ph\u00E2n t\u00E1n\\Phat_trien_PMPT-main\\FoodWebApplication (2)\\FoodWebApplication\\FoodWebApplication\\appsettings.Development.json",
               "RelativeToolTip": "FoodWebApplication\\appsettings.Development.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
@@ -99,11 +112,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\vuqua\\OneDrive\\M\u00E1y t\u00EDnh\\FoodWebApplication (2)\\FoodWebApplication\\FoodWebApplication\\appsettings.json",
+              "DocumentMoniker": "G:\\1 tai lieu hoc tap\\Ph\u00E1t tri\u1EC3n ph\u1EA7n m\u1EC1m ph\u00E2n t\u00E1n\\Phat_trien_PMPT-main\\FoodWebApplication (2)\\FoodWebApplication\\FoodWebApplication\\appsettings.json",
               "RelativeDocumentMoniker": "FoodWebApplication\\appsettings.json",
-              "ToolTip": "C:\\Users\\vuqua\\OneDrive\\M\u00E1y t\u00EDnh\\FoodWebApplication (2)\\FoodWebApplication\\FoodWebApplication\\appsettings.json",
+              "ToolTip": "G:\\1 tai lieu hoc tap\\Ph\u00E1t tri\u1EC3n ph\u1EA7n m\u1EC1m ph\u00E2n t\u00E1n\\Phat_trien_PMPT-main\\FoodWebApplication (2)\\FoodWebApplication\\FoodWebApplication\\appsettings.json",
               "RelativeToolTip": "FoodWebApplication\\appsettings.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
@@ -111,11 +124,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "appsettings.Development.json",
-              "DocumentMoniker": "C:\\Users\\vuqua\\OneDrive\\M\u00E1y t\u00EDnh\\FoodWebApplication (2)\\FoodWebApplication\\Food.API\\appsettings.Development.json",
+              "DocumentMoniker": "G:\\1 tai lieu hoc tap\\Ph\u00E1t tri\u1EC3n ph\u1EA7n m\u1EC1m ph\u00E2n t\u00E1n\\Phat_trien_PMPT-main\\FoodWebApplication (2)\\FoodWebApplication\\Food.API\\appsettings.Development.json",
               "RelativeDocumentMoniker": "Food.API\\appsettings.Development.json",
-              "ToolTip": "C:\\Users\\vuqua\\OneDrive\\M\u00E1y t\u00EDnh\\FoodWebApplication (2)\\FoodWebApplication\\Food.API\\appsettings.Development.json",
+              "ToolTip": "G:\\1 tai lieu hoc tap\\Ph\u00E1t tri\u1EC3n ph\u1EA7n m\u1EC1m ph\u00E2n t\u00E1n\\Phat_trien_PMPT-main\\FoodWebApplication (2)\\FoodWebApplication\\Food.API\\appsettings.Development.json",
               "RelativeToolTip": "Food.API\\appsettings.Development.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
@@ -123,11 +136,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\vuqua\\OneDrive\\M\u00E1y t\u00EDnh\\FoodWebApplication (2)\\FoodWebApplication\\Food.API\\appsettings.json",
+              "DocumentMoniker": "G:\\1 tai lieu hoc tap\\Ph\u00E1t tri\u1EC3n ph\u1EA7n m\u1EC1m ph\u00E2n t\u00E1n\\Phat_trien_PMPT-main\\FoodWebApplication (2)\\FoodWebApplication\\Food.API\\appsettings.json",
               "RelativeDocumentMoniker": "Food.API\\appsettings.json",
-              "ToolTip": "C:\\Users\\vuqua\\OneDrive\\M\u00E1y t\u00EDnh\\FoodWebApplication (2)\\FoodWebApplication\\Food.API\\appsettings.json",
+              "ToolTip": "G:\\1 tai lieu hoc tap\\Ph\u00E1t tri\u1EC3n ph\u1EA7n m\u1EC1m ph\u00E2n t\u00E1n\\Phat_trien_PMPT-main\\FoodWebApplication (2)\\FoodWebApplication\\Food.API\\appsettings.json",
               "RelativeToolTip": "Food.API\\appsettings.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
@@ -135,11 +148,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "UserDTO.cs",
-              "DocumentMoniker": "C:\\Users\\vuqua\\OneDrive\\M\u00E1y t\u00EDnh\\FoodWebApplication (2)\\FoodWebApplication\\DTO\\User\\UserDTO.cs",
+              "DocumentMoniker": "G:\\1 tai lieu hoc tap\\Ph\u00E1t tri\u1EC3n ph\u1EA7n m\u1EC1m ph\u00E2n t\u00E1n\\Phat_trien_PMPT-main\\FoodWebApplication (2)\\FoodWebApplication\\DTO\\User\\UserDTO.cs",
               "RelativeDocumentMoniker": "DTO\\User\\UserDTO.cs",
-              "ToolTip": "C:\\Users\\vuqua\\OneDrive\\M\u00E1y t\u00EDnh\\FoodWebApplication (2)\\FoodWebApplication\\DTO\\User\\UserDTO.cs",
+              "ToolTip": "G:\\1 tai lieu hoc tap\\Ph\u00E1t tri\u1EC3n ph\u1EA7n m\u1EC1m ph\u00E2n t\u00E1n\\Phat_trien_PMPT-main\\FoodWebApplication (2)\\FoodWebApplication\\DTO\\User\\UserDTO.cs",
               "RelativeToolTip": "DTO\\User\\UserDTO.cs",
               "ViewState": "AQIAAAMAAAAAAAAAAAAuwAoAAAAYAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -147,11 +160,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "CustomerService.cs",
-              "DocumentMoniker": "C:\\Users\\vuqua\\OneDrive\\M\u00E1y t\u00EDnh\\FoodWebApplication (2)\\FoodWebApplication\\BLL\\Services\\CustomerService.cs",
+              "DocumentMoniker": "G:\\1 tai lieu hoc tap\\Ph\u00E1t tri\u1EC3n ph\u1EA7n m\u1EC1m ph\u00E2n t\u00E1n\\Phat_trien_PMPT-main\\FoodWebApplication (2)\\FoodWebApplication\\BLL\\Services\\CustomerService.cs",
               "RelativeDocumentMoniker": "BLL\\Services\\CustomerService.cs",
-              "ToolTip": "C:\\Users\\vuqua\\OneDrive\\M\u00E1y t\u00EDnh\\FoodWebApplication (2)\\FoodWebApplication\\BLL\\Services\\CustomerService.cs",
+              "ToolTip": "G:\\1 tai lieu hoc tap\\Ph\u00E1t tri\u1EC3n ph\u1EA7n m\u1EC1m ph\u00E2n t\u00E1n\\Phat_trien_PMPT-main\\FoodWebApplication (2)\\FoodWebApplication\\BLL\\Services\\CustomerService.cs",
               "RelativeToolTip": "BLL\\Services\\CustomerService.cs",
               "ViewState": "AQIAAAkAAAAAAAAAAAAAAC0AAAArAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -159,11 +172,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "Register.cshtml",
-              "DocumentMoniker": "C:\\Users\\vuqua\\OneDrive\\M\u00E1y t\u00EDnh\\FoodWebApplication (2)\\FoodWebApplication\\FoodWebApplication\\Views\\Account\\Register.cshtml",
+              "DocumentMoniker": "G:\\1 tai lieu hoc tap\\Ph\u00E1t tri\u1EC3n ph\u1EA7n m\u1EC1m ph\u00E2n t\u00E1n\\Phat_trien_PMPT-main\\FoodWebApplication (2)\\FoodWebApplication\\FoodWebApplication\\Views\\Account\\Register.cshtml",
               "RelativeDocumentMoniker": "FoodWebApplication\\Views\\Account\\Register.cshtml",
-              "ToolTip": "C:\\Users\\vuqua\\OneDrive\\M\u00E1y t\u00EDnh\\FoodWebApplication (2)\\FoodWebApplication\\FoodWebApplication\\Views\\Account\\Register.cshtml",
+              "ToolTip": "G:\\1 tai lieu hoc tap\\Ph\u00E1t tri\u1EC3n ph\u1EA7n m\u1EC1m ph\u00E2n t\u00E1n\\Phat_trien_PMPT-main\\FoodWebApplication (2)\\FoodWebApplication\\FoodWebApplication\\Views\\Account\\Register.cshtml",
               "RelativeToolTip": "FoodWebApplication\\Views\\Account\\Register.cshtml",
               "ViewState": "AQIAACQAAAAAAAAAAAAAADIAAACrAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -171,11 +184,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "OrderService.cs",
-              "DocumentMoniker": "C:\\Users\\vuqua\\OneDrive\\M\u00E1y t\u00EDnh\\FoodWebApplication (2)\\FoodWebApplication\\BLL\\Services\\OrderService.cs",
+              "DocumentMoniker": "G:\\1 tai lieu hoc tap\\Ph\u00E1t tri\u1EC3n ph\u1EA7n m\u1EC1m ph\u00E2n t\u00E1n\\Phat_trien_PMPT-main\\FoodWebApplication (2)\\FoodWebApplication\\BLL\\Services\\OrderService.cs",
               "RelativeDocumentMoniker": "BLL\\Services\\OrderService.cs",
-              "ToolTip": "C:\\Users\\vuqua\\OneDrive\\M\u00E1y t\u00EDnh\\FoodWebApplication (2)\\FoodWebApplication\\BLL\\Services\\OrderService.cs",
+              "ToolTip": "G:\\1 tai lieu hoc tap\\Ph\u00E1t tri\u1EC3n ph\u1EA7n m\u1EC1m ph\u00E2n t\u00E1n\\Phat_trien_PMPT-main\\FoodWebApplication (2)\\FoodWebApplication\\BLL\\Services\\OrderService.cs",
               "RelativeToolTip": "BLL\\Services\\OrderService.cs",
               "ViewState": "AQIAALIAAAAAAAAAAAAmwMMAAAAyAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -183,11 +196,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "CartsController.cs",
-              "DocumentMoniker": "C:\\Users\\vuqua\\OneDrive\\M\u00E1y t\u00EDnh\\FoodWebApplication (2)\\FoodWebApplication\\FoodWebApplication\\Controllers\\CartsController.cs",
+              "DocumentMoniker": "G:\\1 tai lieu hoc tap\\Ph\u00E1t tri\u1EC3n ph\u1EA7n m\u1EC1m ph\u00E2n t\u00E1n\\Phat_trien_PMPT-main\\FoodWebApplication (2)\\FoodWebApplication\\FoodWebApplication\\Controllers\\CartsController.cs",
               "RelativeDocumentMoniker": "FoodWebApplication\\Controllers\\CartsController.cs",
-              "ToolTip": "C:\\Users\\vuqua\\OneDrive\\M\u00E1y t\u00EDnh\\FoodWebApplication (2)\\FoodWebApplication\\FoodWebApplication\\Controllers\\CartsController.cs",
+              "ToolTip": "G:\\1 tai lieu hoc tap\\Ph\u00E1t tri\u1EC3n ph\u1EA7n m\u1EC1m ph\u00E2n t\u00E1n\\Phat_trien_PMPT-main\\FoodWebApplication (2)\\FoodWebApplication\\FoodWebApplication\\Controllers\\CartsController.cs",
               "RelativeToolTip": "FoodWebApplication\\Controllers\\CartsController.cs",
               "ViewState": "AQIAACEAAAAAAAAAAAAYwCkAAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -195,11 +208,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "AccountController.cs",
-              "DocumentMoniker": "C:\\Users\\vuqua\\OneDrive\\M\u00E1y t\u00EDnh\\FoodWebApplication (2)\\FoodWebApplication\\FoodWebApplication\\Controllers\\AccountController.cs",
+              "DocumentMoniker": "G:\\1 tai lieu hoc tap\\Ph\u00E1t tri\u1EC3n ph\u1EA7n m\u1EC1m ph\u00E2n t\u00E1n\\Phat_trien_PMPT-main\\FoodWebApplication (2)\\FoodWebApplication\\FoodWebApplication\\Controllers\\AccountController.cs",
               "RelativeDocumentMoniker": "FoodWebApplication\\Controllers\\AccountController.cs",
-              "ToolTip": "C:\\Users\\vuqua\\OneDrive\\M\u00E1y t\u00EDnh\\FoodWebApplication (2)\\FoodWebApplication\\FoodWebApplication\\Controllers\\AccountController.cs",
+              "ToolTip": "G:\\1 tai lieu hoc tap\\Ph\u00E1t tri\u1EC3n ph\u1EA7n m\u1EC1m ph\u00E2n t\u00E1n\\Phat_trien_PMPT-main\\FoodWebApplication (2)\\FoodWebApplication\\FoodWebApplication\\Controllers\\AccountController.cs",
               "RelativeToolTip": "FoodWebApplication\\Controllers\\AccountController.cs",
               "ViewState": "AQIAABgAAAAAAAAAAAAYwCEAAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -207,11 +220,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "CheckOut.cshtml",
-              "DocumentMoniker": "C:\\Users\\vuqua\\OneDrive\\M\u00E1y t\u00EDnh\\FoodWebApplication (2)\\FoodWebApplication\\FoodWebApplication\\Views\\Carts\\CheckOut.cshtml",
+              "DocumentMoniker": "G:\\1 tai lieu hoc tap\\Ph\u00E1t tri\u1EC3n ph\u1EA7n m\u1EC1m ph\u00E2n t\u00E1n\\Phat_trien_PMPT-main\\FoodWebApplication (2)\\FoodWebApplication\\FoodWebApplication\\Views\\Carts\\CheckOut.cshtml",
               "RelativeDocumentMoniker": "FoodWebApplication\\Views\\Carts\\CheckOut.cshtml",
-              "ToolTip": "C:\\Users\\vuqua\\OneDrive\\M\u00E1y t\u00EDnh\\FoodWebApplication (2)\\FoodWebApplication\\FoodWebApplication\\Views\\Carts\\CheckOut.cshtml",
+              "ToolTip": "G:\\1 tai lieu hoc tap\\Ph\u00E1t tri\u1EC3n ph\u1EA7n m\u1EC1m ph\u00E2n t\u00E1n\\Phat_trien_PMPT-main\\FoodWebApplication (2)\\FoodWebApplication\\FoodWebApplication\\Views\\Carts\\CheckOut.cshtml",
               "RelativeToolTip": "FoodWebApplication\\Views\\Carts\\CheckOut.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAEAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -219,11 +232,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "CustomerController.cs",
-              "DocumentMoniker": "C:\\Users\\vuqua\\OneDrive\\M\u00E1y t\u00EDnh\\FoodWebApplication (2)\\FoodWebApplication\\Food.API\\Controllers\\CustomerController.cs",
+              "DocumentMoniker": "G:\\1 tai lieu hoc tap\\Ph\u00E1t tri\u1EC3n ph\u1EA7n m\u1EC1m ph\u00E2n t\u00E1n\\Phat_trien_PMPT-main\\FoodWebApplication (2)\\FoodWebApplication\\Food.API\\Controllers\\CustomerController.cs",
               "RelativeDocumentMoniker": "Food.API\\Controllers\\CustomerController.cs",
-              "ToolTip": "C:\\Users\\vuqua\\OneDrive\\M\u00E1y t\u00EDnh\\FoodWebApplication (2)\\FoodWebApplication\\Food.API\\Controllers\\CustomerController.cs",
+              "ToolTip": "G:\\1 tai lieu hoc tap\\Ph\u00E1t tri\u1EC3n ph\u1EA7n m\u1EC1m ph\u00E2n t\u00E1n\\Phat_trien_PMPT-main\\FoodWebApplication (2)\\FoodWebApplication\\Food.API\\Controllers\\CustomerController.cs",
               "RelativeToolTip": "Food.API\\Controllers\\CustomerController.cs",
               "ViewState": "AQIAAFYAAAAAAAAAAAAmwGIAAAAQAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -231,11 +244,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "UserService.cs",
-              "DocumentMoniker": "C:\\Users\\vuqua\\OneDrive\\M\u00E1y t\u00EDnh\\FoodWebApplication (2)\\FoodWebApplication\\BLL\\Services\\UserService.cs",
+              "DocumentMoniker": "G:\\1 tai lieu hoc tap\\Ph\u00E1t tri\u1EC3n ph\u1EA7n m\u1EC1m ph\u00E2n t\u00E1n\\Phat_trien_PMPT-main\\FoodWebApplication (2)\\FoodWebApplication\\BLL\\Services\\UserService.cs",
               "RelativeDocumentMoniker": "BLL\\Services\\UserService.cs",
-              "ToolTip": "C:\\Users\\vuqua\\OneDrive\\M\u00E1y t\u00EDnh\\FoodWebApplication (2)\\FoodWebApplication\\BLL\\Services\\UserService.cs",
+              "ToolTip": "G:\\1 tai lieu hoc tap\\Ph\u00E1t tri\u1EC3n ph\u1EA7n m\u1EC1m ph\u00E2n t\u00E1n\\Phat_trien_PMPT-main\\FoodWebApplication (2)\\FoodWebApplication\\BLL\\Services\\UserService.cs",
               "RelativeToolTip": "BLL\\Services\\UserService.cs",
               "ViewState": "AQIAABAAAAAAAAAAAAAkwCsAAAArAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -243,11 +256,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 14,
               "Title": "style.css",
-              "DocumentMoniker": "C:\\Users\\vuqua\\OneDrive\\M\u00E1y t\u00EDnh\\FoodWebApplication (2)\\FoodWebApplication\\FoodWebApplication\\wwwroot\\Content\\web\\style.css",
+              "DocumentMoniker": "G:\\1 tai lieu hoc tap\\Ph\u00E1t tri\u1EC3n ph\u1EA7n m\u1EC1m ph\u00E2n t\u00E1n\\Phat_trien_PMPT-main\\FoodWebApplication (2)\\FoodWebApplication\\FoodWebApplication\\wwwroot\\Content\\web\\style.css",
               "RelativeDocumentMoniker": "FoodWebApplication\\wwwroot\\Content\\web\\style.css",
-              "ToolTip": "C:\\Users\\vuqua\\OneDrive\\M\u00E1y t\u00EDnh\\FoodWebApplication (2)\\FoodWebApplication\\FoodWebApplication\\wwwroot\\Content\\web\\style.css",
+              "ToolTip": "G:\\1 tai lieu hoc tap\\Ph\u00E1t tri\u1EC3n ph\u1EA7n m\u1EC1m ph\u00E2n t\u00E1n\\Phat_trien_PMPT-main\\FoodWebApplication (2)\\FoodWebApplication\\FoodWebApplication\\wwwroot\\Content\\web\\style.css",
               "RelativeToolTip": "FoodWebApplication\\wwwroot\\Content\\web\\style.css",
               "ViewState": "AQIAAP8AAAAAAAAAAIBZwAUBAAAVAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",

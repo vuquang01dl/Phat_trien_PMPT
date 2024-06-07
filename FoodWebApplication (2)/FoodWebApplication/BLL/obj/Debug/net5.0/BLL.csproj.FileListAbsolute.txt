@@ -36,3 +36,22 @@ C:\Users\vuqua\OneDrive\Máy tính\FoodWebApplication (2)\FoodWebApplication\BLL
 C:\Users\vuqua\OneDrive\Máy tính\FoodWebApplication (2)\FoodWebApplication\BLL\obj\Debug\net5.0\refint\BLL.dll
 C:\Users\vuqua\OneDrive\Máy tính\FoodWebApplication (2)\FoodWebApplication\BLL\obj\Debug\net5.0\BLL.pdb
 C:\Users\vuqua\OneDrive\Máy tính\FoodWebApplication (2)\FoodWebApplication\BLL\obj\Debug\net5.0\ref\BLL.dll
+G:\1 tai lieu hoc tap\Phát triển phần mềm phân tán\Phat_trien_PMPT-main\FoodWebApplication (2)\FoodWebApplication\BLL\bin\Debug\net5.0\BLL.deps.json
+G:\1 tai lieu hoc tap\Phát triển phần mềm phân tán\Phat_trien_PMPT-main\FoodWebApplication (2)\FoodWebApplication\BLL\bin\Debug\net5.0\BLL.dll
+G:\1 tai lieu hoc tap\Phát triển phần mềm phân tán\Phat_trien_PMPT-main\FoodWebApplication (2)\FoodWebApplication\BLL\bin\Debug\net5.0\BLL.pdb
+G:\1 tai lieu hoc tap\Phát triển phần mềm phân tán\Phat_trien_PMPT-main\FoodWebApplication (2)\FoodWebApplication\BLL\bin\Debug\net5.0\Common.dll
+G:\1 tai lieu hoc tap\Phát triển phần mềm phân tán\Phat_trien_PMPT-main\FoodWebApplication (2)\FoodWebApplication\BLL\bin\Debug\net5.0\DTO.dll
+G:\1 tai lieu hoc tap\Phát triển phần mềm phân tán\Phat_trien_PMPT-main\FoodWebApplication (2)\FoodWebApplication\BLL\bin\Debug\net5.0\Entities.dll
+G:\1 tai lieu hoc tap\Phát triển phần mềm phân tán\Phat_trien_PMPT-main\FoodWebApplication (2)\FoodWebApplication\BLL\bin\Debug\net5.0\Common.pdb
+G:\1 tai lieu hoc tap\Phát triển phần mềm phân tán\Phat_trien_PMPT-main\FoodWebApplication (2)\FoodWebApplication\BLL\bin\Debug\net5.0\DTO.pdb
+G:\1 tai lieu hoc tap\Phát triển phần mềm phân tán\Phat_trien_PMPT-main\FoodWebApplication (2)\FoodWebApplication\BLL\bin\Debug\net5.0\Entities.pdb
+G:\1 tai lieu hoc tap\Phát triển phần mềm phân tán\Phat_trien_PMPT-main\FoodWebApplication (2)\FoodWebApplication\BLL\obj\Debug\net5.0\BLL.csproj.AssemblyReference.cache
+G:\1 tai lieu hoc tap\Phát triển phần mềm phân tán\Phat_trien_PMPT-main\FoodWebApplication (2)\FoodWebApplication\BLL\obj\Debug\net5.0\BLL.GeneratedMSBuildEditorConfig.editorconfig
+G:\1 tai lieu hoc tap\Phát triển phần mềm phân tán\Phat_trien_PMPT-main\FoodWebApplication (2)\FoodWebApplication\BLL\obj\Debug\net5.0\BLL.AssemblyInfoInputs.cache
+G:\1 tai lieu hoc tap\Phát triển phần mềm phân tán\Phat_trien_PMPT-main\FoodWebApplication (2)\FoodWebApplication\BLL\obj\Debug\net5.0\BLL.AssemblyInfo.cs
+G:\1 tai lieu hoc tap\Phát triển phần mềm phân tán\Phat_trien_PMPT-main\FoodWebApplication (2)\FoodWebApplication\BLL\obj\Debug\net5.0\BLL.csproj.CoreCompileInputs.cache
+G:\1 tai lieu hoc tap\Phát triển phần mềm phân tán\Phat_trien_PMPT-main\FoodWebApplication (2)\FoodWebApplication\BLL\obj\Debug\net5.0\BLL.dll
+G:\1 tai lieu hoc tap\Phát triển phần mềm phân tán\Phat_trien_PMPT-main\FoodWebApplication (2)\FoodWebApplication\BLL\obj\Debug\net5.0\refint\BLL.dll
+G:\1 tai lieu hoc tap\Phát triển phần mềm phân tán\Phat_trien_PMPT-main\FoodWebApplication (2)\FoodWebApplication\BLL\obj\Debug\net5.0\BLL.pdb
+G:\1 tai lieu hoc tap\Phát triển phần mềm phân tán\Phat_trien_PMPT-main\FoodWebApplication (2)\FoodWebApplication\BLL\obj\Debug\net5.0\ref\BLL.dll
+G:\1 tai lieu hoc tap\Phát triển phần mềm phân tán\Phat_trien_PMPT-main\FoodWebApplication (2)\FoodWebApplication\BLL\obj\Debug\net5.0\BLL.csproj.Up2Date

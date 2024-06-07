@@ -28,3 +28,18 @@ C:\Users\vuqua\OneDrive\Máy tính\FoodWebApplication (2)\FoodWebApplication\Ent
 C:\Users\vuqua\OneDrive\Máy tính\FoodWebApplication (2)\FoodWebApplication\Entities\obj\Debug\net5.0\Entities.pdb
 C:\Users\vuqua\OneDrive\Máy tính\FoodWebApplication (2)\FoodWebApplication\Entities\obj\Debug\net5.0\Entities.genruntimeconfig.cache
 C:\Users\vuqua\OneDrive\Máy tính\FoodWebApplication (2)\FoodWebApplication\Entities\obj\Debug\net5.0\ref\Entities.dll
+G:\1 tai lieu hoc tap\Phát triển phần mềm phân tán\Phat_trien_PMPT-main\FoodWebApplication (2)\FoodWebApplication\Entities\bin\Debug\net5.0\Entities.deps.json
+G:\1 tai lieu hoc tap\Phát triển phần mềm phân tán\Phat_trien_PMPT-main\FoodWebApplication (2)\FoodWebApplication\Entities\bin\Debug\net5.0\Entities.runtimeconfig.json
+G:\1 tai lieu hoc tap\Phát triển phần mềm phân tán\Phat_trien_PMPT-main\FoodWebApplication (2)\FoodWebApplication\Entities\bin\Debug\net5.0\Entities.runtimeconfig.dev.json
+G:\1 tai lieu hoc tap\Phát triển phần mềm phân tán\Phat_trien_PMPT-main\FoodWebApplication (2)\FoodWebApplication\Entities\bin\Debug\net5.0\Entities.dll
+G:\1 tai lieu hoc tap\Phát triển phần mềm phân tán\Phat_trien_PMPT-main\FoodWebApplication (2)\FoodWebApplication\Entities\bin\Debug\net5.0\Entities.pdb
+G:\1 tai lieu hoc tap\Phát triển phần mềm phân tán\Phat_trien_PMPT-main\FoodWebApplication (2)\FoodWebApplication\Entities\obj\Debug\net5.0\Entities.csproj.AssemblyReference.cache
+G:\1 tai lieu hoc tap\Phát triển phần mềm phân tán\Phat_trien_PMPT-main\FoodWebApplication (2)\FoodWebApplication\Entities\obj\Debug\net5.0\Entities.GeneratedMSBuildEditorConfig.editorconfig
+G:\1 tai lieu hoc tap\Phát triển phần mềm phân tán\Phat_trien_PMPT-main\FoodWebApplication (2)\FoodWebApplication\Entities\obj\Debug\net5.0\Entities.AssemblyInfoInputs.cache
+G:\1 tai lieu hoc tap\Phát triển phần mềm phân tán\Phat_trien_PMPT-main\FoodWebApplication (2)\FoodWebApplication\Entities\obj\Debug\net5.0\Entities.AssemblyInfo.cs
+G:\1 tai lieu hoc tap\Phát triển phần mềm phân tán\Phat_trien_PMPT-main\FoodWebApplication (2)\FoodWebApplication\Entities\obj\Debug\net5.0\Entities.csproj.CoreCompileInputs.cache
+G:\1 tai lieu hoc tap\Phát triển phần mềm phân tán\Phat_trien_PMPT-main\FoodWebApplication (2)\FoodWebApplication\Entities\obj\Debug\net5.0\Entities.dll
+G:\1 tai lieu hoc tap\Phát triển phần mềm phân tán\Phat_trien_PMPT-main\FoodWebApplication (2)\FoodWebApplication\Entities\obj\Debug\net5.0\refint\Entities.dll
+G:\1 tai lieu hoc tap\Phát triển phần mềm phân tán\Phat_trien_PMPT-main\FoodWebApplication (2)\FoodWebApplication\Entities\obj\Debug\net5.0\Entities.pdb
+G:\1 tai lieu hoc tap\Phát triển phần mềm phân tán\Phat_trien_PMPT-main\FoodWebApplication (2)\FoodWebApplication\Entities\obj\Debug\net5.0\Entities.genruntimeconfig.cache
+G:\1 tai lieu hoc tap\Phát triển phần mềm phân tán\Phat_trien_PMPT-main\FoodWebApplication (2)\FoodWebApplication\Entities\obj\Debug\net5.0\ref\Entities.dll
