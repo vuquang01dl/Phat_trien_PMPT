@@ -61,8 +61,8 @@ namespace FoodWebApplication.Controllers
             string smtpAddress = "smtp.gmail.com";
             int portNumber = 587;
             bool enableSSL = true;
-            string emailFrom = "trinhquangngoc53@gmail.com";
-            string password = "trfv vmdw sctt ojvq";
+            string emailFrom = "vuquang01dl@gmail.com";
+            string password = "kvyz gumz rimx kcdn";
             string body = "<div style='font-weigh: 800'>" + model.Content + "</div>";
             if (model.Email.Contains("@gmail.com"))
             {

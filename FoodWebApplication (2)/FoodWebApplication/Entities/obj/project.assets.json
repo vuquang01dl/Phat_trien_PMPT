@@ -6042,23 +6042,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Dell\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\vuqua\\.nuget\\packages\\": {},
+    "E:\\setupvs2\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "G:\\1 tai lieu hoc tap\\Phát triển phần mềm phân tán\\Phat_trien_PMPT-main\\FoodWebApplication (2)\\FoodWebApplication\\Entities\\Entities.csproj",
+      "projectUniqueName": "D:\\Desktop\\FoodWebApplication (2)\\FoodWebApplication\\Entities\\Entities.csproj",
       "projectName": "Entities",
-      "projectPath": "G:\\1 tai lieu hoc tap\\Phát triển phần mềm phân tán\\Phat_trien_PMPT-main\\FoodWebApplication (2)\\FoodWebApplication\\Entities\\Entities.csproj",
-      "packagesPath": "C:\\Users\\Dell\\.nuget\\packages\\",
-      "outputPath": "G:\\1 tai lieu hoc tap\\Phát triển phần mềm phân tán\\Phat_trien_PMPT-main\\FoodWebApplication (2)\\FoodWebApplication\\Entities\\obj\\",
+      "projectPath": "D:\\Desktop\\FoodWebApplication (2)\\FoodWebApplication\\Entities\\Entities.csproj",
+      "packagesPath": "C:\\Users\\vuqua\\.nuget\\packages\\",
+      "outputPath": "D:\\Desktop\\FoodWebApplication (2)\\FoodWebApplication\\Entities\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        "E:\\setupvs2\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\Dell\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\vuqua\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -6123,26 +6123,12 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
-        "downloadDependencies": [
-          {
-            "name": "Microsoft.AspNetCore.App.Ref",
-            "version": "[5.0.0, 5.0.0]"
-          },
-          {
-            "name": "Microsoft.NETCore.App.Ref",
-            "version": "[5.0.0, 5.0.0]"
-          },
-          {
-            "name": "Microsoft.WindowsDesktop.App.Ref",
-            "version": "[5.0.0, 5.0.0]"
-          }
-        ],
         "frameworkReferences": {
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202\\RuntimeIdentifierGraph.json"
       }
     }
   }

@@ -1,9 +1,9 @@
 {
   "runtimeOptions": {
     "additionalProbingPaths": [
-      "C:\\Users\\Dell\\.dotnet\\store\\|arch|\\|tfm|",
-      "C:\\Users\\Dell\\.nuget\\packages",
-      "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      "C:\\Users\\vuqua\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\vuqua\\.nuget\\packages",
+      "E:\\setupvs2\\NuGetPackages"
     ]
   }
 }

@@ -135,8 +135,8 @@ namespace FoodWebApplication.Areas.Admin.Controllers
                     string smtpAddress = "smtp.gmail.com";
                     int portNumber = 587;
                     bool enableSSL = true;
-                    string emailFrom = "studysendmail993@gmail.com";
-                    string password = "hhrxlxaizkuyplap";
+                    string emailFrom = "vuquang01dl@gmail.com";
+                    string password = "kvyz gumz rimx kcdn";
                     if (model.Email.Contains("@gmail.com"))
                     {
                         using (MailMessage mail = new MailMessage())
@@ -179,8 +179,8 @@ namespace FoodWebApplication.Areas.Admin.Controllers
                     string smtpAddress = "smtp.gmail.com";
                     int portNumber = 587;
                     bool enableSSL = true;
-                    string emailFrom = "studysendmail993@gmail.com";
-                    string password = "hhrxlxaizkuyplap";
+                    string emailFrom = "vuquang01dl@gmail.com";
+                    string password = "kvyz gumz rimx kcdn";
                     if (model.Email.Contains("@gmail.com"))
                     {
                         using (MailMessage mail = new MailMessage())

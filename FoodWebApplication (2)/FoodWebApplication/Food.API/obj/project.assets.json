@@ -106,7 +106,7 @@
           }
         }
       },
-      "Microsoft.AspNetCore.Authentication.JwtBearer/5.0.9": {
+      "Microsoft.AspNetCore.Authentication.JwtBearer/5.0.0": {
         "type": "package",
         "dependencies": {
           "Microsoft.IdentityModel.Protocols.OpenIdConnect": "6.7.1"
@@ -3287,10 +3287,10 @@
         "microsoft.aspnetcore.authentication.core.nuspec"
       ]
     },
-    "Microsoft.AspNetCore.Authentication.JwtBearer/5.0.9": {
-      "sha512": "zG4G0waQzkdG0TazXbyuvIxpmWgQllnIjuKNcXNIh5mwcMVG1UPqT09L5EkAGmW2TtktJNWvojr77OpiOpK9JA==",
+    "Microsoft.AspNetCore.Authentication.JwtBearer/5.0.0": {
+      "sha512": "26WlfJsOB4QP3VsEVu5GGDSGm5wu6ikQqRUOaZ3BUmyGcMWsD28xFxPxFw4OszYgKpj54QYlyec19KcrEGkqDw==",
       "type": "package",
-      "path": "microsoft.aspnetcore.authentication.jwtbearer/5.0.9",
+      "path": "microsoft.aspnetcore.authentication.jwtbearer/5.0.0",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
@@ -3298,7 +3298,7 @@
         "THIRD-PARTY-NOTICES.TXT",
         "lib/net5.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll",
         "lib/net5.0/Microsoft.AspNetCore.Authentication.JwtBearer.xml",
-        "microsoft.aspnetcore.authentication.jwtbearer.5.0.9.nupkg.sha512",
+        "microsoft.aspnetcore.authentication.jwtbearer.5.0.0.nupkg.sha512",
         "microsoft.aspnetcore.authentication.jwtbearer.nuspec"
       ]
     },
@@ -9098,31 +9098,29 @@
     "net5.0": [
       "BLL >= 1.0.0",
       "Microsoft.AspNet.WebApi.Core >= 5.0.0",
-      "Microsoft.AspNetCore.Authentication.JwtBearer >= 5.0.9",
+      "Microsoft.AspNetCore.Authentication.JwtBearer >= 5.0.0",
       "Microsoft.AspNetCore.Authentication.OpenIdConnect >= 5.0.0",
-      "Swashbuckle.AspNetCore >= 5.6.3",
-      "Swashbuckle.AspNetCore.SwaggerUI >= 5.6.3",
-      "System.IdentityModel.Tokens.Jwt >= 6.7.1"
+      "Swashbuckle.AspNetCore >= 5.6.3"
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Dell\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\vuqua\\.nuget\\packages\\": {},
+    "E:\\setupvs2\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "G:\\1 tai lieu hoc tap\\Phát triển phần mềm phân tán\\Phat_trien_PMPT-main\\FoodWebApplication (2)\\FoodWebApplication\\Food.API\\Food.API.csproj",
+      "projectUniqueName": "D:\\Desktop\\FoodWebApplication (2)\\FoodWebApplication\\Food.API\\Food.API.csproj",
       "projectName": "Food.API",
-      "projectPath": "G:\\1 tai lieu hoc tap\\Phát triển phần mềm phân tán\\Phat_trien_PMPT-main\\FoodWebApplication (2)\\FoodWebApplication\\Food.API\\Food.API.csproj",
-      "packagesPath": "C:\\Users\\Dell\\.nuget\\packages\\",
-      "outputPath": "G:\\1 tai lieu hoc tap\\Phát triển phần mềm phân tán\\Phat_trien_PMPT-main\\FoodWebApplication (2)\\FoodWebApplication\\Food.API\\obj\\",
+      "projectPath": "D:\\Desktop\\FoodWebApplication (2)\\FoodWebApplication\\Food.API\\Food.API.csproj",
+      "packagesPath": "C:\\Users\\vuqua\\.nuget\\packages\\",
+      "outputPath": "D:\\Desktop\\FoodWebApplication (2)\\FoodWebApplication\\Food.API\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        "E:\\setupvs2\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\Dell\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\vuqua\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -9138,8 +9136,8 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "G:\\1 tai lieu hoc tap\\Phát triển phần mềm phân tán\\Phat_trien_PMPT-main\\FoodWebApplication (2)\\FoodWebApplication\\BLL\\BLL.csproj": {
-              "projectPath": "G:\\1 tai lieu hoc tap\\Phát triển phần mềm phân tán\\Phat_trien_PMPT-main\\FoodWebApplication (2)\\FoodWebApplication\\BLL\\BLL.csproj"
+            "D:\\Desktop\\FoodWebApplication (2)\\FoodWebApplication\\BLL\\BLL.csproj": {
+              "projectPath": "D:\\Desktop\\FoodWebApplication (2)\\FoodWebApplication\\BLL\\BLL.csproj"
             }
           }
         }
@@ -9165,7 +9163,7 @@
           },
           "Microsoft.AspNetCore.Authentication.JwtBearer": {
             "target": "Package",
-            "version": "[5.0.9, )",
+            "version": "[5.0.0, )",
             "noWarn": [
               "NU1605"
             ]
@@ -9180,14 +9178,6 @@
           "Swashbuckle.AspNetCore": {
             "target": "Package",
             "version": "[5.6.3, )"
-          },
-          "Swashbuckle.AspNetCore.SwaggerUI": {
-            "target": "Package",
-            "version": "[5.6.3, )"
-          },
-          "System.IdentityModel.Tokens.Jwt": {
-            "target": "Package",
-            "version": "[6.7.1, )"
           }
         },
         "imports": [
@@ -9201,24 +9191,6 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
-        "downloadDependencies": [
-          {
-            "name": "Microsoft.AspNetCore.App.Ref",
-            "version": "[5.0.0, 5.0.0]"
-          },
-          {
-            "name": "Microsoft.NETCore.App.Host.win-x64",
-            "version": "[5.0.17, 5.0.17]"
-          },
-          {
-            "name": "Microsoft.NETCore.App.Ref",
-            "version": "[5.0.0, 5.0.0]"
-          },
-          {
-            "name": "Microsoft.WindowsDesktop.App.Ref",
-            "version": "[5.0.0, 5.0.0]"
-          }
-        ],
         "frameworkReferences": {
           "Microsoft.AspNetCore.App": {
             "privateAssets": "none"
@@ -9227,7 +9199,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202\\RuntimeIdentifierGraph.json"
       }
     }
   },
@@ -9236,18 +9208,8 @@
       "code": "NU1902",
       "level": "Warning",
       "warningLevel": 1,
-      "message": "Package 'Swashbuckle.AspNetCore.SwaggerUI' 5.6.3 has a known moderate severity vulnerability, https://github.com/advisories/GHSA-qrmm-w75w-3wpx",
-      "libraryId": "Swashbuckle.AspNetCore.SwaggerUI",
-      "targetGraphs": [
-        "net5.0"
-      ]
-    },
-    {
-      "code": "NU1902",
-      "level": "Warning",
-      "warningLevel": 1,
-      "message": "Package 'System.IdentityModel.Tokens.Jwt' 6.7.1 has a known moderate severity vulnerability, https://github.com/advisories/GHSA-59j7-ghrg-fj52",
-      "libraryId": "System.IdentityModel.Tokens.Jwt",
+      "message": "Package 'Microsoft.AspNetCore.Authentication.JwtBearer' 5.0.0 has a known moderate severity vulnerability, https://github.com/advisories/GHSA-q7cg-43mg-qp69",
+      "libraryId": "Microsoft.AspNetCore.Authentication.JwtBearer",
       "targetGraphs": [
         "net5.0"
       ]
