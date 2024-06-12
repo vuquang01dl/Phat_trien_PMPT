@@ -1,0 +1,52 @@
+﻿@{
+    Layout = null;
+}
+@model DTO.Category.CategoryDTO
+<div class="row form-horizontal form-label-left" style="margin-bottom:15px;">
+    <div class="col-12">
+        <div class="card">
+            <div class="card-body">
+                <fieldset style="width: 100%">
+                    <legend>Information </legend>
+                    <div class="first-step-group-criteria" style="padding-top:10px; margin-bottom: 10px;">
+                        <div class="form-row">
+                            <div class="col-md-6 mb-3">
+                                <label for="FullName">Name</label>
+                                @Html.HiddenFor(model => model.Id)
+                                @Html.TextBoxFor(model => model.Name, new { @class = "form-control", @id = "Code", placeholder = "Name", @autocomplete = "off" })
+                                @Html.ValidationMessageFor(model => model.Name, null, new { @class = "label label-danger" })
+                            </div>
+                        </div>
+
+                        <div class="form-row">
+                            <div class="col-md-6 mb-3">
+                                <label for="email">Image</label>
+                                @Html.HiddenFor(model =>model.ImageURL)
+                                @Html.TextBoxFor(model => model.PictureUpload, new { @class = "dropify", @type = "file" })
+                            </div>
+                        </div>
+
+                        <div class="form-row">
+                            <div class="col-md-6 mb-3">
+                                <label></label>
+                                <div class="custom-control custom-checkbox">
+                                    @Html.CheckBoxFor(model => model.IsActive, new { @class = "icheck custom-control-input", @id = "active" })
+                                    <label class="custom-control-label" for="active">status</label>
+                                </div>
+                            </div>
+                        </div>
+
+                    </div>
+                </fieldset>
+                <div class="text-right">
+                    <a href="@Url.Action("Index","CategoriesManagement")" class="btn btn-default" type="submit">Cancel</a>
+                    <button class="btn btn-primary" type="submit">Save</button>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<script type="text/javascript">
+    $(document).ready(function () {
+    })
+</script>

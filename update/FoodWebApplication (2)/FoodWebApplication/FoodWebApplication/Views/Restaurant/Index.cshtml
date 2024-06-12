@@ -1,0 +1,33 @@
+﻿@model FoodWebApplication.Models.HomeViewModels
+@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+    var info = System.Globalization.CultureInfo.GetCultureInfo("vi-VN");
+}
+
+<div ng-controller="CartCtrl">
+    <!-- Slider Area Start -->
+    <div class="slider-area slider-style-three">
+        <div class="container">
+            <div class="row">
+                @if (Model != null && Model.Restaurants.Any())
+                {
+                    var No = 0;
+                    foreach (var item in Model.Restaurants)
+                    {
+                        No = No + 1;
+                        <div class="col-lg-3" style="text-align: center">
+                            <div><img src="@Url.Content(@item.ImageURL)" style="width: 100% !important; height: 150px !important; " /></div>
+                            <div style="margin: 9px"><a href="@Url.Action("Detail","Restaurant", new { q = item.Id })"><h4 style="color: #f1ac06 ">@item.Name</h4></a></div>
+                        </div>
+                    }
+                }
+            </div>
+        </div>
+    </div>
+</div>
+
+<script>
+    $('#config-table').DataTable({
+        responsive: true
+    });
+</script>

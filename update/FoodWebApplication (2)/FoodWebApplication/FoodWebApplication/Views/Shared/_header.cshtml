@@ -1,0 +1,201 @@
+﻿@using Microsoft.AspNetCore.Http
+@inject IHttpContextAccessor HttpContextAccessor
+
+@{
+    var UsersInfo = HttpContextAccessor.HttpContext.Session.GetString("UserWeb") != null ? Newtonsoft.Json.JsonConvert.DeserializeObject<DTO.User.UserDTO>(HttpContextAccessor.HttpContext.Session.GetString("UserWeb")) : null;
+    if (UsersInfo == null)
+    {
+        UsersInfo = HttpContextAccessor.HttpContext.Session.GetString("UserAdmin") != null ? Newtonsoft.Json.JsonConvert.DeserializeObject<DTO.User.UserDTO>(HttpContextAccessor.HttpContext.Session.GetString("UserAdmin")) : null;
+    }
+}
+<style>
+    .header-list-menu > li:first-child::after {
+        background: #fff !important;
+    }
+</style>
+<!-- Header Top Start -->
+<!-- Header Top End -->
+<!-- Header Bottom Start -->
+<div class="header-bottom header-sticky" ng-controller="CartCtrl">
+
+    <div class="header-top">
+        <div class="container">
+            <div class="row" style="align-items: baseline">
+                <!-- Header Top left Start -->
+                <div class="col-lg-2 col-md-12 d-center">
+                    <div class="header-top-left">
+                        <a href="@Url.Action("Index", "Home")"><img src="" alt="" style="max-width: 73px"></a>
+                    </div>
+                </div>
+                <!-- Header Top left End -->
+                <!-- Search Box Start -->
+                <div class="col-lg-7 col-md-6 ml-auto mr-auto" style="margin-top: 13px; ">
+                    <div class="search-box-view">
+                        <form action="/Home/Search" method="get">
+                            <input type="text" class="email" placeholder="Search restaurants..." name="q">
+                            <button type="submit" class="submit"></button>
+                        </form>
+                    </div>
+                </div>
+                <!-- Search Box End -->
+                <!-- Header Top Right Start -->
+                <div class="col-lg-2 col-md-12">
+                    <div class="header-top-right">
+                        <ul class="header-list-menu f-right" style="background: #fff !important; border-radius: 9px; ">
+                            <li>
+                                @if (UsersInfo == null)
+                                {
+                                    <a href="#">Tài khoản <i class="fa fa-angle-down"></i></a>
+                                    <ul class="ht-dropdown">
+                                        <li><a href="@Url.Action("Register", "Account")">Đăng ký</a></li>
+                                        <li><a href="@Url.Action("SignIn", "Account")">Đăng nhập</a></li>
+                                    </ul>
+                                }
+                                @if (UsersInfo != null)
+                                {
+                                    <a href="#">@UsersInfo.Email <i class="fa fa-angle-down"></i></a>
+                                    <ul class="ht-dropdown">
+                                        <li><a href="#">@UsersInfo.Email</a></li>
+                                        <li>
+                                            @using (Html.BeginForm("Logout", "Account", FormMethod.Post, new { id = "logoutForm", @class = "navbar-right" }))
+                                            {
+                                                @Html.AntiForgeryToken()
+                                                <a href="#" onclick="document.getElementById('logoutForm').submit();">
+                                                    Logout
+                                                </a>
+                                            }
+                                        </li>
+                                        @if (UsersInfo.Type == 2)
+                                        {
+                                            <li><a href="@Url.Action("ListOrderCustomer", "Carts")">Đơn hàng</a></li>
+                                        }                                        
+                                    </ul>
+                                }
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="container">
+        <div class="row">
+            @*
+            <div class="col-xl-2 col-lg-2 col-sm-5 col-5">
+            <div class="logo">
+            <a href="@Url.Action("Index","Home")"><img src="@Url.Content("~/Images/logo.png")" alt="logo-image"></a>
+            </div>
+            </div>
+            *@
+            <!-- Primary Vertical-Menu End -->
+            <!-- Search Box Start -->
+            <div class="col-xl-10 col-lg-10 d-none d-lg-block">
+                <div class="middle-menu">
+                    <nav>
+                        <ul class="middle-menu-list">
+                            <li><a href="@Url.Action("Index", "Home")">Home</a></li>
+
+                            @*<li><a href="@Url.Action("Index","Tutorial")">Hướng dẫn</a></li>*@
+                            <li><a href="@Url.Action("Index", "Restaurant")">Restaurant</a></li>
+                            @*<li>
+                            <a href="@Url.Action("Index","Shop")">Sản phẩm</a>
+                            </li>*@
+                            <li><a href="@Url.Action("Contact", "Home")">Contact</a></li>
+                            <li><a href="@Url.Action("About", "Home")">About</a></li>
+                        </ul>
+                    </nav>
+                </div>
+            </div>
+            <!-- Search Box End -->
+            <!-- Cartt Box Start -->
+            <div class="col-lg-2 col-sm-7 col-7">
+                <div class="cart-box text-right">
+                    <ul>
+                        @*<li>
+                        <a href="@Url.Action("Index", "Cart")"><i class="fa fa-cog"></i></a>
+                        </li>
+                        <li><a href="@Url.Action("Index", "Cart")"><i class="fa fa-heart-o"></i></a></li>*@
+                        <li>
+                            <a href="@Url.Action("Index", "Carts")"><i class="fa fa-shopping-basket"></i><span class="cart-counter" id="CartCount">0</span></a>
+                            <ul class="ht-dropdown main-cart-box">
+                                <li>
+                                    <div ng-repeat="item in Products">
+                                        <div class="single-cart-box">
+                                            <div class="cart-img">
+                                                <a href="/Shop/Detail?q={{item.Alias}}"><img ng-src="{{item.ImageUrl}}" ng-alt="{{item.Name}}"></a>
+                                            </div>
+                                            <div class="cart-content">
+                                                <h6><a href="/Shop/Detail?q={{item.Alias}}">{{item.Name}}</a></h6>
+                                                <span>{{item.Quantity}} × {{item.Price | currency : '' : 0}} VNĐ</span>
+                                            </div>
+                                            <a class="del-icone" href="" ng-click="RemoveItemOrder($index)"><i class="fa fa-window-close-o"></i></a>
+                                        </div>
+                                    </div>
+                                    <div class="cart-footer fix" style="width: 100%; margin-bottom: 6px;">
+                                        <h5>Tổng :<span class="f-right">{{getTotalQty()}}</span></h5>
+                                        @*<div ng-if="getStatusOrder() != ''" style="display: inline-flex; align-items: baseline">
+                                            <h6 style="width: 60%">Trạng thái: </h6>
+                                            <span class="f-right" style="font-weight: bold; font-style: italic; width: 40%; float: right">{{getStatusOrder()}}</span>
+                                        </div>*@
+                                        <div class="cart-actions">
+                                            <a class="checkout" href="@Url.Action("CheckOut","Carts")">CheckOut</a>
+                                        </div>
+                                    </div>
+                                    <!-- Cart Footer Inner End -->
+                                </li>
+                            </ul>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+            <!-- Cartt Box End -->
+            <div class="col-sm-12 d-lg-none">
+                <div class="mobile-menu">
+                    <nav>
+                        <ul>
+                            <li>
+                                <a href="@Url.Action("Index","Home")">Trang chủ</a>
+                            </li>
+                            <li>
+                                <a href="@Url.Action("Index","Shop")">Cửa hàng</a>
+                                <!-- Mobile Menu Dropdown Start -->
+                                <ul>
+                                    <li>
+                                        <a href="@Url.Action("Index","Shop")">Sản phẩm</a>
+                                    </li>
+                                    <li><a href="@Url.Action("Index","Cart")">Giỏ hàng</a></li>
+                                    <li><a href="@Url.Action("CheckOut","Cart")">Thanh toán</a></li>
+                                    @*
+                                    <li><a href="wishlist.html">Wishlist Page</a></li>
+                                    *@
+                                </ul>
+                            </li>
+                            <li>
+                                <a href="@Url.Action("Index","Blog")">Tin tức</a>
+                            </li>
+                            <li>
+                                <a href="#">Trang</a>
+                                <ul>
+                                    <li><a href="@Url.Action("SignUp","Login")">Đăng nhập</a></li>
+                                    <li><a href="@Url.Action("SignUp","Login")">Đăng ký</a></li>
+                                    <li><a href="@Url.Action("Index","NotFound")">404</a></li>
+                                </ul>
+                            </li>
+                            <li><a href="@Url.Action("Index","About")">Thông tin</a></li>
+                            <li><a href="@Url.Action("Index","Contact")">Liên hệ</a></li>
+                        </ul>
+                    </nav>
+                </div>
+            </div>
+            <!-- Mobile Menu  End -->
+        </div>
+        <!-- Row End -->
+    </div>
+    <!-- Container End -->
+</div>
+
+@*<script>
+    $("#id-login-submit").click(function () {
+        form.submit();
+    });
+</script>*@

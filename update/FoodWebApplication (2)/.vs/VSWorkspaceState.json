@@ -1,0 +1,17 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\FoodWebApplication",
+    "\\FoodWebApplication\\Food.API",
+    "\\FoodWebApplication\\Food.API\\Controllers",
+    "\\FoodWebApplication\\FoodWebApplication",
+    "\\FoodWebApplication\\FoodWebApplication\\Areas",
+    "\\FoodWebApplication\\FoodWebApplication\\Areas\\Admin",
+    "\\FoodWebApplication\\FoodWebApplication\\Areas\\Admin\\Controllers",
+    "\\FoodWebApplication\\FoodWebApplication\\Views",
+    "\\FoodWebApplication\\FoodWebApplication\\Views\\Carts",
+    "\\FoodWebApplication\\FoodWebApplication\\Views\\Home"
+  ],
+  "SelectedNode": "\\FoodWebApplication\\FoodWebApplication\\Areas\\Admin\\Controllers\\OrderManagementController.cs",
+  "PreviewInSolutionExplorer": false
+}

@@ -1,0 +1,677 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Desktop\\FoodWebApplication (2)\\FoodWebApplication\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AA653489-DA79-4CA2-9E83-24CE7716943C}|FoodWebApplication\\FoodWebApplication.csproj|d:\\desktop\\foodwebapplication (2)\\foodwebapplication\\foodwebapplication\\areas\\admin\\controllers\\ordermanagementcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA653489-DA79-4CA2-9E83-24CE7716943C}|FoodWebApplication\\FoodWebApplication.csproj|solutionrelative:foodwebapplication\\areas\\admin\\controllers\\ordermanagementcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA653489-DA79-4CA2-9E83-24CE7716943C}|FoodWebApplication\\FoodWebApplication.csproj|d:\\desktop\\foodwebapplication (2)\\foodwebapplication\\foodwebapplication\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA653489-DA79-4CA2-9E83-24CE7716943C}|FoodWebApplication\\FoodWebApplication.csproj|solutionrelative:foodwebapplication\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD0F29D2-2312-4F7C-AC68-2FE1B802AFD7}|BLL\\BLL.csproj|d:\\desktop\\foodwebapplication (2)\\foodwebapplication\\bll\\services\\restaurantservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD0F29D2-2312-4F7C-AC68-2FE1B802AFD7}|BLL\\BLL.csproj|solutionrelative:bll\\services\\restaurantservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B5D1B27-0DAD-4700-9D9E-273999B64FE6}|Food.API\\Food.API.csproj|d:\\desktop\\foodwebapplication (2)\\foodwebapplication\\food.api\\controllers\\restaurantcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B5D1B27-0DAD-4700-9D9E-273999B64FE6}|Food.API\\Food.API.csproj|solutionrelative:food.api\\controllers\\restaurantcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA653489-DA79-4CA2-9E83-24CE7716943C}|FoodWebApplication\\FoodWebApplication.csproj|d:\\desktop\\foodwebapplication (2)\\foodwebapplication\\foodwebapplication\\views\\restaurant\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AA653489-DA79-4CA2-9E83-24CE7716943C}|FoodWebApplication\\FoodWebApplication.csproj|solutionrelative:foodwebapplication\\views\\restaurant\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA653489-DA79-4CA2-9E83-24CE7716943C}|FoodWebApplication\\FoodWebApplication.csproj|d:\\desktop\\foodwebapplication (2)\\foodwebapplication\\foodwebapplication\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AA653489-DA79-4CA2-9E83-24CE7716943C}|FoodWebApplication\\FoodWebApplication.csproj|solutionrelative:foodwebapplication\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA653489-DA79-4CA2-9E83-24CE7716943C}|FoodWebApplication\\FoodWebApplication.csproj|d:\\desktop\\foodwebapplication (2)\\foodwebapplication\\foodwebapplication\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AA653489-DA79-4CA2-9E83-24CE7716943C}|FoodWebApplication\\FoodWebApplication.csproj|solutionrelative:foodwebapplication\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD0F29D2-2312-4F7C-AC68-2FE1B802AFD7}|BLL\\BLL.csproj|d:\\desktop\\foodwebapplication (2)\\foodwebapplication\\bll\\services\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD0F29D2-2312-4F7C-AC68-2FE1B802AFD7}|BLL\\BLL.csproj|solutionrelative:bll\\services\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4A089A7-E81B-4B02-B9D1-31E22E40D545}|DTO\\DTO.csproj|d:\\desktop\\foodwebapplication (2)\\foodwebapplication\\dto\\dto.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{F4A089A7-E81B-4B02-B9D1-31E22E40D545}|DTO\\DTO.csproj|solutionrelative:dto\\dto.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA653489-DA79-4CA2-9E83-24CE7716943C}|FoodWebApplication\\FoodWebApplication.csproj|d:\\desktop\\foodwebapplication (2)\\foodwebapplication\\foodwebapplication\\views\\carts\\checkout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AA653489-DA79-4CA2-9E83-24CE7716943C}|FoodWebApplication\\FoodWebApplication.csproj|solutionrelative:foodwebapplication\\views\\carts\\checkout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA653489-DA79-4CA2-9E83-24CE7716943C}|FoodWebApplication\\FoodWebApplication.csproj|d:\\desktop\\foodwebapplication (2)\\foodwebapplication\\foodwebapplication\\views\\carts\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AA653489-DA79-4CA2-9E83-24CE7716943C}|FoodWebApplication\\FoodWebApplication.csproj|solutionrelative:foodwebapplication\\views\\carts\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA653489-DA79-4CA2-9E83-24CE7716943C}|FoodWebApplication\\FoodWebApplication.csproj|d:\\desktop\\foodwebapplication (2)\\foodwebapplication\\foodwebapplication\\views\\carts\\listordercustomer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AA653489-DA79-4CA2-9E83-24CE7716943C}|FoodWebApplication\\FoodWebApplication.csproj|solutionrelative:foodwebapplication\\views\\carts\\listordercustomer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA653489-DA79-4CA2-9E83-24CE7716943C}|FoodWebApplication\\FoodWebApplication.csproj|d:\\desktop\\foodwebapplication (2)\\foodwebapplication\\foodwebapplication\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AA653489-DA79-4CA2-9E83-24CE7716943C}|FoodWebApplication\\FoodWebApplication.csproj|solutionrelative:foodwebapplication\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA653489-DA79-4CA2-9E83-24CE7716943C}|FoodWebApplication\\FoodWebApplication.csproj|d:\\desktop\\foodwebapplication (2)\\foodwebapplication\\foodwebapplication\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AA653489-DA79-4CA2-9E83-24CE7716943C}|FoodWebApplication\\FoodWebApplication.csproj|solutionrelative:foodwebapplication\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA653489-DA79-4CA2-9E83-24CE7716943C}|FoodWebApplication\\FoodWebApplication.csproj|d:\\desktop\\foodwebapplication (2)\\foodwebapplication\\foodwebapplication\\views\\restaurant\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AA653489-DA79-4CA2-9E83-24CE7716943C}|FoodWebApplication\\FoodWebApplication.csproj|solutionrelative:foodwebapplication\\views\\restaurant\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA653489-DA79-4CA2-9E83-24CE7716943C}|FoodWebApplication\\FoodWebApplication.csproj|d:\\desktop\\foodwebapplication (2)\\foodwebapplication\\foodwebapplication\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AA653489-DA79-4CA2-9E83-24CE7716943C}|FoodWebApplication\\FoodWebApplication.csproj|solutionrelative:foodwebapplication\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA653489-DA79-4CA2-9E83-24CE7716943C}|FoodWebApplication\\FoodWebApplication.csproj|d:\\desktop\\foodwebapplication (2)\\foodwebapplication\\foodwebapplication\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AA653489-DA79-4CA2-9E83-24CE7716943C}|FoodWebApplication\\FoodWebApplication.csproj|solutionrelative:foodwebapplication\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA653489-DA79-4CA2-9E83-24CE7716943C}|FoodWebApplication\\FoodWebApplication.csproj|d:\\desktop\\foodwebapplication (2)\\foodwebapplication\\foodwebapplication\\models\\ordercookie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA653489-DA79-4CA2-9E83-24CE7716943C}|FoodWebApplication\\FoodWebApplication.csproj|solutionrelative:foodwebapplication\\models\\ordercookie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA653489-DA79-4CA2-9E83-24CE7716943C}|FoodWebApplication\\FoodWebApplication.csproj|d:\\desktop\\foodwebapplication (2)\\foodwebapplication\\foodwebapplication\\models\\homeviewmodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA653489-DA79-4CA2-9E83-24CE7716943C}|FoodWebApplication\\FoodWebApplication.csproj|solutionrelative:foodwebapplication\\models\\homeviewmodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA653489-DA79-4CA2-9E83-24CE7716943C}|FoodWebApplication\\FoodWebApplication.csproj|d:\\desktop\\foodwebapplication (2)\\foodwebapplication\\foodwebapplication\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA653489-DA79-4CA2-9E83-24CE7716943C}|FoodWebApplication\\FoodWebApplication.csproj|solutionrelative:foodwebapplication\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA653489-DA79-4CA2-9E83-24CE7716943C}|FoodWebApplication\\FoodWebApplication.csproj|d:\\desktop\\foodwebapplication (2)\\foodwebapplication\\foodwebapplication\\views\\account\\signin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AA653489-DA79-4CA2-9E83-24CE7716943C}|FoodWebApplication\\FoodWebApplication.csproj|solutionrelative:foodwebapplication\\views\\account\\signin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B5D1B27-0DAD-4700-9D9E-273999B64FE6}|Food.API\\Food.API.csproj|d:\\desktop\\foodwebapplication (2)\\foodwebapplication\\food.api\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B5D1B27-0DAD-4700-9D9E-273999B64FE6}|Food.API\\Food.API.csproj|solutionrelative:food.api\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD0F29D2-2312-4F7C-AC68-2FE1B802AFD7}|BLL\\BLL.csproj|d:\\desktop\\foodwebapplication (2)\\foodwebapplication\\bll\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD0F29D2-2312-4F7C-AC68-2FE1B802AFD7}|BLL\\BLL.csproj|solutionrelative:bll\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD0F29D2-2312-4F7C-AC68-2FE1B802AFD7}|BLL\\BLL.csproj|d:\\desktop\\foodwebapplication (2)\\foodwebapplication\\bll\\iservices\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD0F29D2-2312-4F7C-AC68-2FE1B802AFD7}|BLL\\BLL.csproj|solutionrelative:bll\\iservices\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4A089A7-E81B-4B02-B9D1-31E22E40D545}|DTO\\DTO.csproj|d:\\desktop\\foodwebapplication (2)\\foodwebapplication\\dto\\user\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4A089A7-E81B-4B02-B9D1-31E22E40D545}|DTO\\DTO.csproj|solutionrelative:dto\\user\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4A089A7-E81B-4B02-B9D1-31E22E40D545}|DTO\\DTO.csproj|d:\\desktop\\foodwebapplication (2)\\foodwebapplication\\dto\\user\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4A089A7-E81B-4B02-B9D1-31E22E40D545}|DTO\\DTO.csproj|solutionrelative:dto\\user\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4A089A7-E81B-4B02-B9D1-31E22E40D545}|DTO\\DTO.csproj|d:\\desktop\\foodwebapplication (2)\\foodwebapplication\\dto\\user\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4A089A7-E81B-4B02-B9D1-31E22E40D545}|DTO\\DTO.csproj|solutionrelative:dto\\user\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2EE16AA-19FB-4772-9551-7AC11D69EE39}|Entities\\Entities.csproj|d:\\desktop\\foodwebapplication (2)\\foodwebapplication\\entities\\user\\userentities.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2EE16AA-19FB-4772-9551-7AC11D69EE39}|Entities\\Entities.csproj|solutionrelative:entities\\user\\userentities.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4A089A7-E81B-4B02-B9D1-31E22E40D545}|DTO\\DTO.csproj|d:\\desktop\\foodwebapplication (2)\\foodwebapplication\\dto\\category\\categorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4A089A7-E81B-4B02-B9D1-31E22E40D545}|DTO\\DTO.csproj|solutionrelative:dto\\category\\categorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B5D1B27-0DAD-4700-9D9E-273999B64FE6}|Food.API\\Food.API.csproj|d:\\desktop\\foodwebapplication (2)\\foodwebapplication\\food.api\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B5D1B27-0DAD-4700-9D9E-273999B64FE6}|Food.API\\Food.API.csproj|solutionrelative:food.api\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA653489-DA79-4CA2-9E83-24CE7716943C}|FoodWebApplication\\FoodWebApplication.csproj|d:\\desktop\\foodwebapplication (2)\\foodwebapplication\\foodwebapplication\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{AA653489-DA79-4CA2-9E83-24CE7716943C}|FoodWebApplication\\FoodWebApplication.csproj|solutionrelative:foodwebapplication\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B5D1B27-0DAD-4700-9D9E-273999B64FE6}|Food.API\\Food.API.csproj|d:\\desktop\\foodwebapplication (2)\\foodwebapplication\\food.api\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B5D1B27-0DAD-4700-9D9E-273999B64FE6}|Food.API\\Food.API.csproj|solutionrelative:food.api\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B5D1B27-0DAD-4700-9D9E-273999B64FE6}|Food.API\\Food.API.csproj|d:\\desktop\\foodwebapplication (2)\\foodwebapplication\\food.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2B5D1B27-0DAD-4700-9D9E-273999B64FE6}|Food.API\\Food.API.csproj|solutionrelative:food.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B5D1B27-0DAD-4700-9D9E-273999B64FE6}|Food.API\\Food.API.csproj|d:\\desktop\\foodwebapplication (2)\\foodwebapplication\\food.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2B5D1B27-0DAD-4700-9D9E-273999B64FE6}|Food.API\\Food.API.csproj|solutionrelative:food.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA653489-DA79-4CA2-9E83-24CE7716943C}|FoodWebApplication\\FoodWebApplication.csproj|d:\\desktop\\foodwebapplication (2)\\foodwebapplication\\foodwebapplication\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{AA653489-DA79-4CA2-9E83-24CE7716943C}|FoodWebApplication\\FoodWebApplication.csproj|solutionrelative:foodwebapplication\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD0F29D2-2312-4F7C-AC68-2FE1B802AFD7}|BLL\\BLL.csproj|d:\\desktop\\foodwebapplication (2)\\foodwebapplication\\bll\\services\\customerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD0F29D2-2312-4F7C-AC68-2FE1B802AFD7}|BLL\\BLL.csproj|solutionrelative:bll\\services\\customerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA653489-DA79-4CA2-9E83-24CE7716943C}|FoodWebApplication\\FoodWebApplication.csproj|d:\\desktop\\foodwebapplication (2)\\foodwebapplication\\foodwebapplication\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AA653489-DA79-4CA2-9E83-24CE7716943C}|FoodWebApplication\\FoodWebApplication.csproj|solutionrelative:foodwebapplication\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA653489-DA79-4CA2-9E83-24CE7716943C}|FoodWebApplication\\FoodWebApplication.csproj|d:\\desktop\\foodwebapplication (2)\\foodwebapplication\\foodwebapplication\\controllers\\cartscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA653489-DA79-4CA2-9E83-24CE7716943C}|FoodWebApplication\\FoodWebApplication.csproj|solutionrelative:foodwebapplication\\controllers\\cartscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA653489-DA79-4CA2-9E83-24CE7716943C}|FoodWebApplication\\FoodWebApplication.csproj|d:\\desktop\\foodwebapplication (2)\\foodwebapplication\\foodwebapplication\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA653489-DA79-4CA2-9E83-24CE7716943C}|FoodWebApplication\\FoodWebApplication.csproj|solutionrelative:foodwebapplication\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA653489-DA79-4CA2-9E83-24CE7716943C}|FoodWebApplication\\FoodWebApplication.csproj|d:\\desktop\\foodwebapplication (2)\\foodwebapplication\\foodwebapplication\\wwwroot\\content\\web\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{AA653489-DA79-4CA2-9E83-24CE7716943C}|FoodWebApplication\\FoodWebApplication.csproj|solutionrelative:foodwebapplication\\wwwroot\\content\\web\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RestaurantService.cs",
+              "DocumentMoniker": "D:\\Desktop\\FoodWebApplication (2)\\FoodWebApplication\\BLL\\Services\\RestaurantService.cs",
+              "RelativeDocumentMoniker": "BLL\\Services\\RestaurantService.cs",
+              "ToolTip": "D:\\Desktop\\FoodWebApplication (2)\\FoodWebApplication\\BLL\\Services\\RestaurantService.cs",
+              "RelativeToolTip": "BLL\\Services\\RestaurantService.cs",
+              "ViewState": "AQIAANYAAAAAAAAAAAAYwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T14:03:39.569Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RestaurantController.cs",
+              "DocumentMoniker": "D:\\Desktop\\FoodWebApplication (2)\\FoodWebApplication\\Food.API\\Controllers\\RestaurantController.cs",
+              "RelativeDocumentMoniker": "Food.API\\Controllers\\RestaurantController.cs",
+              "ToolTip": "D:\\Desktop\\FoodWebApplication (2)\\FoodWebApplication\\Food.API\\Controllers\\RestaurantController.cs",
+              "RelativeToolTip": "Food.API\\Controllers\\RestaurantController.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAgwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T14:03:29.369Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "OrderManagementController.cs",
+              "DocumentMoniker": "D:\\Desktop\\FoodWebApplication (2)\\FoodWebApplication\\FoodWebApplication\\Areas\\Admin\\Controllers\\OrderManagementController.cs",
+              "RelativeDocumentMoniker": "FoodWebApplication\\Areas\\Admin\\Controllers\\OrderManagementController.cs",
+              "ToolTip": "D:\\Desktop\\FoodWebApplication (2)\\FoodWebApplication\\FoodWebApplication\\Areas\\Admin\\Controllers\\OrderManagementController.cs",
+              "RelativeToolTip": "FoodWebApplication\\Areas\\Admin\\Controllers\\OrderManagementController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T14:02:40.005Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Desktop\\FoodWebApplication (2)\\FoodWebApplication\\FoodWebApplication\\Views\\Restaurant\\Index.cshtml",
+              "RelativeDocumentMoniker": "FoodWebApplication\\Views\\Restaurant\\Index.cshtml",
+              "ToolTip": "D:\\Desktop\\FoodWebApplication (2)\\FoodWebApplication\\FoodWebApplication\\Views\\Restaurant\\Index.cshtml",
+              "RelativeToolTip": "FoodWebApplication\\Views\\Restaurant\\Index.cshtml",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-05T16:09:44.252Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\Desktop\\FoodWebApplication (2)\\FoodWebApplication\\FoodWebApplication\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "FoodWebApplication\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\Desktop\\FoodWebApplication (2)\\FoodWebApplication\\FoodWebApplication\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "FoodWebApplication\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAADUAAAAAAAAAAAAIwEAAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T02:12:00.522Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DTO.csproj",
+              "DocumentMoniker": "D:\\Desktop\\FoodWebApplication (2)\\FoodWebApplication\\DTO\\DTO.csproj",
+              "RelativeDocumentMoniker": "DTO\\DTO.csproj",
+              "ToolTip": "D:\\Desktop\\FoodWebApplication (2)\\FoodWebApplication\\DTO\\DTO.csproj",
+              "RelativeToolTip": "DTO\\DTO.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-06T00:13:17.477Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Contact.cshtml",
+              "DocumentMoniker": "D:\\Desktop\\FoodWebApplication (2)\\FoodWebApplication\\FoodWebApplication\\Views\\Home\\Contact.cshtml",
+              "RelativeDocumentMoniker": "FoodWebApplication\\Views\\Home\\Contact.cshtml",
+              "ToolTip": "D:\\Desktop\\FoodWebApplication (2)\\FoodWebApplication\\FoodWebApplication\\Views\\Home\\Contact.cshtml",
+              "RelativeToolTip": "FoodWebApplication\\Views\\Home\\Contact.cshtml",
+              "ViewState": "AQIAACQAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-06T02:09:23.604Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ListOrderCustomer.cshtml",
+              "DocumentMoniker": "D:\\Desktop\\FoodWebApplication (2)\\FoodWebApplication\\FoodWebApplication\\Views\\Carts\\ListOrderCustomer.cshtml",
+              "RelativeDocumentMoniker": "FoodWebApplication\\Views\\Carts\\ListOrderCustomer.cshtml",
+              "ToolTip": "D:\\Desktop\\FoodWebApplication (2)\\FoodWebApplication\\FoodWebApplication\\Views\\Carts\\ListOrderCustomer.cshtml",
+              "RelativeToolTip": "FoodWebApplication\\Views\\Carts\\ListOrderCustomer.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-05T18:13:50.961Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "About.cshtml",
+              "DocumentMoniker": "D:\\Desktop\\FoodWebApplication (2)\\FoodWebApplication\\FoodWebApplication\\Views\\Home\\About.cshtml",
+              "RelativeDocumentMoniker": "FoodWebApplication\\Views\\Home\\About.cshtml",
+              "ToolTip": "D:\\Desktop\\FoodWebApplication (2)\\FoodWebApplication\\FoodWebApplication\\Views\\Home\\About.cshtml",
+              "RelativeToolTip": "FoodWebApplication\\Views\\Home\\About.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-05T18:13:45.257Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Desktop\\FoodWebApplication (2)\\FoodWebApplication\\FoodWebApplication\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "FoodWebApplication\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\Desktop\\FoodWebApplication (2)\\FoodWebApplication\\FoodWebApplication\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "FoodWebApplication\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-05T18:13:43.702Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "OrderService.cs",
+              "DocumentMoniker": "D:\\Desktop\\FoodWebApplication (2)\\FoodWebApplication\\BLL\\Services\\OrderService.cs",
+              "RelativeDocumentMoniker": "BLL\\Services\\OrderService.cs",
+              "ToolTip": "D:\\Desktop\\FoodWebApplication (2)\\FoodWebApplication\\BLL\\Services\\OrderService.cs",
+              "RelativeToolTip": "BLL\\Services\\OrderService.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAqwPIAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T18:04:42.284Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Desktop\\FoodWebApplication (2)\\FoodWebApplication\\FoodWebApplication\\Views\\Carts\\Index.cshtml",
+              "RelativeDocumentMoniker": "FoodWebApplication\\Views\\Carts\\Index.cshtml",
+              "ToolTip": "D:\\Desktop\\FoodWebApplication (2)\\FoodWebApplication\\FoodWebApplication\\Views\\Carts\\Index.cshtml",
+              "RelativeToolTip": "FoodWebApplication\\Views\\Carts\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-05T18:13:56.246Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "D:\\Desktop\\FoodWebApplication (2)\\FoodWebApplication\\FoodWebApplication\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "FoodWebApplication\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "D:\\Desktop\\FoodWebApplication (2)\\FoodWebApplication\\FoodWebApplication\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "FoodWebApplication\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-05T18:13:42.885Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CheckOut.cshtml",
+              "DocumentMoniker": "D:\\Desktop\\FoodWebApplication (2)\\FoodWebApplication\\FoodWebApplication\\Views\\Carts\\CheckOut.cshtml",
+              "RelativeDocumentMoniker": "FoodWebApplication\\Views\\Carts\\CheckOut.cshtml",
+              "ToolTip": "D:\\Desktop\\FoodWebApplication (2)\\FoodWebApplication\\FoodWebApplication\\Views\\Carts\\CheckOut.cshtml",
+              "RelativeToolTip": "FoodWebApplication\\Views\\Carts\\CheckOut.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-15T18:04:42.297Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "D:\\Desktop\\FoodWebApplication (2)\\FoodWebApplication\\FoodWebApplication\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "FoodWebApplication\\Views\\_ViewImports.cshtml",
+              "ToolTip": "D:\\Desktop\\FoodWebApplication (2)\\FoodWebApplication\\FoodWebApplication\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "FoodWebApplication\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-05T18:13:28.881Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "D:\\Desktop\\FoodWebApplication (2)\\FoodWebApplication\\FoodWebApplication\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "FoodWebApplication\\Views\\_ViewStart.cshtml",
+              "ToolTip": "D:\\Desktop\\FoodWebApplication (2)\\FoodWebApplication\\FoodWebApplication\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "FoodWebApplication\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-05T18:13:27.679Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "OrderCookie.cs",
+              "DocumentMoniker": "D:\\Desktop\\FoodWebApplication (2)\\FoodWebApplication\\FoodWebApplication\\Models\\OrderCookie.cs",
+              "RelativeDocumentMoniker": "FoodWebApplication\\Models\\OrderCookie.cs",
+              "ToolTip": "D:\\Desktop\\FoodWebApplication (2)\\FoodWebApplication\\FoodWebApplication\\Models\\OrderCookie.cs",
+              "RelativeToolTip": "FoodWebApplication\\Models\\OrderCookie.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T18:12:31.64Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "HomeViewModels.cs",
+              "DocumentMoniker": "D:\\Desktop\\FoodWebApplication (2)\\FoodWebApplication\\FoodWebApplication\\Models\\HomeViewModels.cs",
+              "RelativeDocumentMoniker": "FoodWebApplication\\Models\\HomeViewModels.cs",
+              "ToolTip": "D:\\Desktop\\FoodWebApplication (2)\\FoodWebApplication\\FoodWebApplication\\Models\\HomeViewModels.cs",
+              "RelativeToolTip": "FoodWebApplication\\Models\\HomeViewModels.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T18:12:29.695Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Detail.cshtml",
+              "DocumentMoniker": "D:\\Desktop\\FoodWebApplication (2)\\FoodWebApplication\\FoodWebApplication\\Views\\Restaurant\\Detail.cshtml",
+              "RelativeDocumentMoniker": "FoodWebApplication\\Views\\Restaurant\\Detail.cshtml",
+              "ToolTip": "D:\\Desktop\\FoodWebApplication (2)\\FoodWebApplication\\FoodWebApplication\\Views\\Restaurant\\Detail.cshtml",
+              "RelativeToolTip": "FoodWebApplication\\Views\\Restaurant\\Detail.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-05T16:10:12.22Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "D:\\Desktop\\FoodWebApplication (2)\\FoodWebApplication\\FoodWebApplication\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "FoodWebApplication\\Models\\ErrorViewModel.cs",
+              "ToolTip": "D:\\Desktop\\FoodWebApplication (2)\\FoodWebApplication\\FoodWebApplication\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "FoodWebApplication\\Models\\ErrorViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T18:12:27.143Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "SignIn.cshtml",
+              "DocumentMoniker": "D:\\Desktop\\FoodWebApplication (2)\\FoodWebApplication\\FoodWebApplication\\Views\\Account\\SignIn.cshtml",
+              "RelativeDocumentMoniker": "FoodWebApplication\\Views\\Account\\SignIn.cshtml",
+              "ToolTip": "D:\\Desktop\\FoodWebApplication (2)\\FoodWebApplication\\FoodWebApplication\\Views\\Account\\SignIn.cshtml",
+              "RelativeToolTip": "FoodWebApplication\\Views\\Account\\SignIn.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAIAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-05T18:11:15.495Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "D:\\Desktop\\FoodWebApplication (2)\\FoodWebApplication\\BLL\\IServices\\IUserService.cs",
+              "RelativeDocumentMoniker": "BLL\\IServices\\IUserService.cs",
+              "ToolTip": "D:\\Desktop\\FoodWebApplication (2)\\FoodWebApplication\\BLL\\IServices\\IUserService.cs",
+              "RelativeToolTip": "BLL\\IServices\\IUserService.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABMAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T18:05:38.52Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "D:\\Desktop\\FoodWebApplication (2)\\FoodWebApplication\\Food.API\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "Food.API\\Controllers\\UserController.cs",
+              "ToolTip": "D:\\Desktop\\FoodWebApplication (2)\\FoodWebApplication\\Food.API\\Controllers\\UserController.cs",
+              "RelativeToolTip": "Food.API\\Controllers\\UserController.cs",
+              "ViewState": "AQIAALMAAAAAAAAAAAAAwA4AAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T18:05:21.82Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "RegisterDTO.cs",
+              "DocumentMoniker": "D:\\Desktop\\FoodWebApplication (2)\\FoodWebApplication\\DTO\\User\\RegisterDTO.cs",
+              "RelativeDocumentMoniker": "DTO\\User\\RegisterDTO.cs",
+              "ToolTip": "D:\\Desktop\\FoodWebApplication (2)\\FoodWebApplication\\DTO\\User\\RegisterDTO.cs",
+              "RelativeToolTip": "DTO\\User\\RegisterDTO.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAowAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T18:04:50.794Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "LoginDTO.cs",
+              "DocumentMoniker": "D:\\Desktop\\FoodWebApplication (2)\\FoodWebApplication\\DTO\\User\\LoginDTO.cs",
+              "RelativeDocumentMoniker": "DTO\\User\\LoginDTO.cs",
+              "ToolTip": "D:\\Desktop\\FoodWebApplication (2)\\FoodWebApplication\\DTO\\User\\LoginDTO.cs",
+              "RelativeToolTip": "DTO\\User\\LoginDTO.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T18:04:36.187Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "UserEntities.cs",
+              "DocumentMoniker": "D:\\Desktop\\FoodWebApplication (2)\\FoodWebApplication\\Entities\\User\\UserEntities.cs",
+              "RelativeDocumentMoniker": "Entities\\User\\UserEntities.cs",
+              "ToolTip": "D:\\Desktop\\FoodWebApplication (2)\\FoodWebApplication\\Entities\\User\\UserEntities.cs",
+              "RelativeToolTip": "Entities\\User\\UserEntities.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T18:03:43.096Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "UserDTO.cs",
+              "DocumentMoniker": "D:\\Desktop\\FoodWebApplication (2)\\FoodWebApplication\\DTO\\User\\UserDTO.cs",
+              "RelativeDocumentMoniker": "DTO\\User\\UserDTO.cs",
+              "ToolTip": "D:\\Desktop\\FoodWebApplication (2)\\FoodWebApplication\\DTO\\User\\UserDTO.cs",
+              "RelativeToolTip": "DTO\\User\\UserDTO.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAuwAsAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T18:04:42.107Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "D:\\Desktop\\FoodWebApplication (2)\\FoodWebApplication\\BLL\\Services\\UserService.cs",
+              "RelativeDocumentMoniker": "BLL\\Services\\UserService.cs",
+              "ToolTip": "D:\\Desktop\\FoodWebApplication (2)\\FoodWebApplication\\BLL\\Services\\UserService.cs",
+              "RelativeToolTip": "BLL\\Services\\UserService.cs",
+              "ViewState": "AQIAAIwAAAAAAAAAAAAuwHAAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T18:04:42.305Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "CategoryDTO.cs",
+              "DocumentMoniker": "D:\\Desktop\\FoodWebApplication (2)\\FoodWebApplication\\DTO\\Category\\CategoryDTO.cs",
+              "RelativeDocumentMoniker": "DTO\\Category\\CategoryDTO.cs",
+              "ToolTip": "D:\\Desktop\\FoodWebApplication (2)\\FoodWebApplication\\DTO\\Category\\CategoryDTO.cs",
+              "RelativeToolTip": "DTO\\Category\\CategoryDTO.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T18:03:20.752Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "OrderController.cs",
+              "DocumentMoniker": "D:\\Desktop\\FoodWebApplication (2)\\FoodWebApplication\\Food.API\\Controllers\\OrderController.cs",
+              "RelativeDocumentMoniker": "Food.API\\Controllers\\OrderController.cs",
+              "ToolTip": "D:\\Desktop\\FoodWebApplication (2)\\FoodWebApplication\\Food.API\\Controllers\\OrderController.cs",
+              "RelativeToolTip": "Food.API\\Controllers\\OrderController.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAgwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T17:42:56.854Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "ScaffoldingReadMe.txt",
+              "DocumentMoniker": "D:\\Desktop\\FoodWebApplication (2)\\FoodWebApplication\\FoodWebApplication\\ScaffoldingReadMe.txt",
+              "RelativeDocumentMoniker": "FoodWebApplication\\ScaffoldingReadMe.txt",
+              "ToolTip": "D:\\Desktop\\FoodWebApplication (2)\\FoodWebApplication\\FoodWebApplication\\ScaffoldingReadMe.txt",
+              "RelativeToolTip": "FoodWebApplication\\ScaffoldingReadMe.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-06-05T16:16:10.906Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Desktop\\FoodWebApplication (2)\\FoodWebApplication\\Food.API\\appsettings.json",
+              "RelativeDocumentMoniker": "Food.API\\appsettings.json",
+              "ToolTip": "D:\\Desktop\\FoodWebApplication (2)\\FoodWebApplication\\Food.API\\appsettings.json",
+              "RelativeToolTip": "Food.API\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-15T18:04:59.295Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "CustomerController.cs",
+              "DocumentMoniker": "D:\\Desktop\\FoodWebApplication (2)\\FoodWebApplication\\Food.API\\Controllers\\CustomerController.cs",
+              "RelativeDocumentMoniker": "Food.API\\Controllers\\CustomerController.cs",
+              "ToolTip": "D:\\Desktop\\FoodWebApplication (2)\\FoodWebApplication\\Food.API\\Controllers\\CustomerController.cs",
+              "RelativeToolTip": "Food.API\\Controllers\\CustomerController.cs",
+              "ViewState": "AQIAAEIAAAAAAAAAAAAcwGIAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T18:04:42.302Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "D:\\Desktop\\FoodWebApplication (2)\\FoodWebApplication\\Food.API\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "Food.API\\appsettings.Development.json",
+              "ToolTip": "D:\\Desktop\\FoodWebApplication (2)\\FoodWebApplication\\Food.API\\appsettings.Development.json",
+              "RelativeToolTip": "Food.API\\appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-15T18:06:45.435Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Desktop\\FoodWebApplication (2)\\FoodWebApplication\\FoodWebApplication\\appsettings.json",
+              "RelativeDocumentMoniker": "FoodWebApplication\\appsettings.json",
+              "ToolTip": "D:\\Desktop\\FoodWebApplication (2)\\FoodWebApplication\\FoodWebApplication\\appsettings.json",
+              "RelativeToolTip": "FoodWebApplication\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-15T18:06:55.826Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "CustomerService.cs",
+              "DocumentMoniker": "D:\\Desktop\\FoodWebApplication (2)\\FoodWebApplication\\BLL\\Services\\CustomerService.cs",
+              "RelativeDocumentMoniker": "BLL\\Services\\CustomerService.cs",
+              "ToolTip": "D:\\Desktop\\FoodWebApplication (2)\\FoodWebApplication\\BLL\\Services\\CustomerService.cs",
+              "RelativeToolTip": "BLL\\Services\\CustomerService.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAC0AAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T18:04:42.275Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "D:\\Desktop\\FoodWebApplication (2)\\FoodWebApplication\\FoodWebApplication\\Views\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "FoodWebApplication\\Views\\Account\\Register.cshtml",
+              "ToolTip": "D:\\Desktop\\FoodWebApplication (2)\\FoodWebApplication\\FoodWebApplication\\Views\\Account\\Register.cshtml",
+              "RelativeToolTip": "FoodWebApplication\\Views\\Account\\Register.cshtml",
+              "ViewState": "AQIAACQAAAAAAAAAAAAAADIAAACrAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-15T18:04:42.28Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "CartsController.cs",
+              "DocumentMoniker": "D:\\Desktop\\FoodWebApplication (2)\\FoodWebApplication\\FoodWebApplication\\Controllers\\CartsController.cs",
+              "RelativeDocumentMoniker": "FoodWebApplication\\Controllers\\CartsController.cs",
+              "ToolTip": "D:\\Desktop\\FoodWebApplication (2)\\FoodWebApplication\\FoodWebApplication\\Controllers\\CartsController.cs",
+              "RelativeToolTip": "FoodWebApplication\\Controllers\\CartsController.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAYwCkAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T18:04:42.289Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "D:\\Desktop\\FoodWebApplication (2)\\FoodWebApplication\\FoodWebApplication\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "FoodWebApplication\\Controllers\\AccountController.cs",
+              "ToolTip": "D:\\Desktop\\FoodWebApplication (2)\\FoodWebApplication\\FoodWebApplication\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "FoodWebApplication\\Controllers\\AccountController.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAYwCEAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T18:04:42.293Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "style.css",
+              "DocumentMoniker": "D:\\Desktop\\FoodWebApplication (2)\\FoodWebApplication\\FoodWebApplication\\wwwroot\\Content\\web\\style.css",
+              "RelativeDocumentMoniker": "FoodWebApplication\\wwwroot\\Content\\web\\style.css",
+              "ToolTip": "D:\\Desktop\\FoodWebApplication (2)\\FoodWebApplication\\FoodWebApplication\\wwwroot\\Content\\web\\style.css",
+              "RelativeToolTip": "FoodWebApplication\\wwwroot\\Content\\web\\style.css",
+              "ViewState": "AQIAAP8AAAAAAAAAAIBZwAUBAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-05-15T18:04:42.31Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

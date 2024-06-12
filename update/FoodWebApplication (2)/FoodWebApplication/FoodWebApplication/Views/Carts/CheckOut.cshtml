@@ -1,0 +1,124 @@
+﻿@using Microsoft.AspNetCore.Http
+@inject IHttpContextAccessor HttpContextAccessor
+@{
+    var UsersInfo = HttpContextAccessor.HttpContext.Session.GetString("UserWeb") != null ? Newtonsoft.Json.JsonConvert.DeserializeObject<DTO.User.UserDTO>(HttpContextAccessor.HttpContext.Session.GetString("UserWeb")) : new DTO.User.UserDTO();
+}
+<link href="@Url.Content("~/Content/assets/node-modules/TouchSpin/jquery.bootstrap-touchspin.css")" rel="stylesheet" />
+<script src="@Url.Content("~/Content/assets/node-modules/TouchSpin/jquery.bootstrap-touchspin.js")"></script>
+<!--====================  breadcrumb area ====================-->
+
+
+<div class="page-section pb-40">
+    <div class="container">
+        <div class="row">
+            <div class="col-12">
+                <!-- Checkout Form s-->
+                @using (Html.BeginForm("CheckOut", "Carts", FormMethod.Post, new { @id = "id-checkout-form", @class = "checkout-form", @enctype = "multipart/form-data", }))
+                {
+                    <div class="row row-40">
+                        <div class="col-lg-7 mb-20">
+                            <!-- Billing Address -->
+                            <div id="billing-form" class="mb-40">
+                                <h4 class="checkout-title">BillingAddress</h4>
+                                <div class="row">
+                                    <div class="col-md-6 col-12 mb-20">
+                                        <label>First Name*</label>
+                                        <input required type="text" value="@UsersInfo.FullName" name="FirstName" placeholder="FirstName" class="form-control">
+                                    </div>
+                                    <div class="col-md-6 col-12 mb-20">
+                                        <label>Last Name*</label>
+                                        <input required type="text" value="@UsersInfo.FullName" name="LastName" placeholder="LastName" class="form-control">
+                                    </div>
+
+                                    <div class="col-md-6 col-12 mb-20">
+                                        <label>EmailAddress*</label>
+                                        <input required type="email" value="@UsersInfo.Email" name="Email" placeholder="EmailAddress" class="form-control">
+                                    </div>
+
+                                    <div class="col-md-6 col-12 mb-20">
+                                        <label>Phoneno*</label>
+                                        <input required type="text" value="@UsersInfo.Phone" name="Phone" placeholder="Phoneno" class="form-control">
+                                    </div>
+
+                                    <div class="col-12 mb-20">
+                                        <label>Address*</label>
+                                        <input required type="text" value="@UsersInfo.Address" name="Address" placeholder="Address" class="form-control">
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="col-lg-5">
+                            <div class="row">
+                                <div ng-controller="CartCtrl">
+                                    <fieldset id="address">
+                                        <legend>Cart</legend>
+                                        <table class="table table-striped">
+                                            <tbody>
+                                                <tr>
+                                                    <th style="text-align: left">Name</th>
+                                                    <th style="text-align: center">Food-Code</th>
+                                                    <th style="text-align: center">Modifie-Code</th>
+                                                    <th style="text-align: center">Price</th>
+                                                    <th style="text-align: center">Quantity</th>
+                                                </tr>
+                                                <tr ng-repeat="item in Products">
+                                                    <td style="text-align: left" class="text-center" ng-bind="item.Name"> </td>
+                                                    <td style="text-align: center" class="text-left" ng-bind="item.ItemId"></td>
+                                                    <td style="text-align: center" class="text-right" ng-bind="item.ModifieCode"></td>
+                                                    <td style="text-align: center" class="text-right" ng-bind="item.Price"></td>
+                                                    <td style="text-align: center" class="text-right" ng-bind="item.Quantity"></td>
+                                                </tr>
+                                            </tbody>
+                                        </table>
+                                    </fieldset>
+                                </div>
+                            </div>
+                            <div class="row">
+
+                                <div class="col-12">
+                                    @if (UsersInfo != null && UsersInfo.Id > 0)
+                                    {
+                                        <button type="submit" class="place-order" id="idCheckOut">Thanh toán</button>
+                                    } 
+                                    else
+                                    {
+                                        <span style="color: red"><strong>Vui lòng đăng nhập trước khi thanh toán. Nếu chưa có tài khoản hãy đăng ký trước khi đăng nhập!!!</strong></span>
+                                    }
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                }
+            </div>
+        </div>
+    </div>
+</div>
+
+<!--====================  End of page content  ====================-->
+
+<script>
+    $('#id-checkout-form').submit(function (e) {
+        $('#idCheckOut').prop('disabled', true);
+        $.ajax({
+            url: '@Url.Action("CheckOut", "Carts")',
+            type: "Post",
+            data: new FormData(this),
+            cache: false,
+            processData: false,
+            contentType: false,
+            beforeSend: function () {
+                $('#page-preloader').addClass('visible');
+                $('#button-register').button('loading');
+            },
+            success: function (data) {
+                deleteOrder();
+            },
+            complete: function () {
+            },
+            error: function (xhr, ajaxOptions, thrownError) { }
+        });
+        e.preventDefault();
+    });
+
+</script>

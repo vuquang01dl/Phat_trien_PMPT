@@ -1,0 +1,237 @@
+D:\FoodWebApplication\Food.API\bin\Debug\net5.0\appsettings.Development.json
+D:\FoodWebApplication\Food.API\bin\Debug\net5.0\appsettings.json
+D:\FoodWebApplication\Food.API\bin\Debug\net5.0\Food.API.exe
+D:\FoodWebApplication\Food.API\bin\Debug\net5.0\Food.API.deps.json
+D:\FoodWebApplication\Food.API\bin\Debug\net5.0\Food.API.runtimeconfig.json
+D:\FoodWebApplication\Food.API\bin\Debug\net5.0\Food.API.runtimeconfig.dev.json
+D:\FoodWebApplication\Food.API\bin\Debug\net5.0\Food.API.dll
+D:\FoodWebApplication\Food.API\bin\Debug\net5.0\Food.API.pdb
+D:\FoodWebApplication\Food.API\bin\Debug\net5.0\AutoMapper.dll
+D:\FoodWebApplication\Food.API\bin\Debug\net5.0\System.Net.Http.Formatting.dll
+D:\FoodWebApplication\Food.API\bin\Debug\net5.0\System.Web.Http.dll
+D:\FoodWebApplication\Food.API\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\FoodWebApplication\Food.API\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
+D:\FoodWebApplication\Food.API\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\FoodWebApplication\Food.API\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\FoodWebApplication\Food.API\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+D:\FoodWebApplication\Food.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\FoodWebApplication\Food.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\FoodWebApplication\Food.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\FoodWebApplication\Food.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\FoodWebApplication\Food.API\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\FoodWebApplication\Food.API\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+D:\FoodWebApplication\Food.API\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\FoodWebApplication\Food.API\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\FoodWebApplication\Food.API\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\FoodWebApplication\Food.API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\FoodWebApplication\Food.API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\FoodWebApplication\Food.API\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\FoodWebApplication\Food.API\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\FoodWebApplication\Food.API\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\FoodWebApplication\Food.API\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+D:\FoodWebApplication\Food.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\FoodWebApplication\Food.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\FoodWebApplication\Food.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\FoodWebApplication\Food.API\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\FoodWebApplication\Food.API\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\FoodWebApplication\Food.API\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\FoodWebApplication\Food.API\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\FoodWebApplication\Food.API\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\FoodWebApplication\Food.API\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\FoodWebApplication\Food.API\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\FoodWebApplication\Food.API\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\FoodWebApplication\Food.API\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\FoodWebApplication\Food.API\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\FoodWebApplication\Food.API\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\FoodWebApplication\Food.API\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\FoodWebApplication\Food.API\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\FoodWebApplication\Food.API\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\FoodWebApplication\Food.API\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\FoodWebApplication\Food.API\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\FoodWebApplication\Food.API\bin\Debug\net5.0\BLL.dll
+D:\FoodWebApplication\Food.API\bin\Debug\net5.0\Common.dll
+D:\FoodWebApplication\Food.API\bin\Debug\net5.0\DTO.dll
+D:\FoodWebApplication\Food.API\bin\Debug\net5.0\Entities.dll
+D:\FoodWebApplication\Food.API\bin\Debug\net5.0\BLL.pdb
+D:\FoodWebApplication\Food.API\bin\Debug\net5.0\Common.pdb
+D:\FoodWebApplication\Food.API\bin\Debug\net5.0\DTO.pdb
+D:\FoodWebApplication\Food.API\bin\Debug\net5.0\Entities.pdb
+D:\FoodWebApplication\Food.API\obj\Debug\net5.0\Food.API.csproj.AssemblyReference.cache
+D:\FoodWebApplication\Food.API\obj\Debug\net5.0\Food.API.GeneratedMSBuildEditorConfig.editorconfig
+D:\FoodWebApplication\Food.API\obj\Debug\net5.0\Food.API.AssemblyInfoInputs.cache
+D:\FoodWebApplication\Food.API\obj\Debug\net5.0\Food.API.AssemblyInfo.cs
+D:\FoodWebApplication\Food.API\obj\Debug\net5.0\Food.API.csproj.CoreCompileInputs.cache
+D:\FoodWebApplication\Food.API\obj\Debug\net5.0\Food.API.MvcApplicationPartsAssemblyInfo.cs
+D:\FoodWebApplication\Food.API\obj\Debug\net5.0\Food.API.MvcApplicationPartsAssemblyInfo.cache
+D:\FoodWebApplication\Food.API\obj\Debug\net5.0\scopedcss\bundle\Food.API.styles.css
+D:\FoodWebApplication\Food.API\obj\Debug\net5.0\staticwebassets\Food.API.StaticWebAssets.Manifest.cache
+D:\FoodWebApplication\Food.API\obj\Debug\net5.0\staticwebassets\Food.API.StaticWebAssets.Pack.cache
+D:\FoodWebApplication\Food.API\obj\Debug\net5.0\staticwebassets\msbuild.Food.API.Microsoft.AspNetCore.StaticWebAssets.props
+D:\FoodWebApplication\Food.API\obj\Debug\net5.0\staticwebassets\msbuild.build.Food.API.props
+D:\FoodWebApplication\Food.API\obj\Debug\net5.0\staticwebassets\msbuild.buildMultiTargeting.Food.API.props
+D:\FoodWebApplication\Food.API\obj\Debug\net5.0\staticwebassets\msbuild.buildTransitive.Food.API.props
+D:\FoodWebApplication\Food.API\obj\Debug\net5.0\Food.API.RazorTargetAssemblyInfo.cache
+D:\FoodWebApplication\Food.API\obj\Debug\net5.0\Food.API.csproj.CopyComplete
+D:\FoodWebApplication\Food.API\obj\Debug\net5.0\Food.API.dll
+D:\FoodWebApplication\Food.API\obj\Debug\net5.0\refint\Food.API.dll
+D:\FoodWebApplication\Food.API\obj\Debug\net5.0\Food.API.pdb
+D:\FoodWebApplication\Food.API\obj\Debug\net5.0\Food.API.genruntimeconfig.cache
+D:\FoodWebApplication\Food.API\obj\Debug\net5.0\ref\Food.API.dll
+C:\Users\vuqua\OneDrive\Máy tính\FoodWebApplication (2)\FoodWebApplication\Food.API\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\vuqua\OneDrive\Máy tính\FoodWebApplication (2)\FoodWebApplication\Food.API\bin\Debug\net5.0\appsettings.json
+C:\Users\vuqua\OneDrive\Máy tính\FoodWebApplication (2)\FoodWebApplication\Food.API\bin\Debug\net5.0\Food.API.exe
+C:\Users\vuqua\OneDrive\Máy tính\FoodWebApplication (2)\FoodWebApplication\Food.API\bin\Debug\net5.0\Food.API.deps.json
+C:\Users\vuqua\OneDrive\Máy tính\FoodWebApplication (2)\FoodWebApplication\Food.API\bin\Debug\net5.0\Food.API.runtimeconfig.json
+C:\Users\vuqua\OneDrive\Máy tính\FoodWebApplication (2)\FoodWebApplication\Food.API\bin\Debug\net5.0\Food.API.runtimeconfig.dev.json
+C:\Users\vuqua\OneDrive\Máy tính\FoodWebApplication (2)\FoodWebApplication\Food.API\bin\Debug\net5.0\Food.API.dll
+C:\Users\vuqua\OneDrive\Máy tính\FoodWebApplication (2)\FoodWebApplication\Food.API\bin\Debug\net5.0\Food.API.pdb
+C:\Users\vuqua\OneDrive\Máy tính\FoodWebApplication (2)\FoodWebApplication\Food.API\bin\Debug\net5.0\AutoMapper.dll
+C:\Users\vuqua\OneDrive\Máy tính\FoodWebApplication (2)\FoodWebApplication\Food.API\bin\Debug\net5.0\System.Net.Http.Formatting.dll
+C:\Users\vuqua\OneDrive\Máy tính\FoodWebApplication (2)\FoodWebApplication\Food.API\bin\Debug\net5.0\System.Web.Http.dll
+C:\Users\vuqua\OneDrive\Máy tính\FoodWebApplication (2)\FoodWebApplication\Food.API\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\vuqua\OneDrive\Máy tính\FoodWebApplication (2)\FoodWebApplication\Food.API\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
+C:\Users\vuqua\OneDrive\Máy tính\FoodWebApplication (2)\FoodWebApplication\Food.API\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\vuqua\OneDrive\Máy tính\FoodWebApplication (2)\FoodWebApplication\Food.API\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\vuqua\OneDrive\Máy tính\FoodWebApplication (2)\FoodWebApplication\Food.API\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\vuqua\OneDrive\Máy tính\FoodWebApplication (2)\FoodWebApplication\Food.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\vuqua\OneDrive\Máy tính\FoodWebApplication (2)\FoodWebApplication\Food.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\vuqua\OneDrive\Máy tính\FoodWebApplication (2)\FoodWebApplication\Food.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\vuqua\OneDrive\Máy tính\FoodWebApplication (2)\FoodWebApplication\Food.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\vuqua\OneDrive\Máy tính\FoodWebApplication (2)\FoodWebApplication\Food.API\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\vuqua\OneDrive\Máy tính\FoodWebApplication (2)\FoodWebApplication\Food.API\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\vuqua\OneDrive\Máy tính\FoodWebApplication (2)\FoodWebApplication\Food.API\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\vuqua\OneDrive\Máy tính\FoodWebApplication (2)\FoodWebApplication\Food.API\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\vuqua\OneDrive\Máy tính\FoodWebApplication (2)\FoodWebApplication\Food.API\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\vuqua\OneDrive\Máy tính\FoodWebApplication (2)\FoodWebApplication\Food.API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\vuqua\OneDrive\Máy tính\FoodWebApplication (2)\FoodWebApplication\Food.API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\vuqua\OneDrive\Máy tính\FoodWebApplication (2)\FoodWebApplication\Food.API\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\vuqua\OneDrive\Máy tính\FoodWebApplication (2)\FoodWebApplication\Food.API\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\vuqua\OneDrive\Máy tính\FoodWebApplication (2)\FoodWebApplication\Food.API\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\vuqua\OneDrive\Máy tính\FoodWebApplication (2)\FoodWebApplication\Food.API\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+C:\Users\vuqua\OneDrive\Máy tính\FoodWebApplication (2)\FoodWebApplication\Food.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\vuqua\OneDrive\Máy tính\FoodWebApplication (2)\FoodWebApplication\Food.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\vuqua\OneDrive\Máy tính\FoodWebApplication (2)\FoodWebApplication\Food.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\vuqua\OneDrive\Máy tính\FoodWebApplication (2)\FoodWebApplication\Food.API\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\vuqua\OneDrive\Máy tính\FoodWebApplication (2)\FoodWebApplication\Food.API\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\vuqua\OneDrive\Máy tính\FoodWebApplication (2)\FoodWebApplication\Food.API\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\vuqua\OneDrive\Máy tính\FoodWebApplication (2)\FoodWebApplication\Food.API\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\vuqua\OneDrive\Máy tính\FoodWebApplication (2)\FoodWebApplication\Food.API\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\vuqua\OneDrive\Máy tính\FoodWebApplication (2)\FoodWebApplication\Food.API\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\vuqua\OneDrive\Máy tính\FoodWebApplication (2)\FoodWebApplication\Food.API\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\vuqua\OneDrive\Máy tính\FoodWebApplication (2)\FoodWebApplication\Food.API\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\vuqua\OneDrive\Máy tính\FoodWebApplication (2)\FoodWebApplication\Food.API\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\vuqua\OneDrive\Máy tính\FoodWebApplication (2)\FoodWebApplication\Food.API\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\vuqua\OneDrive\Máy tính\FoodWebApplication (2)\FoodWebApplication\Food.API\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\vuqua\OneDrive\Máy tính\FoodWebApplication (2)\FoodWebApplication\Food.API\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\vuqua\OneDrive\Máy tính\FoodWebApplication (2)\FoodWebApplication\Food.API\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\vuqua\OneDrive\Máy tính\FoodWebApplication (2)\FoodWebApplication\Food.API\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\vuqua\OneDrive\Máy tính\FoodWebApplication (2)\FoodWebApplication\Food.API\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\vuqua\OneDrive\Máy tính\FoodWebApplication (2)\FoodWebApplication\Food.API\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\vuqua\OneDrive\Máy tính\FoodWebApplication (2)\FoodWebApplication\Food.API\bin\Debug\net5.0\BLL.dll
+C:\Users\vuqua\OneDrive\Máy tính\FoodWebApplication (2)\FoodWebApplication\Food.API\bin\Debug\net5.0\Common.dll
+C:\Users\vuqua\OneDrive\Máy tính\FoodWebApplication (2)\FoodWebApplication\Food.API\bin\Debug\net5.0\DTO.dll
+C:\Users\vuqua\OneDrive\Máy tính\FoodWebApplication (2)\FoodWebApplication\Food.API\bin\Debug\net5.0\Entities.dll
+C:\Users\vuqua\OneDrive\Máy tính\FoodWebApplication (2)\FoodWebApplication\Food.API\bin\Debug\net5.0\BLL.pdb
+C:\Users\vuqua\OneDrive\Máy tính\FoodWebApplication (2)\FoodWebApplication\Food.API\bin\Debug\net5.0\Common.pdb
+C:\Users\vuqua\OneDrive\Máy tính\FoodWebApplication (2)\FoodWebApplication\Food.API\bin\Debug\net5.0\DTO.pdb
+C:\Users\vuqua\OneDrive\Máy tính\FoodWebApplication (2)\FoodWebApplication\Food.API\bin\Debug\net5.0\Entities.pdb
+C:\Users\vuqua\OneDrive\Máy tính\FoodWebApplication (2)\FoodWebApplication\Food.API\obj\Debug\net5.0\Food.API.csproj.AssemblyReference.cache
+C:\Users\vuqua\OneDrive\Máy tính\FoodWebApplication (2)\FoodWebApplication\Food.API\obj\Debug\net5.0\Food.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vuqua\OneDrive\Máy tính\FoodWebApplication (2)\FoodWebApplication\Food.API\obj\Debug\net5.0\Food.API.AssemblyInfoInputs.cache
+C:\Users\vuqua\OneDrive\Máy tính\FoodWebApplication (2)\FoodWebApplication\Food.API\obj\Debug\net5.0\Food.API.AssemblyInfo.cs
+C:\Users\vuqua\OneDrive\Máy tính\FoodWebApplication (2)\FoodWebApplication\Food.API\obj\Debug\net5.0\Food.API.csproj.CoreCompileInputs.cache
+C:\Users\vuqua\OneDrive\Máy tính\FoodWebApplication (2)\FoodWebApplication\Food.API\obj\Debug\net5.0\Food.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\vuqua\OneDrive\Máy tính\FoodWebApplication (2)\FoodWebApplication\Food.API\obj\Debug\net5.0\Food.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\vuqua\OneDrive\Máy tính\FoodWebApplication (2)\FoodWebApplication\Food.API\obj\Debug\net5.0\Food.API.RazorTargetAssemblyInfo.cache
+C:\Users\vuqua\OneDrive\Máy tính\FoodWebApplication (2)\FoodWebApplication\Food.API\obj\Debug\net5.0\scopedcss\bundle\Food.API.styles.css
+C:\Users\vuqua\OneDrive\Máy tính\FoodWebApplication (2)\FoodWebApplication\Food.API\obj\Debug\net5.0\staticwebassets\Food.API.StaticWebAssets.Manifest.cache
+C:\Users\vuqua\OneDrive\Máy tính\FoodWebApplication (2)\FoodWebApplication\Food.API\obj\Debug\net5.0\staticwebassets\Food.API.StaticWebAssets.Pack.cache
+C:\Users\vuqua\OneDrive\Máy tính\FoodWebApplication (2)\FoodWebApplication\Food.API\obj\Debug\net5.0\staticwebassets\msbuild.Food.API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\vuqua\OneDrive\Máy tính\FoodWebApplication (2)\FoodWebApplication\Food.API\obj\Debug\net5.0\staticwebassets\msbuild.build.Food.API.props
+C:\Users\vuqua\OneDrive\Máy tính\FoodWebApplication (2)\FoodWebApplication\Food.API\obj\Debug\net5.0\staticwebassets\msbuild.buildMultiTargeting.Food.API.props
+C:\Users\vuqua\OneDrive\Máy tính\FoodWebApplication (2)\FoodWebApplication\Food.API\obj\Debug\net5.0\staticwebassets\msbuild.buildTransitive.Food.API.props
+C:\Users\vuqua\OneDrive\Máy tính\FoodWebApplication (2)\FoodWebApplication\Food.API\obj\Debug\net5.0\Food.API.csproj.Up2Date
+C:\Users\vuqua\OneDrive\Máy tính\FoodWebApplication (2)\FoodWebApplication\Food.API\obj\Debug\net5.0\Food.API.dll
+C:\Users\vuqua\OneDrive\Máy tính\FoodWebApplication (2)\FoodWebApplication\Food.API\obj\Debug\net5.0\refint\Food.API.dll
+C:\Users\vuqua\OneDrive\Máy tính\FoodWebApplication (2)\FoodWebApplication\Food.API\obj\Debug\net5.0\Food.API.pdb
+C:\Users\vuqua\OneDrive\Máy tính\FoodWebApplication (2)\FoodWebApplication\Food.API\obj\Debug\net5.0\Food.API.genruntimeconfig.cache
+C:\Users\vuqua\OneDrive\Máy tính\FoodWebApplication (2)\FoodWebApplication\Food.API\obj\Debug\net5.0\ref\Food.API.dll
+D:\Desktop\FoodWebApplication (2)\FoodWebApplication\Food.API\bin\Debug\net5.0\appsettings.Development.json
+D:\Desktop\FoodWebApplication (2)\FoodWebApplication\Food.API\bin\Debug\net5.0\appsettings.json
+D:\Desktop\FoodWebApplication (2)\FoodWebApplication\Food.API\bin\Debug\net5.0\Food.API.exe
+D:\Desktop\FoodWebApplication (2)\FoodWebApplication\Food.API\bin\Debug\net5.0\Food.API.deps.json
+D:\Desktop\FoodWebApplication (2)\FoodWebApplication\Food.API\bin\Debug\net5.0\Food.API.runtimeconfig.json
+D:\Desktop\FoodWebApplication (2)\FoodWebApplication\Food.API\bin\Debug\net5.0\Food.API.runtimeconfig.dev.json
+D:\Desktop\FoodWebApplication (2)\FoodWebApplication\Food.API\bin\Debug\net5.0\Food.API.dll
+D:\Desktop\FoodWebApplication (2)\FoodWebApplication\Food.API\bin\Debug\net5.0\Food.API.pdb
+D:\Desktop\FoodWebApplication (2)\FoodWebApplication\Food.API\bin\Debug\net5.0\AutoMapper.dll
+D:\Desktop\FoodWebApplication (2)\FoodWebApplication\Food.API\bin\Debug\net5.0\System.Net.Http.Formatting.dll
+D:\Desktop\FoodWebApplication (2)\FoodWebApplication\Food.API\bin\Debug\net5.0\System.Web.Http.dll
+D:\Desktop\FoodWebApplication (2)\FoodWebApplication\Food.API\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Desktop\FoodWebApplication (2)\FoodWebApplication\Food.API\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
+D:\Desktop\FoodWebApplication (2)\FoodWebApplication\Food.API\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\Desktop\FoodWebApplication (2)\FoodWebApplication\Food.API\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\Desktop\FoodWebApplication (2)\FoodWebApplication\Food.API\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+D:\Desktop\FoodWebApplication (2)\FoodWebApplication\Food.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\Desktop\FoodWebApplication (2)\FoodWebApplication\Food.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Desktop\FoodWebApplication (2)\FoodWebApplication\Food.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Desktop\FoodWebApplication (2)\FoodWebApplication\Food.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Desktop\FoodWebApplication (2)\FoodWebApplication\Food.API\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Desktop\FoodWebApplication (2)\FoodWebApplication\Food.API\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+D:\Desktop\FoodWebApplication (2)\FoodWebApplication\Food.API\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\Desktop\FoodWebApplication (2)\FoodWebApplication\Food.API\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Desktop\FoodWebApplication (2)\FoodWebApplication\Food.API\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\Desktop\FoodWebApplication (2)\FoodWebApplication\Food.API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\Desktop\FoodWebApplication (2)\FoodWebApplication\Food.API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Desktop\FoodWebApplication (2)\FoodWebApplication\Food.API\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\Desktop\FoodWebApplication (2)\FoodWebApplication\Food.API\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\Desktop\FoodWebApplication (2)\FoodWebApplication\Food.API\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\Desktop\FoodWebApplication (2)\FoodWebApplication\Food.API\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+D:\Desktop\FoodWebApplication (2)\FoodWebApplication\Food.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Desktop\FoodWebApplication (2)\FoodWebApplication\Food.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Desktop\FoodWebApplication (2)\FoodWebApplication\Food.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Desktop\FoodWebApplication (2)\FoodWebApplication\Food.API\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\Desktop\FoodWebApplication (2)\FoodWebApplication\Food.API\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Desktop\FoodWebApplication (2)\FoodWebApplication\Food.API\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\Desktop\FoodWebApplication (2)\FoodWebApplication\Food.API\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\Desktop\FoodWebApplication (2)\FoodWebApplication\Food.API\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Desktop\FoodWebApplication (2)\FoodWebApplication\Food.API\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Desktop\FoodWebApplication (2)\FoodWebApplication\Food.API\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Desktop\FoodWebApplication (2)\FoodWebApplication\Food.API\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Desktop\FoodWebApplication (2)\FoodWebApplication\Food.API\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Desktop\FoodWebApplication (2)\FoodWebApplication\Food.API\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Desktop\FoodWebApplication (2)\FoodWebApplication\Food.API\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Desktop\FoodWebApplication (2)\FoodWebApplication\Food.API\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Desktop\FoodWebApplication (2)\FoodWebApplication\Food.API\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Desktop\FoodWebApplication (2)\FoodWebApplication\Food.API\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Desktop\FoodWebApplication (2)\FoodWebApplication\Food.API\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Desktop\FoodWebApplication (2)\FoodWebApplication\Food.API\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Desktop\FoodWebApplication (2)\FoodWebApplication\Food.API\bin\Debug\net5.0\BLL.dll
+D:\Desktop\FoodWebApplication (2)\FoodWebApplication\Food.API\bin\Debug\net5.0\Common.dll
+D:\Desktop\FoodWebApplication (2)\FoodWebApplication\Food.API\bin\Debug\net5.0\DTO.dll
+D:\Desktop\FoodWebApplication (2)\FoodWebApplication\Food.API\bin\Debug\net5.0\Entities.dll
+D:\Desktop\FoodWebApplication (2)\FoodWebApplication\Food.API\bin\Debug\net5.0\BLL.pdb
+D:\Desktop\FoodWebApplication (2)\FoodWebApplication\Food.API\bin\Debug\net5.0\Common.pdb
+D:\Desktop\FoodWebApplication (2)\FoodWebApplication\Food.API\bin\Debug\net5.0\DTO.pdb
+D:\Desktop\FoodWebApplication (2)\FoodWebApplication\Food.API\bin\Debug\net5.0\Entities.pdb
+D:\Desktop\FoodWebApplication (2)\FoodWebApplication\Food.API\obj\Debug\net5.0\Food.API.csproj.AssemblyReference.cache
+D:\Desktop\FoodWebApplication (2)\FoodWebApplication\Food.API\obj\Debug\net5.0\Food.API.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desktop\FoodWebApplication (2)\FoodWebApplication\Food.API\obj\Debug\net5.0\Food.API.AssemblyInfoInputs.cache
+D:\Desktop\FoodWebApplication (2)\FoodWebApplication\Food.API\obj\Debug\net5.0\Food.API.AssemblyInfo.cs
+D:\Desktop\FoodWebApplication (2)\FoodWebApplication\Food.API\obj\Debug\net5.0\Food.API.csproj.CoreCompileInputs.cache
+D:\Desktop\FoodWebApplication (2)\FoodWebApplication\Food.API\obj\Debug\net5.0\Food.API.MvcApplicationPartsAssemblyInfo.cs
+D:\Desktop\FoodWebApplication (2)\FoodWebApplication\Food.API\obj\Debug\net5.0\Food.API.MvcApplicationPartsAssemblyInfo.cache
+D:\Desktop\FoodWebApplication (2)\FoodWebApplication\Food.API\obj\Debug\net5.0\Food.API.RazorTargetAssemblyInfo.cache
+D:\Desktop\FoodWebApplication (2)\FoodWebApplication\Food.API\obj\Debug\net5.0\scopedcss\bundle\Food.API.styles.css
+D:\Desktop\FoodWebApplication (2)\FoodWebApplication\Food.API\obj\Debug\net5.0\staticwebassets\Food.API.StaticWebAssets.Manifest.cache
+D:\Desktop\FoodWebApplication (2)\FoodWebApplication\Food.API\obj\Debug\net5.0\staticwebassets\Food.API.StaticWebAssets.Pack.cache
+D:\Desktop\FoodWebApplication (2)\FoodWebApplication\Food.API\obj\Debug\net5.0\staticwebassets\msbuild.Food.API.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Desktop\FoodWebApplication (2)\FoodWebApplication\Food.API\obj\Debug\net5.0\staticwebassets\msbuild.build.Food.API.props
+D:\Desktop\FoodWebApplication (2)\FoodWebApplication\Food.API\obj\Debug\net5.0\staticwebassets\msbuild.buildMultiTargeting.Food.API.props
+D:\Desktop\FoodWebApplication (2)\FoodWebApplication\Food.API\obj\Debug\net5.0\staticwebassets\msbuild.buildTransitive.Food.API.props
+D:\Desktop\FoodWebApplication (2)\FoodWebApplication\Food.API\obj\Debug\net5.0\Food.API.csproj.Up2Date
+D:\Desktop\FoodWebApplication (2)\FoodWebApplication\Food.API\obj\Debug\net5.0\Food.API.dll
+D:\Desktop\FoodWebApplication (2)\FoodWebApplication\Food.API\obj\Debug\net5.0\refint\Food.API.dll
+D:\Desktop\FoodWebApplication (2)\FoodWebApplication\Food.API\obj\Debug\net5.0\Food.API.pdb
+D:\Desktop\FoodWebApplication (2)\FoodWebApplication\Food.API\obj\Debug\net5.0\Food.API.genruntimeconfig.cache
+D:\Desktop\FoodWebApplication (2)\FoodWebApplication\Food.API\obj\Debug\net5.0\ref\Food.API.dll

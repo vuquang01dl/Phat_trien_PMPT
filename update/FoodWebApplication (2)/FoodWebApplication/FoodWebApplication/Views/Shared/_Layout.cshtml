@@ -1,0 +1,314 @@
+﻿
+<!DOCTYPE html>
+<html class="no-js" lang="zxx" ng-app="appWebDA">
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>Project</title>
+    <!-- Favicon -->
+    <!-- Vendor CSS -->
+    <script src="@Url.Content("~/Content/web/Scripts/angular.min.js")"></script>
+    <script src="@Url.Content("~/Content/web/assets/node_modules/jquery/jquery-3.2.1.min.js")"></script>
+    @*<script src="@Url.Content("~/Libraries/plugins/jquery.min.js")"></script>*@
+    <!-- mobile menu css -->
+    <link href="@Url.Content("~/Content/web/meanmenu.min.css")" rel="stylesheet" />
+    <!-- animate css -->
+    <link href="@Url.Content("~/Content/web/animate.css")" rel="stylesheet" />
+    <!-- nivo slider css -->
+    <link href="@Url.Content("~/Content/web/nivo-slider.css")" rel="stylesheet" />
+    <!-- owl carousel css -->
+    <link href="@Url.Content("~/Content/web/owl.carousel.min.css")" rel="stylesheet" />
+    <!-- slick css -->
+    <link href="@Url.Content("~/Content/web/slick.css")" rel="stylesheet" />
+    <!-- price slider css -->
+    <link href="@Url.Content("~/Content/web/jquery-ui.min.css")" rel="stylesheet" />
+    <!-- fontawesome css -->
+    <link href="@Url.Content("~/Content/web/font-awesome.min.css")" rel="stylesheet" />
+    <!-- fancybox css -->
+    <link href="@Url.Content("~/Content/web/jquery.fancybox.css")" rel="stylesheet" />
+    <!-- bootstrap css -->
+    <link href="@Url.Content("~/Content/web/bootstrap.min.css")" rel="stylesheet" />
+    <!-- default css  -->
+    <link href="@Url.Content("~/Content/web/default.css")" rel="stylesheet" />
+    <!-- style css -->
+    <link href="@Url.Content("~/Content/web/style.css")" rel="stylesheet" />
+    <!-- responsive css -->
+    <link href="@Url.Content("~/Content/web/responsive.css")" rel="stylesheet" />
+    <link href="@Url.Content("~/Content/web/phone.css")" rel="stylesheet" />
+
+    <!-- modernizr js -->
+    <script src="@Url.Content("~/Content/web/Scripts/modernizr.js")"></script>
+    <script src="@Url.Content("~/Content/web/Scripts/js.cookie.min.js")"></script>
+    <script src="@Url.Content("~/Content/web/Scripts/InitCookie.js")"></script>
+
+    <style>
+        .fb_button {
+            clear: unset;
+            float: left;
+            border-radius: 3px;
+            padding: 3px 0px;
+            margin-bottom: 0;
+            font-weight: normal;
+            text-align: left;
+            vertical-align: middle;
+            touch-action: manipulation;
+            cursor: pointer;
+            border: 1px solid transparent;
+            white-space: nowrap;
+            font-size: 14px;
+            line-height: 1.42857;
+            border-radius: 4px;
+            display: block;
+            width: 100%;
+            background-color: #4267b2;
+            margin-bottom: 13px;
+            padding-left: 7px !important;
+        }
+
+        ._5h0s {
+            padding-left: 22px !important;
+        }
+
+        [ng\:cloak], [ng-cloak], [data-ng-cloak], [x-ng-cloak], .ng-cloak, .x-ng-cloak {
+            display: none !important;
+        }
+    </style>
+</head>
+<body style="background-image: url(/images/bgbody.jpg);">
+    <div class="wrapper homepage">
+        <header>
+            @await Html.PartialAsync("_header")
+        </header>
+        <div>
+            @RenderBody()
+        </div>
+        <footer class="">
+            @await Html.PartialAsync("_footer")
+        </footer>
+    </div>
+
+
+    <!-- Wrapper End -->
+    <!-- jquery 3.12.4 -->
+    <script src="@Url.Content("~/Content/web/Scripts/jquery-1.12.4.min.js")"></script>
+    <!-- mobile menu js  -->
+    <script src="@Url.Content("~/Content/web/Scripts/jquery.meanmenu.min.js")"></script>
+    <!-- scroll-up js -->
+    <script src="@Url.Content("~/Content/web/Scripts/jquery.scrollUp.js")"></script>
+    <!-- owl-carousel js -->
+    <script src="@Url.Content("~/Content/web/Scripts/owl.carousel.min.js")"></script>
+    <!-- slick js -->
+    <script src="@Url.Content("~/Content/web/Scripts/slick.min.js")"></script>
+    <!-- wow js -->
+    <script src="@Url.Content("~/Content/web/Scripts/wow.min.js")"></script>
+    <!-- price slider js -->
+    <script src="@Url.Content("~/Content/web/Scripts/jquery-ui.min.js")"></script>
+    <script src="@Url.Content("~/Content/web/Scripts/jquery.countdown.min.js")"></script>
+    <!-- nivo slider js -->
+    <script src="@Url.Content("~/Content/web/Scripts/jquery.nivo.slider.js")"></script>
+    <!-- fancybox js -->
+    <script src="@Url.Content("~/Content/web/Scripts/jquery.fancybox.min.js")"></script>
+    <!-- bootstrap -->
+    <script src="@Url.Content("~/Content/web/assets/node_modules/bootstrap/dist/js/bootstrap.min.js")"></script>
+    @* <script src="@Url.Content("~/Libraries/plugins/bootstrap/js/bootstrap.js")"></script>*@
+    <!-- popper -->
+    <script src="@Url.Content("~/Content/web/Scripts/popper.js")"></script>
+    <!-- plugins -->
+    <script src="@Url.Content("~/Content/web/Scripts/plugins.js")"></script>
+    <!-- main js -->
+    <script src="@Url.Content("~/Content/web/Scripts/main.js")"></script>
+
+    @*<script src="@Url.Content("~/Content/web/Scripts/script.js")"></script>*@
+    <script src="@Url.Content("~/Content/web/Scripts/jquery_cookie.js")"></script>
+    <script type="text/javascript">
+        var GridView;
+        function GridViewFunction() {
+            var GridView = setTimeout(function () {
+                $("#results-holder").removeClass("results-list-view");
+                $("#results-holder").addClass("results-grid-view");
+                $("#results-list-view").removeClass("active");
+                $("#results-grid-view").addClass("active");
+                $('body,html').animate({ scrollTop: "212" }, 750, 'easeOutExpo');
+            }, 800);
+        }
+        function GridViewStopFunction() {
+            clearTimeout(GridView);
+        }
+        var ListView;
+        function ListViewFunction() {
+            var ListView = setTimeout(function () {
+                $("#results-holder").removeClass("results-grid-view");
+                $("#results-holder").addClass("results-list-view");
+                $("#results-grid-view").removeClass("active");
+                $("#results-list-view").addClass("active");
+                $("#results-holder").find(".result-item").css("height", "auto");
+                $('body,html').animate({ scrollTop: "212" }, 750, 'easeOutExpo');
+            }, 800);
+        }
+        function ListViewStopFunction() {
+            clearTimeout(ListView);
+        }
+        $("#results-grid-view").on("click", function () {
+            GridViewFunction();
+            GridViewStopFunction();
+            return false;
+        });
+
+        $("#results-list-view").on("click", function () {
+            ListViewFunction();
+            ListViewStopFunction();
+            return false;
+        });
+
+        var app = angular.module("appWebDA", []);
+        app.controller("CartCtrl", ["$scope", "$rootScope", function ($scope, $rootScope) {
+            $scope.quantityDefault = 1;
+            $rootScope.Products = getListOrder();
+            /* add cart */
+            $scope.AddToCart = function (FoodCode, ModifieCode, Qty, Price, ImageUrl, Name) {
+                var _Order = {
+                    ItemId: FoodCode,
+                    ModifieCode: ModifieCode,
+                    Quantity: Qty,
+                    Price: Price,
+                    Name: Name,
+                    ImageUrl: ImageUrl.replace("~", ""),
+                    CreateDate: '@DateTime.Now',
+                };
+                CreateOrUpdateOrder(_Order);
+                $rootScope.Products = getListOrder();
+                $scope.setTotals($rootScope.Products);
+                //$('[id=AjaxifyModal]').removeClass("hidden");
+                $(window).scrollTop(0);
+            }
+
+            /* update qty of order by order id */
+            $scope.UpdateQtyOrder = function ($index) {
+                UpdateQuantity($rootScope.Products[$index].ItemId, $rootScope.Products[$index].Quantity);
+                var Orders = getListOrder();
+                $scope.setTotals(Orders);
+            }
+            /* count total bill of order */
+            $scope.setTotals = function (Orders) {
+                var _OrderTotal = 0;
+                angular.forEach(Orders, function (item, index) {
+                    _OrderTotal += item.Quantity * item.Price;
+                });
+                $rootScope.OrderTotal = _OrderTotal;
+            }
+
+            $scope.QtyAdjust = function ($index, type) {
+                if (type == 0) {
+                    $rootScope.Products[$index].Quantity -= 1;
+                    if (parseInt($rootScope.Products[$index].Quantity) < 1)
+                        $rootScope.Products[$index].Quantity = 1;
+                }
+                else {
+                    $rootScope.Products[$index].Quantity += 1;
+                }
+                UpdateQuantity($rootScope.Products[$index].ItemId, $rootScope.Products[$index].Quantity);
+                var Orders = getListOrder();
+                $scope.setTotals(Orders);
+            }
+
+            $scope.QtyAdjustNoOrder = function (type) {
+                if (type == 0) {
+
+                    $scope.Qty = $scope.Qty - 1;
+                    if (parseInt($scope.Qty) < 1)
+                        $scope.Qty = 1;
+                }
+                else {
+                    $scope.Qty = $scope.Qty + 1;
+                }
+            }
+
+            $scope.ngChangeQty = function () {
+                if (parseInt($scope.Qty) < 1)
+                    $scope.Qty = 1;
+            }
+
+            $scope.ngBlur = function () {
+                if ($scope.Qty.length == 0)
+                    $scope.Qty = 1;
+            }
+           
+            $scope.ngBlurModal = function ($index) {
+                if ($rootScope.Products[$index].Quantity.length == 0) {
+                    $rootScope.Products[$index].Quantity = 1;
+                    UpdateQuantity($rootScope.Products[$index].ItemId, $rootScope.Products[$index].Quantity);
+                    var Orders = getListOrder();
+                    $scope.setTotals(Orders);
+                }
+
+            }
+
+            $scope.RemoveItemOrder = function ($index) {
+                RemoveOrderByItemId($rootScope.Products[$index].ItemId);
+                var Orders = getListOrder();
+                $rootScope.Products = Orders;
+                $scope.setTotals(Orders);
+            }
+
+            $scope.getTotal = function () {
+                var total = 0;
+                if ($rootScope.Products != null) {
+                    for (var i = 0; i < $rootScope.Products.length; i++) {
+                        var product = $rootScope.Products[i];
+                        total += (product.Price * product.Quantity);
+                    }
+                }
+                return total;
+            }
+
+            $scope.getTotalQty = function () {
+                var total = 0;
+                if ($rootScope.Products != null) {
+                    for (var i = 0; i < $rootScope.Products.length; i++) {
+                        var product = $rootScope.Products[i];
+                        total += product.Quantity;
+                    }
+                }
+                return total;
+            }
+
+            $scope.getStatusOrder = function (){
+                var status = GetStatusCart();
+                return status
+            }
+        }]);
+
+        $(document).ready(function () {
+            getListOrder();
+        });
+    </script>
+    <script>
+        function UserLogin() {
+            var _email = $("#idusername").val();
+            var _password = $("#idpassword").val();
+            var model = { Email: _email, Password: _password }
+            if (_email != null && _email.length > 0 && _password != null && _password.length > 0) {
+                $.ajax({
+                    url: "@Url.Action("SignIn", "Login")",
+                    type: "GET",
+                    data: model,
+                    dataType: 'json',
+                    beforeSend: function () {
+                        //$('.se-pre-con').show();
+                    },
+                    success: function (data) {
+                        if (data.Success == false) {
+                            $('[id=idusernameeror]').show();
+                        }
+                    },
+                    complete: function () {
+                        //  $('.se-pre-con').hide();
+                    },
+                    error: function (jqXHR, textStatus, errorThrown) {
+                    }
+                });
+            }
+        }
+    </script>
+</body>
+</html>

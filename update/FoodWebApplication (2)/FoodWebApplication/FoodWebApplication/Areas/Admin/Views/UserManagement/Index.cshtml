@@ -1,0 +1,68 @@
+﻿@{
+    Layout = "~/Areas/Admin/Views/Shared/_LayoutPage.cshtml";
+}
+@model List<DTO.User.UserDTO>
+<div class="account-management">
+    @await Html.PartialAsync("_breadcrumb", new Dictionary<string, string> { { "A", "Homepage" }, { "B", "User management" } }, new ViewDataDictionary(ViewData) { { "mHref", Url.Action("New", "UserManagement", new { area = "Admin" }) }, { "mShowButton", "true" } })
+
+    <div class="row">
+        <div class="col-12">
+            <div class="card">
+                <div class="card-body">
+                    <div class="table-responsive m-t-40">
+                        <table id="config-table" class="table display table-bordered table-striped no-wrap">
+                            <thead>
+                                <tr>
+                                    <th>Name</th>
+                                    <th>E-mail</th>
+                                    <th>Phone</th>
+                                    <th>Status</th>
+                                    <th>Action</th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                @if (Model != null && Model.Any())
+                                {
+                                    foreach (var item in Model)
+                                    {
+                                        <tr>
+                                            <td>@item.FullName</td>
+                                            <td>@item.Email</td>
+                                            <td>@item.Phone</td>
+                                            <td>
+                                                @if (item.IsActive)
+                                                {
+                                                    <label class="btn btn-default btn-sm"><i class="fa fa-lg fa-toggle-on text-success"></i></label>
+                                                }
+                                                else
+                                                {
+                                                    <label class="btn btn-default btn-sm"><i class="fa fa-lg fa-toggle-off text-danger"></i></label>
+                                                }
+                                            </td>
+                                            <td>
+                                                <div class="btn-group btn-group-3 pull-right">
+                                                    <a href="@Url.Action("Edit","UserManagement", new { Id = item.Id })" class="btn btn-default btn-sm" data-toggle="tooltip" data-placement="bottom" title="Update">
+                                                        <i class="fas fa-fw fa-pencil-alt text-success"></i>
+                                                    </a>
+                                                    <a href="@Url.Action("Destroy", "UserManagement", new { Id = item.Id })" class="btn btn-default btn-sm" data-confirm="Do you want ?" data-toggle="tooltip" data-placement="bottom" title="Xoá thông tin tài khoản">
+                                                        <i class="fa fa-fw fa-trash text-danger"></i>
+                                                    </a>
+                                                </div>
+                                            </td>
+                                        </tr>
+                                    }
+                                }
+                            </tbody>
+                        </table>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<script>
+    $('#config-table').DataTable({
+        responsive: true
+    });
+</script>

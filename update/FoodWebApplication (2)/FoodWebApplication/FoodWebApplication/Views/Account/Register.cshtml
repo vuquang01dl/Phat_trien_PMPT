@@ -1,0 +1,65 @@
+﻿@using Microsoft.AspNetCore.Http
+@inject IHttpContextAccessor HttpContextAccessor
+@model DTO.User.RegisterDTO
+@{
+    var userInfo = HttpContextAccessor.HttpContext.Session.GetString("UserAdmin");
+}
+<!--==================== page content ====================-->
+<div class="page-section">
+    <!--=====  End of google map container  ======-->
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-2 col-md-12">
+            </div>
+            <div class="col-lg-8 col-md-12" style="margin-top: 30px; ">
+                <!--=======  contact form content  =======-->
+                <div class="contact-form-content">
+                    <fieldset>
+                        <legend>Đăng ký tài khoản</legend>
+                        <div class="contact-form">
+                            @using (Html.BeginForm("Register", "Account", FormMethod.Post, new { @id = "contact-form", @class = "form-horizontal", @enctype = "multipart/form-data", @style = "Width: 100%" }))
+                            {
+                                <div class="form-group">
+                                    <label>Họ<span class="required">*</span></label>
+                                    <input type="text" name="FirstName" id="FirstName" class="form-control" required>
+                                </div>
+                                <div class="form-group">
+                                    <label>Tên<span class="required">*</span></label>
+                                    <input type="text" name="LastName" id="LastName" class="form-control" required>
+                                </div>
+                                <div class="form-group">
+                                    <label>Email<span class="required">*</span></label>
+                                    <input type="email" name="Email" id="Email" class="form-control" required>
+                                </div>
+                                <div class="form-group">
+                                    <label>Mật khẩu <span class="required">*</span></label>
+                                    <input type="text" name="Password" id="Password" class="form-control" required>
+                                </div>
+                                <div class="form-group">
+                                    <label>Nhập lại mật khẩu <span class="required">*</span></label>
+                                    <input type="text" name="ConfirmPassword" id="ConfirmPassword" class="form-control" required>
+                                </div>
+                                <div class="form-group">
+                                    <label>Số điện thoại<span class="required">*</span></label>
+                                    <input type="text" name="Phone" id="Phone" class="form-control" required>
+                                </div>
+                                <div class="form-group">
+                                    <label>Địa chỉ<span class="required">*</span></label>
+                                    <input type="text" name="Address" id="Address" class="form-control" required>
+                                    </div>
+                                <div class="form-group mb-0">
+                                    <button type="submit" value="Đăng ký id="submit" class="theme-button contact-button form-control btn btn-success" name="submit">Đăng ký</button>
+                                </div>
+                            }
+                        </div>
+                    </fieldset>
+                    <p class="form-messege pt-10 pb-10 mt-10 mb-10"></p>
+                </div>
+                <!--=======  End of contact form content =======-->
+            </div>
+            <div class="col-lg-2 col-md-12">
+            </div>
+        </div>
+    </div>
+</div>
+<!--=========

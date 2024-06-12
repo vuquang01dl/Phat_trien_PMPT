@@ -1,0 +1,12 @@
+﻿@{
+    Layout = "~/Areas/Admin/Views/Shared/_LayoutPage.cshtml";
+}
+@model DTO.Food.FoodDTO
+<div class="menu-management">
+    @await Html.PartialAsync("_breadcrumb", new Dictionary<string, string> { { "A", "Homepage" }, { "B", "Food magement" }, { "C", "Cập Nhật món ăn" } }, new ViewDataDictionary(ViewData) { { "mHref", Url.Action("Index", "FoodManagement", new { area = "Admin" }) }, { "mShowButton", "true" } })
+
+    @using (Html.BeginForm("Edit", "FoodManagement", FormMethod.Post, new { @id = "form-create", @class = "form-horizontal needs-validation", @enctype = "multipart/form-data" }))
+    {
+        @await Html.PartialAsync("_Form", Model)
+    }
+</div>

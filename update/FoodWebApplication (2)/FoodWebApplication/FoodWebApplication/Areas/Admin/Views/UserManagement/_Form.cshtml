@@ -1,0 +1,105 @@
+﻿@{
+    Layout = null;
+}
+@model DTO.User.UserDTO
+<div class="row form-horizontal form-label-left" style="margin-bottom:15px;">
+    <div class="col-12">
+        <div class="card">
+            <div class="card-body">
+                <fieldset style="width: 100%">
+                    <legend>Information </legend>
+                    <div class="first-step-group-criteria" style="padding-top:10px; margin-bottom: 10px;">
+                        <div class="form-row">
+                            <div class="col-md-6 mb-3">
+                                <label for="FullName">Full Name</label>
+                                @Html.HiddenFor(model => model.Id)
+                                @Html.TextBoxFor(model => model.FullName, new { @class = "form-control", @id = "FullName", placeholder = "Full Name", @autocomplete = "off" })
+                                @Html.ValidationMessageFor(model => model.FullName, null, new { @class = "label label-danger" })
+                            </div>
+                            <div class="col-md-6 mb-3">
+                                <label for="phone">User name</label>
+                                @Html.TextBoxFor(model => model.UserName, new { @class = "form-control", @id = "phone", placeholder = "User name", @autocomplete = "off" })
+                                @Html.ValidationMessageFor(model => model.UserName, null, new { @class = "label label-danger" })
+                            </div>
+                        </div>
+
+                        <div class="form-row">
+                            <div class="col-md-6 mb-3">
+                                <label for="email">E-Mail</label>
+                                @Html.TextBoxFor(model => model.Email, new { @class = "form-control", @id = "email", placeholder = "E-mail", @autocomplete = "off" })
+                                @Html.ValidationMessageFor(model => model.Email, null, new { @class = "label label-danger" })
+                            </div>
+                            <div class="col-md-6 mb-3">
+                                <label for="phone">Phone Number</label>
+                                @Html.TextBoxFor(model => model.Phone, new { @class = "form-control", @id = "phone", placeholder = "Phone Number", @autocomplete = "off" })
+                                @Html.ValidationMessageFor(model => model.Phone, null, new { @class = "label label-danger" })
+                            </div>
+                        </div>
+
+                        <div class="form-row">
+                            <div class="col-md-6 mb-3">
+                                <label for="password">Password</label>
+                                @Html.PasswordFor(model => model.Password, new { @class = "form-control", @id = "password", placeholder = "Password", @autocomplete = "off" })
+                                @Html.ValidationMessageFor(model => model.Password, null, new { @class = "label label-danger" })
+                            </div>
+                            <div class="col-md-6 mb-3">
+                                <label for="confỉmpassword">Confirm Password</label>
+                                @Html.PasswordFor(model => model.ConfirmPassword, new { @class = "form-control", @id = "ConfirmPassword", placeholder = "Confirm Password", @autocomplete = "off" })
+                                @Html.ValidationMessageFor(model => model.ConfirmPassword, null, new { @class = "label label-danger" })
+                            </div>
+                        </div>
+
+                        <div class="form-row">
+                            <div class="col-md-6 mb-3">
+                                <label for="address">Address</label>
+                                @Html.TextBoxFor(model => model.Address, new { @class = "form-control", @id = "address", placeholder = "Address", @autocomplete = "off" })
+                                @Html.ValidationMessageFor(model => model.Address, null, new { @class = "label label-danger" })
+                            </div>
+                            <div class="col-md-6 mb-3">
+                                <label for="birthday">BirthDate</label>
+                                <div class='input-group date datetimepicker3' data-date-format="dd-mm-yyyy">
+                                    @Html.TextBoxFor(model => model.BirthDay, "{0:dd/MM/yyyy}", new { @class = "form-control input-group-addon", placeholder = "BirthDate", @autocomplete = "off" })
+
+                                    <div class="input-group-append input-group-addon">
+                                        <span class="input-group-text"><i class="fas fa-calendar-alt"></i></span>
+                                    </div>
+                                </div>
+                                @Html.ValidationMessageFor(model => model.BirthDay, null, new { @class = "label label-danger" })
+                            </div>
+                        </div>
+                        <div class="form-row">
+                            <div class="col-md-6 mb-3">
+                                <label></label>
+                                <div class="custom-control custom-checkbox">
+                                    @Html.CheckBoxFor(model => model.IsActive, new { @class = "icheck custom-control-input", @id = "active" })
+                                    <label class="custom-control-label" for="active">status</label>
+                                </div>
+                            </div>
+                            <div class="col-md-6 mb-3">
+                                <label>Role</label>
+                                @Html.DropDownListFor(model => model.Role,
+                                new SelectList(Model.ListRoles, "Value", "Text", Model.Role), null,
+                                new
+                                {
+                                @class = "form-control cc-select2 custom-select",
+                                @style = "width:100%;",
+                                })
+                            </div>
+                        </div>
+
+                    </div>
+                </fieldset>
+                <div class="text-right">
+                    <a href="@Url.Action("Index","AccountMng")" class="btn btn-default" type="submit">Cancel</a>
+                    <button class="btn btn-primary" type="submit">Save</button>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<script type="text/javascript">
+    $(document).ready(function () {
+        $('[id=password]').val('@Model.Password')
+        $('[id=confirmpassword]').val('@Model.ConfirmPassword')
+    })
+</script>

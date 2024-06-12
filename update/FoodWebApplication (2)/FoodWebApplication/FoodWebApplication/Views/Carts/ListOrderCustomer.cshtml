@@ -1,0 +1,53 @@
+﻿
+@model List<DTO.Order.OrderDTO>
+<!--==================== page content ====================-->
+<div class="page-section">
+    <!--=====  End of google map container  ======-->
+    <div class="container">
+        <div class="row">
+            @if (Model != null && Model.Any())
+            {
+                var innDex = 1;
+                <table class="table table-border">
+                    <tr>
+                        <th>STT</th>
+                        <th>Mã order</th>
+                        <th>Ngày order</th>
+                        <th>Giá</th>
+                        <th>Trạng thái</th>
+                    </tr>
+                    @foreach (var item in Model)
+                    {
+                        <tr>
+                            <td>@innDex</td>
+                            <td>@item.Code</td>
+                            <td>@item.CreatedAt.ToString("dd-MM-yyyy hh:mm")</td>
+                            <td>@item.Price</td>
+                            <td>
+                                @if (item.Status == 0)
+                                {
+                                    <span>Đang chờ duyệt</span>
+                                } 
+                                else if (item.Status == 1)
+                                {
+                                    <span>Đã duyệt</span>
+                                }
+                                 else if (item.Status == 2)
+                                {
+                                    <span>Đã bị hủy</span>
+                                }
+                            </td>
+                        </tr>
+                        innDex = innDex + 1;
+                    }
+                </table>               
+            }
+            <table>
+
+            </table>
+            <div class="col-lg-2 col-md-12">
+            </div>
+        </div>
+    </div>
+</div>
+<!--=========
